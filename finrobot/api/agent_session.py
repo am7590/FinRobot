@@ -45,6 +45,7 @@ class AgentSession:
             # Preserve original receive methods
             self._original_assistant_receive = self.agent.assistant.receive
             self._original_user_receive = self.agent.user_proxy.receive
+            self._original_get_human_input = self.agent.user_proxy.get_human_input
         else:
             raise ValueError(f"Unknown agent type: {agent_type}")
         
@@ -59,7 +60,7 @@ class AgentSession:
         if hasattr(self.agent, "user_proxy"):
             self.agent.user_proxy.receive = self._wrap_receive("user", self._original_user_receive)
             self.agent.user_proxy.get_human_input = self._handle_input
-            
+
     def _wrap_receive(self, role: str, original_receive):
         """Wrap the original receive method to capture messages"""
         def wrapped_receive(message: str, sender: Any, request_reply: bool = False, silent: bool = False):
@@ -68,14 +69,14 @@ class AgentSession:
                 msg_preview = str(message)[:100] if isinstance(message, str) else str(message)
                 logger.info(f"Received {role} message: {msg_preview}...")
                 
-                # Queue message for websocket
+                # Queue message for websocket with explicit request_reply flag
                 if message and str(message).strip():
                     msg = Message(
                         role=role,
                         content=str(message),
                         timestamp=time.time(),
                         metadata={
-                            "request_reply": request_reply,
+                            "request_reply": request_reply or role == "system",  # Force request_reply for system messages
                             "tool_call": "tool" in str(message).lower()
                         }
                     )
@@ -94,20 +95,24 @@ class AgentSession:
         """Handle input requests from the agent"""
         logger.info(f"Handling input request: {prompt[:100]}...")
         
-        # Fix file paths in the prompt if needed
-        if "save_path" in prompt:
-            prompt = prompt.replace('save_path": "', f'save_path": "{self.report_dir}/')
+        # Queue system message requesting input with explicit request_reply flag
+        msg = Message(
+            role="system", 
+            content=prompt,
+            timestamp=time.time(),
+            metadata={
+                "request_reply": True,  # This is critical
+                "prompt": True  # Add an extra flag to be sure
+            }
+        )
+        self.messages.append(msg)
+        self.output_queue.put(msg)
+        logger.info("Waiting for user input...")
         
-        # Only queue system messages for actual input requests
-        if "Provide feedback" in prompt or "TERMINATE" in prompt:
-            msg = Message(
-                role="system",
-                content=prompt,
-                timestamp=time.time()
-            )
-            self.messages.append(msg)
-            self.output_queue.put(msg)
-        return self.input_queue.get()
+        # Wait for input from client
+        response = self.input_queue.get()
+        logger.info(f"Received user input: {response[:100] if response else 'None'}")
+        return response if response else ""
 
     def send_message(self, content: str) -> Message:
         """Send a message to the agent"""
