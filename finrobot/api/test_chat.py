@@ -77,6 +77,10 @@ async def test_agent(agent_type: str, agent_config: Dict, initial_message: str):
                 elif message['role'] == 'user':
                     print("\nUser:")
                     print(message['content'])
+
+                else:
+                    print("\To User:")
+                    print(message['content'])
                 
                 # Show any metadata (like tool calls)
                 if message.get('metadata'):

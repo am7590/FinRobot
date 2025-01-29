@@ -16,7 +16,8 @@ from abc import ABC, abstractmethod
 from ..toolkits import register_toolkits
 from ..functional.rag import get_rag_function
 from .utils import *
-from .prompts import leader_system_message, role_system_message
+from .prompts import leader_system_message, role_system_message, EXPERT_INVESTOR_PROMPT
+from queue import Queue
 
 
 class FinRobot(AssistantAgent):
@@ -208,56 +209,39 @@ class SingleAssistantRAG(SingleAssistant):
         self.rag_assistant.reset()
 
 
-class SingleAssistantShadow(SingleAssistant):
-
-    def __init__(
-        self,
-        agent_config: str | Dict[str, Any],
-        llm_config: Dict[str, Any] = {},
-        is_termination_msg=lambda x: x.get("content", "")
-        and x.get("content", "").endswith("TERMINATE"),
-        human_input_mode="NEVER",
-        max_consecutive_auto_reply=10,
-        code_execution_config={
-            "work_dir": "coding",
-            "use_docker": False,
-        },
-        **kwargs,
-    ):
-        super().__init__(
-            agent_config,
+class SingleAssistantShadow:
+    def __init__(self, agent_config: str, llm_config: Dict, report_dir: str = None):
+        self.report_dir = report_dir or "report"
+        
+        # Initialize assistant
+        self.assistant = AssistantAgent(
+            name="Expert_Investor",
             llm_config=llm_config,
-            is_termination_msg=is_termination_msg,
-            human_input_mode=human_input_mode,
-            max_consecutive_auto_reply=max_consecutive_auto_reply,
-            code_execution_config=code_execution_config,
-            **kwargs,
+            system_message=EXPERT_INVESTOR_PROMPT
         )
-        if isinstance(agent_config, dict):
-            agent_config_shadow = agent_config.copy()
-            agent_config_shadow["name"] = agent_config["name"] + "_Shadow"
-            agent_config_shadow["toolkits"] = []
-        else:
-            agent_config_shadow = agent_config + "_Shadow"
+        
+        # Initialize user proxy with tools from toolkits
+        tools = register_toolkits([], self.assistant, None)
+        self.user_proxy = UserProxyAgent(
+            name="User_Proxy",
+            human_input_mode="ALWAYS",  # Force ALWAYS mode
+            max_consecutive_auto_reply=0,  # Prevent auto-replies
+            code_execution_config={
+                "work_dir": self.report_dir,
+                "use_docker": False,
+                "last_n_messages": 3,
+            },
+            function_map=tools,
+            llm_config=False,  # Disable LLM config for user proxy
+            system_message="You are a user proxy. Always ask for human input."
+        )
 
-        self.assistant_shadow = FinRobot(
-            agent_config,
-            toolkits=[],
-            llm_config=llm_config,
-            proxy=None,
-        )
-        self.assistant.register_nested_chats(
-            [
-                {
-                    "sender": self.assistant,
-                    "recipient": self.assistant_shadow,
-                    "message": instruction_message,
-                    "summary_method": "last_msg",
-                    "max_turns": 2,
-                    "silent": True,  # mute the chat summary
-                }
-            ],
-            trigger=instruction_trigger,
+    def chat(self, message: str, max_turns: int = 10):
+        """Start a chat between assistant and user proxy"""
+        self.user_proxy.initiate_chat(
+            self.assistant,
+            message=message,
+            max_turns=max_turns
         )
 
 
