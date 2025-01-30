@@ -6,6 +6,7 @@ from .agent_session import AgentSession
 import logging
 import uvicorn
 from finrobot.utils import register_keys_from_json
+import os
 
 # Configure basic logging
 logging.basicConfig(
@@ -16,6 +17,9 @@ logger = logging.getLogger(__name__)
 
 # Global sessions store
 sessions: Dict[str, AgentSession] = {}
+
+work_dir = "../report"
+os.makedirs(work_dir, exist_ok=True)
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -57,9 +61,12 @@ async def websocket_endpoint(websocket: WebSocket):
             # Handle configuration message
             if data.get("type") == "config":
                 logger.info("Creating new session...")
+                # Match test.py's initialization
                 agent_config = {
                     "agent_config": data["agent_config"]["agent_config"],
-                    "llm_config": get_default_llm_config()
+                    "llm_config": get_default_llm_config(),
+                    "max_consecutive_auto_reply": None,
+                    "human_input_mode": "ALWAYS"
                 }
                 session = AgentSession(
                     agent_type=data["agent_type"],

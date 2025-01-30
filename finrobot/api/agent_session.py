@@ -63,26 +63,22 @@ class AgentSession:
 
     def _wrap_receive(self, role: str, original_receive):
         """Wrap the original receive method to capture messages"""
-        def wrapped_receive(message: str, sender: Any, request_reply: bool = False, silent: bool = False):
+        def wrapped_receive(message: Any, sender: Any, request_reply: bool = False, silent: bool = False):
             try:
-                # Safely log message
-                msg_preview = str(message)[:100] if isinstance(message, str) else str(message)
-                logger.info(f"Received {role} message: {msg_preview}...")
-                
-                # Queue message for websocket with explicit request_reply flag
-                if message and str(message).strip():
-                    msg = Message(
-                        role=role,
-                        content=str(message),
-                        timestamp=time.time(),
-                        metadata={
-                            "request_reply": request_reply or role == "system",  # Force request_reply for system messages
-                            "tool_call": "tool" in str(message).lower()
-                        }
-                    )
-                    self.messages.append(msg)
-                    self.output_queue.put(msg)
-                    logger.info(f"Queued message from {role}")
+                # Queue ALL messages, regardless of type
+                msg = Message(
+                    role=role,
+                    content=str(message) if isinstance(message, str) else None,
+                    timestamp=time.time(),
+                    metadata={
+                        "request_reply": request_reply,
+                        "tool_call": isinstance(message, dict) and (message.get("function_call") or message.get("tool_calls")),
+                        "raw_message": message  # Preserve original message structure
+                    }
+                )
+                self.messages.append(msg)
+                self.output_queue.put(msg)
+                logger.info(f"Queued message from {role}")
                 
                 # Call original receive method
                 return original_receive(message, sender, request_reply, silent)

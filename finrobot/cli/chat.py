@@ -62,62 +62,42 @@ async def chat_session(uri: str, agent_type: str, agent_config: Dict):
                             
                             # Handle different message types
                             if message['role'] == 'assistant':
-                                content = message.get('content', '')
-                                if isinstance(content, dict) and content.get('tool_calls'):
+                                if isinstance(message.get('content'), dict):
                                     # Show tool calls
-                                    tool_call = content['tool_calls'][0]
+                                    if message['content'].get('tool_calls'):
+                                        tool_call = message['content']['tool_calls'][0]
+                                        console.print(Panel(
+                                            f"Tool: {tool_call['function']['name']}\nArguments: {tool_call['function']['arguments']}",
+                                            title="[bold yellow]Tool Call[/]",
+                                            border_style="yellow"
+                                        ))
+                                else:
+                                    # Show normal assistant messages
                                     console.print(Panel(
-                                        f"Tool: {tool_call['function']['name']}\nArguments: {tool_call['function']['arguments']}",
-                                        title="[bold yellow]Tool Call[/]",
-                                        border_style="yellow"
-                                    ))
-                                elif str(content).strip():
-                                    # Show regular message
-                                    console.print(Panel(
-                                        Markdown(str(content)),
+                                        str(message['content']),
                                         title="[bold blue]Assistant[/]",
                                         border_style="blue"
                                     ))
-                            
-                            elif message['role'] == 'user':
-                                # Show user messages
-                                content = str(message.get('content', ''))
-                                if content.strip():
-                                    console.print(Panel(
-                                        Markdown(content),
-                                        title="[bold green]User[/]",
-                                        border_style="green"
-                                    ))
-                            
-                            elif message['role'] == 'system' and message.get('metadata', {}).get('request_reply'):
-                                # Handle input request - show prompt and get input
-                                console.print("\n[bold yellow]Input requested:[/]")
-                                console.print(Panel(
-                                    message.get('content', ''),
-                                    title="[bold yellow]System Request[/]",
-                                    border_style="yellow"
-                                ))
-                                feedback = Prompt.ask("[bold yellow]Your response[/]")
-                                
-                                # Send feedback
-                                await websocket.send(json.dumps({
-                                    "type": "message",
-                                    "content": feedback
-                                }))
-                                
-                                # Exit if requested
-                                if feedback.lower() in ['exit', 'quit']:
-                                    return
-                                    
-                                # Continue receiving messages
-                                continue
-                            
+
                             elif message['role'] == 'system':
-                                # Show other system messages
-                                content = str(message.get('content', ''))
-                                if content.strip():
+                                # Handle system messages that need input
+                                if message.get('metadata', {}).get('request_reply'):
                                     console.print(Panel(
-                                        content,
+                                        str(message['content']),
+                                        title="[bold yellow]Input Required[/]",
+                                        border_style="yellow"
+                                    ))
+                                    feedback = Prompt.ask("[bold yellow]Your response[/]")
+                                    await websocket.send(json.dumps({
+                                        "type": "message",
+                                        "content": feedback
+                                    }))
+                                    if feedback.lower() in ['exit', 'quit']:
+                                        return
+                                else:
+                                    # Show other system messages
+                                    console.print(Panel(
+                                        str(message['content']),
                                         title="[bold red]System[/]",
                                         border_style="red"
                                     ))
@@ -127,9 +107,7 @@ async def chat_session(uri: str, agent_type: str, agent_config: Dict):
                                 console.print("\n[dim]" + "-" * 80 + "[/]\n")
                             
                             # Break if this was the last message in the sequence
-                            if (message['role'] == 'assistant' and 
-                                not message.get('metadata', {}).get('request_reply') and
-                                not isinstance(message.get('content'), dict)):
+                            if not message.get('metadata', {}).get('request_reply'):
                                 break
                                 
                         except websockets.exceptions.ConnectionClosed:
