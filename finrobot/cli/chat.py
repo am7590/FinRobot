@@ -102,10 +102,6 @@ async def chat_session(uri: str, agent_type: str, agent_config: Dict):
                                         border_style="red"
                                     ))
                             
-                            # Show conversation markers
-                            if message.get('metadata', {}).get('conversation_marker'):
-                                console.print("\n[dim]" + "-" * 80 + "[/]\n")
-                            
                             # Break if this was the last message in the sequence
                             if not message.get('metadata', {}).get('request_reply'):
                                 break
