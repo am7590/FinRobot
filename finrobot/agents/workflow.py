@@ -210,31 +210,32 @@ class SingleAssistantRAG(SingleAssistant):
 
 
 class SingleAssistantShadow:
-    def __init__(self, agent_config: str, llm_config: Dict, report_dir: str = None):
+    def __init__(self, agent_config: str, llm_config: Dict, max_consecutive_auto_reply: int = None, 
+                 human_input_mode: str = "ALWAYS", report_dir: str = None):
         self.report_dir = report_dir or "report"
         
-        # Initialize assistant
-        self.assistant = AssistantAgent(
-            name="Expert_Investor",
-            llm_config=llm_config,
-            system_message=EXPERT_INVESTOR_PROMPT
+        # Initialize assistant using FinRobot pattern
+        self.assistant = FinRobot(
+            agent_config=agent_config,
+            llm_config=llm_config
         )
         
-        # Initialize user proxy with tools from toolkits
-        tools = register_toolkits([], self.assistant, None)
+        # Create user proxy
         self.user_proxy = UserProxyAgent(
             name="User_Proxy",
-            human_input_mode="ALWAYS",  # Force ALWAYS mode
-            max_consecutive_auto_reply=0,  # Prevent auto-replies
+            human_input_mode=human_input_mode,
+            max_consecutive_auto_reply=max_consecutive_auto_reply,
             code_execution_config={
                 "work_dir": self.report_dir,
                 "use_docker": False,
                 "last_n_messages": 3,
             },
-            function_map=tools,
-            llm_config=False,  # Disable LLM config for user proxy
+            llm_config=False,
             system_message="You are a user proxy. Always ask for human input."
         )
+        
+        # Register proxy with assistant
+        self.assistant.register_proxy(self.user_proxy)
 
     def chat(self, message: str, max_turns: int = 10):
         """Start a chat between assistant and user proxy"""
