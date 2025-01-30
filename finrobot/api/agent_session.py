@@ -7,6 +7,7 @@ import uuid
 import logging
 import asyncio
 import os
+import json
 
 logger = logging.getLogger(__name__)
 
@@ -65,20 +66,38 @@ class AgentSession:
         """Wrap the original receive method to capture messages"""
         def wrapped_receive(message: Any, sender: Any, request_reply: bool = False, silent: bool = False):
             try:
-                # Queue ALL messages, regardless of type
+                # Determine if this is a tool call
+                is_tool_call = isinstance(message, dict) and (
+                    message.get("function_call") or 
+                    message.get("tool_calls") or
+                    message.get("suggested_tool_call")
+                )
+                
+                # Handle message content properly
+                content = None
+                if isinstance(message, str):
+                    content = message
+                elif isinstance(message, dict):
+                    content = message.get("content")
+                    if not content and is_tool_call:
+                        content = json.dumps(message, indent=2)
+                
+                # Create message with metadata
                 msg = Message(
                     role=role,
-                    content=str(message) if isinstance(message, str) else None,
+                    content=content,
                     timestamp=time.time(),
                     metadata={
+                        "tool_call": is_tool_call,
                         "request_reply": request_reply,
-                        "tool_call": isinstance(message, dict) and (message.get("function_call") or message.get("tool_calls")),
                         "raw_message": message  # Preserve original message structure
                     }
                 )
+                
+                # Queue the message
                 self.messages.append(msg)
                 self.output_queue.put(msg)
-                logger.info(f"Queued message from {role}")
+                logger.info(f"Queued message from {role}: {content[:100]}...")
                 
                 # Call original receive method
                 return original_receive(message, sender, request_reply, silent)
@@ -142,3 +161,51 @@ class AgentSession:
     def get_history(self) -> List[Message]:
         """Get chat history"""
         return self.messages 
+
+    async def send_message_and_get_response(self, content: str, timeout: float = None) -> Optional[Message]:
+        """Send a message and wait for the response in one step"""
+        self.send_message(content)
+        
+        # Wait for response
+        try:
+            start_time = time.time()
+            while True:
+                if timeout and (time.time() - start_time) > timeout:
+                    return None
+                    
+                try:
+                    response = self.output_queue.get(timeout=1 if timeout is None else min(1, timeout/2))
+                    
+                    # Return immediately if it's a tool call
+                    if response.metadata and response.metadata.get("tool_call"):
+                        return response
+                        
+                    # For regular messages, ensure it's not an echo
+                    if response.content != content:
+                        return response
+                        
+                except Empty:
+                    continue
+                    
+        except Exception as e:
+            logger.error(f"Error getting response: {str(e)}")
+            return None 
+
+    async def get_next_response(self, timeout: float = None) -> Optional[Message]:
+        """Get the next response from the output queue"""
+        try:
+            start_time = time.time()
+            while True:
+                if timeout and (time.time() - start_time) > timeout:
+                    return None
+                    
+                try:
+                    response = self.output_queue.get(timeout=1 if timeout is None else min(1, timeout/2))
+                    logger.debug(f"Got response from queue: {response.role} - {response.content[:100]}...")
+                    return response
+                except Empty:
+                    continue
+                    
+        except Exception as e:
+            logger.error(f"Error getting response: {str(e)}")
+            return None 
