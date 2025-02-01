@@ -41,11 +41,12 @@ def get_default_llm_config():
             "model": ["gpt-4o-mini"],
         },
     )
+    
     logger.debug(f"Loaded LLM config: {json.dumps(config_list, indent=2)}")
     return {
         "config_list": config_list,
         "timeout": 120,
-        "temperature": 0.5,
+        "temperature": 0.5
     }
 
 class ChatRequest(BaseModel):
@@ -72,8 +73,8 @@ async def chat(request: ChatRequest):
             agent_config = {
                 "agent_config": "Expert_Investor",
                 "llm_config": get_default_llm_config(),
-                "max_consecutive_auto_reply": None,
-                "human_input_mode": "ALWAYS"
+                "max_consecutive_auto_reply": 0,  # Prevent auto-replies
+                "human_input_mode": "TERMINATE"
             }
             session = AgentSession(
                 agent_type="SingleAssistantShadow",
@@ -82,45 +83,60 @@ async def chat(request: ChatRequest):
             sessions[session.session_id] = session
             logger.info(f"Created new session: {session.session_id}")
 
+        # Handle auto-reply (empty message or just whitespace)
+        is_auto_reply = not request.message or request.message.strip() == ""
+        message_to_send = "auto reply" if is_auto_reply else request.message
+
         # Send message and get response
         logger.info(f"Processing message in session {session.session_id}")
-        session.send_message(request.message)
         
-        # Wait for initial response
-        response = await session.get_next_response(timeout=30)
+        # Wait for response with timeout
+        response = await session.send_message_and_get_response(message_to_send, timeout=30)
         
         if not response:
             return ChatResponse(
                 session_id=session.session_id,
                 error="No response received in time"
             )
+
+        # Handle all response types
+        response_data = {
+            "session_id": session.session_id,
+            "response": None,
+            "tool_call": None,
+            "error": None
+        }
+
+        # Handle different response types
+        if isinstance(response, str):
+            # Check if this is a tool response indicating interruption
+            if response == "USER INTERRUPTED":
+                response_data["error"] = "Operation interrupted. Please provide a new command."
+            else:
+                response_data["response"] = response
+        elif isinstance(response, dict):
+            # For tool calls or other structured responses
+            response_data["tool_call"] = response
             
-        # Skip user messages
-        while response and response.role == "user":
-            response = await session.get_next_response(timeout=30)
+            # Don't auto-reply if there's a pending tool call
+            if is_auto_reply:
+                response_data["error"] = "Please provide feedback for the tool call before continuing."
+                response_data["tool_call"] = None
+
+        # Simple rate limit check
+        rate_limit_strings = ['429', 'rate limit', 'too many requests']
+        response_str = str(response).lower()
+        if any(s in response_str for s in rate_limit_strings):
+            response_data["error"] = "Rate limit exceeded. Please try again in a few minutes."
             
-        if not response:
-            return ChatResponse(
-                session_id=session.session_id,
-                error="No assistant response received"
-            )
-            
-        # Handle tool calls
-        if response.metadata and response.metadata.get("tool_call"):
-            return ChatResponse(
-                session_id=session.session_id,
-                tool_call=response.metadata.get("raw_message")
-            )
-            
-        # Handle normal responses
-        return ChatResponse(
-            session_id=session.session_id,
-            response=response.content
-        )
+        return ChatResponse(**response_data)
 
     except Exception as e:
         logger.error(f"Error processing chat request: {str(e)}")
-        raise HTTPException(status_code=500, detail=str(e))
+        return ChatResponse(
+            session_id=request.session_id if request.session_id else str(uuid4()),
+            error=str(e)
+        )
 
 @app.delete("/session/{session_id}")
 async def end_session(session_id: str):
