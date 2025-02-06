@@ -28,11 +28,27 @@ def get_current_date():
     return date.today().strftime("%Y-%m-%d")
 
 
-def register_keys_from_json(file_path):
-    with open(file_path, "r") as f:
-        keys = json.load(f)
-    for key, value in keys.items():
-        os.environ[key] = value
+def register_keys_from_json(config_file_path: str) -> None:
+    """
+    Load API keys from a JSON config file into environment variables.
+    
+    Args:
+        config_file_path (str): Path to the JSON config file containing API keys
+    """
+    try:
+        with open(config_file_path, 'r') as f:
+            config = json.load(f)
+            
+        for key, value in config.items():
+            os.environ[key] = value
+            
+        print("API keys loaded successfully into environment variables.")
+    except FileNotFoundError:
+        print(f"Config file not found at: {config_file_path}")
+    except json.JSONDecodeError:
+        print(f"Error parsing JSON from config file: {config_file_path}")
+    except Exception as e:
+        print(f"Unexpected error loading API keys: {str(e)}")
 
 
 def decorate_all_methods(decorator):
