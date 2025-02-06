@@ -78,19 +78,29 @@ class StreamlitAssistant:
                             for tool_call in tool_calls:
                                 if 'arguments' in tool_call.get('function', {}):
                                     try:
+                                        logger.debug("Raw function arguments: %s", tool_call['function']['arguments'])
                                         args = json.loads(tool_call['function']['arguments'])
+                                        logger.debug("Parsed arguments: %s", args)
+                                        
                                         if 'save_path' in args:
+                                            if not args['save_path']:
+                                                logger.error("Empty save_path detected!")
+                                                continue
+                                                
                                             # Create absolute path using work_dir
-                                            abs_path = os.path.abspath(os.path.join(self.work_dir, args['save_path']))
+                                            abs_path = os.path.join(self.work_dir, args['save_path'])
+                                            logger.debug("Work directory: %s", self.work_dir)
                                             logger.debug("Converting save_path to absolute path: %s", abs_path)
                                             
                                             # Create parent directory if it doesn't exist
-                                            os.makedirs(os.path.dirname(abs_path), exist_ok=True)
-                                            logger.debug("Created parent directory: %s", os.path.dirname(abs_path))
+                                            parent_dir = os.path.dirname(abs_path)
+                                            logger.debug("Creating parent directory: %s", parent_dir)
+                                            os.makedirs(parent_dir, exist_ok=True)
                                             
                                             # Update the arguments with absolute path
                                             args['save_path'] = abs_path
                                             tool_call['function']['arguments'] = json.dumps(args)
+                                            logger.debug("Updated tool call arguments: %s", tool_call['function']['arguments'])
                                     except json.JSONDecodeError as e:
                                         logger.error("Failed to parse tool call arguments: %s", e)
                                         continue
@@ -225,7 +235,7 @@ def display_message(message: Dict[str, Any]):
 
 def main():
     st.set_page_config(
-        page_title="FinRobot Chat",
+        page_title="FinRobot",
         page_icon="💰",
         layout="wide"
     )
@@ -254,15 +264,14 @@ def main():
             chat_thread = st.session_state.assistant.chat(prompt)
             
             # Process messages from queue
-            with st.spinner("FinRobot is thinking..."):
-                while chat_thread.is_alive() or not st.session_state.assistant.message_queue.empty():
-                    try:
-                        msg = st.session_state.assistant.message_queue.get_nowait()
-                        logger.info("Received message: %s", msg)
-                        st.session_state.messages.append(msg)
-                        display_message(msg)
-                    except queue.Empty:
-                        continue
+            while chat_thread.is_alive() or not st.session_state.assistant.message_queue.empty():
+                try:
+                    msg = st.session_state.assistant.message_queue.get_nowait()
+                    logger.info("Received message: %s", msg)
+                    st.session_state.messages.append(msg)
+                    display_message(msg)
+                except queue.Empty:
+                    continue
         except Exception as e:
             logger.error("Error processing chat: %s", str(e))
             st.error(f"An error occurred: {str(e)}")
