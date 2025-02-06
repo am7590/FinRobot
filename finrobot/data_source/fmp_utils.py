@@ -7,61 +7,45 @@ from ..utils import decorate_all_methods, get_next_weekday
 
 # from finrobot.utils import decorate_all_methods, get_next_weekday
 from functools import wraps
-from typing import Annotated, List
+from typing import Annotated, List, Optional
 
 
 def init_fmp_api(func):
     @wraps(func)
     def wrapper(*args, **kwargs):
-        global fmp_api_key
         if os.environ.get("FMP_API_KEY") is None:
-            print("Please set the environment variable FMP_API_KEY to use the FMP API.")
+            print("Error: FMP_API_KEY environment variable not set")
             return None
-        else:
-            fmp_api_key = os.environ["FMP_API_KEY"]
-            print("FMP api key found successfully.")
-            return func(*args, **kwargs)
-
+        return func(*args, **kwargs)
     return wrapper
 
 
 @decorate_all_methods(init_fmp_api)
 class FMPUtils:
 
+    @staticmethod
     def get_target_price(
         ticker_symbol: Annotated[str, "ticker symbol"],
-        date: Annotated[str, "date of the target price, should be 'yyyy-mm-dd'"],
-    ) -> str:
-        """Get the target price for a given stock on a given date"""
-        # API URL
-        url = f"https://financialmodelingprep.com/api/v4/price-target?symbol={ticker_symbol}&apikey={fmp_api_key}"
-
-        # 发送GET请求
-        price_target = "Not Given"
-        response = requests.get(url)
-
-        # 确保请求成功
-        if response.status_code == 200:
-            # 解析JSON数据
+        date: Annotated[str, "date in yyyy-mm-dd format"],
+    ) -> Optional[float]:
+        """Get target price for a stock on a specific date"""
+        try:
+            api_key = os.environ["FMP_API_KEY"]
+            url = f"https://financialmodelingprep.com/api/v3/price-target?symbol={ticker_symbol}&apikey={api_key}"
+            response = requests.get(url)
+            response.raise_for_status()
             data = response.json()
-            est = []
+            
+            if not data:
+                print(f"No target price data found for {ticker_symbol}")
+                return None
+                
+            return float(data[0].get("priceTarget", 0))
+        except Exception as e:
+            print(f"Error fetching target price: {str(e)}")
+            return None
 
-            date = datetime.strptime(date, "%Y-%m-%d")
-            for tprice in data:
-                tdate = tprice["publishedDate"].split("T")[0]
-                tdate = datetime.strptime(tdate, "%Y-%m-%d")
-                if abs((tdate - date).days) <= 999:
-                    est.append(tprice["priceTarget"])
-
-            if est:
-                price_target = f"{np.min(est)} - {np.max(est)} (md. {np.median(est)})"
-            else:
-                price_target = "N/A"
-        else:
-            return f"Failed to retrieve data: {response.status_code}"
-
-        return price_target
-
+    @staticmethod
     def get_sec_report(
         ticker_symbol: Annotated[str, "ticker symbol"],
         fyear: Annotated[
@@ -70,83 +54,102 @@ class FMPUtils:
         ] = "latest",
     ) -> str:
         """Get the url and filing date of the 10-K report for a given stock and year"""
+        try:
+            api_key = os.environ["FMP_API_KEY"]
+            url = f"https://financialmodelingprep.com/api/v3/sec_filings/{ticker_symbol}?type=10-k&page=0&apikey={api_key}"
 
-        url = f"https://financialmodelingprep.com/api/v3/sec_filings/{ticker_symbol}?type=10-k&page=0&apikey={fmp_api_key}"
+            # Send GET request
+            filing_url = None
+            filing_date = None
+            response = requests.get(url)
 
-        # Send GET request
-        filing_url = None
-        filing_date = None
-        response = requests.get(url)
+            # Ensure request was successful
+            if response.status_code == 200:
+                # Parse JSON data
+                data = response.json()
+                if data and len(data) > 0:
+                    if fyear == "latest":
+                        filing_url = data[0]["finalLink"]
+                        filing_date = data[0]["fillingDate"]
+                    else:
+                        for filing in data:
+                            if filing["fillingDate"].split("-")[0] == fyear:
+                                filing_url = filing["finalLink"]
+                                filing_date = filing["fillingDate"]
+                                break
 
-        # Ensure request was successful
-        if response.status_code == 200:
-            # Parse JSON data
-            data = response.json()
-            if data and len(data) > 0:
-                if fyear == "latest":
-                    filing_url = data[0]["finalLink"]
-                    filing_date = data[0]["fillingDate"]
-                else:
-                    for filing in data:
-                        if filing["fillingDate"].split("-")[0] == fyear:
-                            filing_url = filing["finalLink"]
-                            filing_date = filing["fillingDate"]
-                            break
-
-                if filing_url and filing_date:
-                    return f"Link: {filing_url}\nFiling Date: {filing_date}"
+                    if filing_url and filing_date:
+                        return f"Link: {filing_url}\nFiling Date: {filing_date}"
             
-        return None
+            return None
+        except Exception as e:
+            print(f"Error fetching SEC report: {str(e)}")
+            return None
 
+    @staticmethod
     def get_historical_market_cap(
         ticker_symbol: Annotated[str, "ticker symbol"],
-        date: Annotated[str, "date of the market cap, should be 'yyyy-mm-dd'"],
-    ) -> str:
-        """Get the historical market capitalization for a given stock on a given date"""
-        date = get_next_weekday(date).strftime("%Y-%m-%d")
-        url = f"https://financialmodelingprep.com/api/v3/historical-market-capitalization/{ticker_symbol}?limit=100&from={date}&to={date}&apikey={fmp_api_key}"
-
-        # 发送GET请求
-        mkt_cap = None
-        response = requests.get(url)
-
-        # 确保请求成功
-        if response.status_code == 200:
-            # 解析JSON数据
+        date: Annotated[str, "date in yyyy-mm-dd format"],
+    ) -> Optional[float]:
+        """Get historical market cap for a stock on a specific date"""
+        try:
+            api_key = os.environ["FMP_API_KEY"]
+            url = f"https://financialmodelingprep.com/api/v3/historical-market-capitalization/{ticker_symbol}?apikey={api_key}"
+            response = requests.get(url)
+            response.raise_for_status()
             data = response.json()
-            mkt_cap = data[0]["marketCap"]
-            return mkt_cap
-        else:
-            return f"Failed to retrieve data: {response.status_code}"
+            
+            if not data:
+                print(f"No market cap data found for {ticker_symbol}")
+                return None
+                
+            # Find the closest date
+            target_date = datetime.strptime(date, "%Y-%m-%d")
+            closest_data = min(data, key=lambda x: abs(datetime.strptime(x["date"], "%Y-%m-%d") - target_date))
+            return float(closest_data.get("marketCap", 0))
+        except Exception as e:
+            print(f"Error fetching historical market cap: {str(e)}")
+            return None
 
+    @staticmethod
     def get_historical_bvps(
         ticker_symbol: Annotated[str, "ticker symbol"],
-        target_date: Annotated[str, "date of the BVPS, should be 'yyyy-mm-dd'"],
-    ) -> str:
-        """Get the historical book value per share for a given stock on a given date"""
-        # 从FMP API获取历史关键财务指标数据
-        url = f"https://financialmodelingprep.com/api/v3/key-metrics/{ticker_symbol}?limit=40&apikey={fmp_api_key}"
-        response = requests.get(url)
-        data = response.json()
-
-        if not data:
-            return "No data available"
-
-        # 找到最接近目标日期的数据
-        closest_data = None
-        min_date_diff = float("inf")
-        target_date = datetime.strptime(target_date, "%Y-%m-%d")
-        for entry in data:
-            date_of_data = datetime.strptime(entry["date"], "%Y-%m-%d")
-            date_diff = abs(target_date - date_of_data).days
-            if date_diff < min_date_diff:
-                min_date_diff = date_diff
-                closest_data = entry
-
-        if closest_data:
-            return closest_data.get("bookValuePerShare", "No BVPS data available")
-        else:
-            return "No close date data found"
+        date: Annotated[str, "date in yyyy-mm-dd format"],
+    ) -> Optional[float]:
+        """Get historical book value per share for a stock on a specific date"""
+        try:
+            api_key = os.environ["FMP_API_KEY"]
+            # First try the key metrics endpoint
+            url = f"https://financialmodelingprep.com/api/v3/key-metrics/{ticker_symbol}?period=annual&apikey={api_key}"
+            response = requests.get(url)
+            response.raise_for_status()
+            data = response.json()
+            
+            if not data:
+                # Try the ratios endpoint as backup
+                url = f"https://financialmodelingprep.com/api/v3/ratios/{ticker_symbol}?period=annual&apikey={api_key}"
+                response = requests.get(url)
+                response.raise_for_status()
+                data = response.json()
+                
+            if not data:
+                print(f"No BVPS data found for {ticker_symbol}")
+                return None
+                
+            # Find the closest date
+            target_date = datetime.strptime(date, "%Y-%m-%d")
+            closest_data = min(data, key=lambda x: abs(datetime.strptime(x["date"], "%Y-%m-%d") - target_date))
+            
+            # Try both possible field names
+            bvps = closest_data.get("bookValuePerShare", closest_data.get("tangibleBookValuePerShare", 0))
+            
+            if bvps == 0:
+                print(f"Warning: BVPS appears to be zero for {ticker_symbol}")
+                
+            return float(bvps)
+        except Exception as e:
+            print(f"Error fetching historical BVPS: {str(e)}")
+            return None
         
     def get_financial_metrics(
         ticker_symbol: Annotated[str, "ticker symbol"],

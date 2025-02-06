@@ -101,6 +101,13 @@ class StreamlitAssistant:
                                             args['save_path'] = abs_path
                                             tool_call['function']['arguments'] = json.dumps(args)
                                             logger.debug("Updated tool call arguments: %s", tool_call['function']['arguments'])
+
+                                            print(f"sending message to queue: {content}")
+                                            self.message_queue.put({
+                                                "role": "Tool Call",
+                                                "content": content or str(tool_calls),
+                                                "metadata": {"tool_calls": tool_calls} if tool_calls else {}
+                                            })
                                     except json.JSONDecodeError as e:
                                         logger.error("Failed to parse tool call arguments: %s", e)
                                         continue
@@ -109,17 +116,13 @@ class StreamlitAssistant:
                                         logger.error("Traceback: %s", traceback.format_exc())
                                         continue
                         
-                        self.message_queue.put({
-                            "role": "assistant",
-                            "content": content or str(tool_calls),
-                            "metadata": {"tool_calls": tool_calls} if tool_calls else {}
-                        })
+                       
                         
                         return original_receive(message, sender, request_reply, silent)
                     else:
                         content = message
                         self.message_queue.put({
-                            "role": "assistant",
+                            "role": "Assistant",
                             "content": content,
                             "metadata": {}
                         })
@@ -134,7 +137,7 @@ class StreamlitAssistant:
                 try:
                     logger.debug("User proxy received message: %s", message)
                     self.message_queue.put({
-                        "role": "user",
+                        "role": "user_receive",
                         "content": message,
                         "metadata": message
                     })

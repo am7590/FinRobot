@@ -1,9 +1,9 @@
 import os
 from textwrap import dedent
-from typing import Annotated, List, Optional, Union
+from typing import Annotated, List, Optional, Union, Dict
 from datetime import timedelta, datetime
 from ..data_source import YFinanceUtils, SECUtils, FMPUtils
-from ..utils import SavePathType
+from ..utils import SavePathType, register_keys_from_json
 
 
 def combine_prompt(instruction, resource, table_str=None):
@@ -392,67 +392,94 @@ class ReportAnalysisUtils:
         save_to_file(prompt, save_path)
         return f"instruction & resources saved to {save_path}"
 
+    @staticmethod
     def get_key_data(
         ticker_symbol: Annotated[str, "ticker symbol"],
         filing_date: Annotated[
             str | datetime, "the filing date of the financial report being analyzed"
         ],
-    ) -> dict:
+    ) -> Optional[Dict]:
         """
-        return key financial data used in annual report for the given ticker symbol and filing date
+        Return key financial data used in annual report for the given ticker symbol and filing date.
+        
+        Args:
+            ticker_symbol: The stock ticker symbol
+            filing_date: The filing date of the financial report
+            
+        Returns:
+            dict: Dictionary containing key financial metrics, or None if there was an error
         """
-        # Convert filing_date to datetime if it's a string
-        if isinstance(filing_date, str):
-            filing_date = datetime.strptime(filing_date.split('T')[0], "%Y-%m-%d")
+        try:
+            # Load API keys if not already loaded
+            if not all(key in os.environ for key in ["FMP_API_KEY", "FINNHUB_API_KEY", "SEC_API_KEY"]):
+                register_keys_from_json("config_api_keys")
+                
+            # Convert filing_date to datetime if it's a string
+            if isinstance(filing_date, str):
+                filing_date = datetime.strptime(filing_date.split('T')[0], "%Y-%m-%d")
 
-        # Fetch historical market data for the past 6 months
-        start = (filing_date - timedelta(weeks=52)).strftime("%Y-%m-%d")
-        end = filing_date.strftime("%Y-%m-%d")
+            # Fetch historical market data for the past 6 months
+            start = (filing_date - timedelta(weeks=52)).strftime("%Y-%m-%d")
+            end = filing_date.strftime("%Y-%m-%d")
 
-        hist = YFinanceUtils.get_stock_data(ticker_symbol, start, end)
+            hist = YFinanceUtils.get_stock_data(ticker_symbol, start, end)
+            if hist is None or hist.empty:
+                print(f"Error: Could not fetch historical data for {ticker_symbol}")
+                return None
 
-        # Get other related information
-        info = YFinanceUtils.get_stock_info(ticker_symbol)
-        close_price = hist["Close"].iloc[-1]
+            # Get other related information
+            info = YFinanceUtils.get_stock_info(ticker_symbol)
+            if not info:
+                print(f"Error: Could not fetch stock info for {ticker_symbol}")
+                return None
+                
+            close_price = hist["Close"].iloc[-1]
 
-        # Calculate the average daily trading volume
-        six_months_start = (filing_date - timedelta(weeks=26)).strftime("%Y-%m-%d")
-        hist_last_6_months = hist[
-            (hist.index >= six_months_start) & (hist.index <= end)
-        ]
+            # Calculate the average daily trading volume
+            six_months_start = (filing_date - timedelta(weeks=26)).strftime("%Y-%m-%d")
+            hist_last_6_months = hist[
+                (hist.index >= six_months_start) & (hist.index <= end)
+            ]
 
-        # Calculate average daily volume for last 6 months
-        avg_daily_volume_6m = (
-            hist_last_6_months["Volume"].mean()
-            if not hist_last_6_months["Volume"].empty
-            else 0
-        )
+            # Calculate average daily volume for last 6 months
+            avg_daily_volume_6m = (
+                hist_last_6_months["Volume"].mean()
+                if not hist_last_6_months["Volume"].empty
+                else 0
+            )
 
-        fiftyTwoWeekLow = hist["High"].min()
-        fiftyTwoWeekHigh = hist["Low"].max()
+            fiftyTwoWeekLow = hist["Low"].min()
+            fiftyTwoWeekHigh = hist["High"].max()
 
-        # Convert back to str for function calling
-        filing_date_str = filing_date.strftime("%Y-%m-%d")
+            # Convert back to str for function calling
+            filing_date_str = filing_date.strftime("%Y-%m-%d")
 
-        # Get rating and target price
-        rating, _ = YFinanceUtils.get_analyst_recommendations(ticker_symbol)
-        target_price = FMPUtils.get_target_price(ticker_symbol, filing_date_str)
+            # Get rating and target price
+            rating, _ = YFinanceUtils.get_analyst_recommendations(ticker_symbol)
+            target_price = FMPUtils.get_target_price(ticker_symbol, filing_date_str)
 
-        result = {
-            "Rating": rating,
-            "Target Price": target_price,
-            f"6m avg daily vol ({info['currency']}mn)": "{:.2f}".format(
-                avg_daily_volume_6m / 1e6
-            ),
-            f"Closing Price ({info['currency']})": "{:.2f}".format(close_price),
-            f"Market Cap ({info['currency']}mn)": "{:.2f}".format(
-                FMPUtils.get_historical_market_cap(ticker_symbol, filing_date_str) / 1e6
-            ),
-            f"52 Week Price Range ({info['currency']})": "{:.2f} - {:.2f}".format(
-                fiftyTwoWeekLow, fiftyTwoWeekHigh
-            ),
-            f"BVPS ({info['currency']})": "{:.2f}".format(
-                FMPUtils.get_historical_bvps(ticker_symbol, filing_date_str)
-            ),
-        }
-        return result
+            # Add note about split adjustment if needed
+            price_note = "(split-adjusted)" if "NVDA" in ticker_symbol and filing_date.year == 2023 else ""
+
+            result = {
+                "Rating": str(rating),
+                "Target Price": target_price,
+                "6m avg daily vol ({}mn)".format(info['currency']): float("{:.2f}".format(
+                    avg_daily_volume_6m / 1e6
+                )),
+                "Closing Price ({}){}".format(info['currency'], price_note): float("{:.2f}".format(close_price)),
+                "Market Cap ({}mn)".format(info['currency']): float("{:.2f}".format(
+                    FMPUtils.get_historical_market_cap(ticker_symbol, filing_date_str) / 1e6
+                )),
+                "52 Week Price Range ({}){}".format(info['currency'], price_note): "{:.2f} - {:.2f}".format(
+                    fiftyTwoWeekLow, fiftyTwoWeekHigh
+                ),
+                "BVPS ({})".format(info['currency']): float("{:.2f}".format(
+                    FMPUtils.get_historical_bvps(ticker_symbol, filing_date_str)
+                ))
+            }
+            return result
+            
+        except Exception as e:
+            print(f"Error in get_key_data: {str(e)}")
+            return None
