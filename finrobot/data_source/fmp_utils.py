@@ -73,28 +73,30 @@ class FMPUtils:
 
         url = f"https://financialmodelingprep.com/api/v3/sec_filings/{ticker_symbol}?type=10-k&page=0&apikey={fmp_api_key}"
 
-        # 发送GET请求
+        # Send GET request
         filing_url = None
+        filing_date = None
         response = requests.get(url)
 
-        # 确保请求成功
+        # Ensure request was successful
         if response.status_code == 200:
-            # 解析JSON数据
+            # Parse JSON data
             data = response.json()
-            # print(data)
-            if fyear == "latest":
-                filing_url = data[0]["finalLink"]
-                filing_date = data[0]["fillingDate"]
-            else:
-                for filing in data:
-                    if filing["fillingDate"].split("-")[0] == fyear:
-                        filing_url = filing["finalLink"]
-                        filing_date = filing["fillingDate"]
-                        break
+            if data and len(data) > 0:
+                if fyear == "latest":
+                    filing_url = data[0]["finalLink"]
+                    filing_date = data[0]["fillingDate"]
+                else:
+                    for filing in data:
+                        if filing["fillingDate"].split("-")[0] == fyear:
+                            filing_url = filing["finalLink"]
+                            filing_date = filing["fillingDate"]
+                            break
 
-            return f"Link: {filing_url}\nFiling Date: {filing_date}"
-        else:
-            return f"Failed to retrieve data: {response.status_code}"
+                if filing_url and filing_date:
+                    return f"Link: {filing_url}\nFiling Date: {filing_date}"
+            
+        return None
 
     def get_historical_market_cap(
         ticker_symbol: Annotated[str, "ticker symbol"],
@@ -224,19 +226,19 @@ class FMPUtils:
                     metrics[year_offset] = {
                         "Revenue": round(income_data[year_offset]["revenue"] / 1e6),
                         "Revenue Growth": (
-                            "{}%".format((round(income_data[year_offset]["revenue"] - income_data[year_offset - 1]["revenue"] / income_data[year_offset - 1]["revenue"])*100,1))
-                            if year_offset > 0 else None
+                            "{}%".format(round(((income_data[year_offset]["revenue"] - income_data[year_offset - 1]["revenue"]) / income_data[year_offset - 1]["revenue"])*100,1))
+                            if year_offset > 0 and income_data[year_offset - 1]["revenue"] != 0 
+                            else "N/A"
                         ),
-                        "Gross Margin": round((income_data[year_offset]["grossProfit"] / income_data[year_offset]["revenue"]),2),
+                        "Gross Margin": round((income_data[year_offset]["grossProfit"] / income_data[year_offset]["revenue"]),2) if income_data[year_offset]["revenue"] != 0 else 0,
                         "EBITDA Margin": round((income_data[year_offset]["ebitdaratio"]),2),
-                        "FCF Conversion": round((
-                            key_metrics_data[year_offset]["enterpriseValue"] 
-                            / key_metrics_data[year_offset]["evToOperatingCashFlow"] 
-                            / income_data[year_offset]["netIncome"]
-                            if key_metrics_data[year_offset]["evToOperatingCashFlow"] != 0 else None
-                        ),2),
-                        "ROIC":"{}%".format(round((key_metrics_data[year_offset]["roic"])*100,1)),
-                        "EV/EBITDA": round((key_metrics_data[year_offset]["enterpriseValueOverEBITDA"]),2),
+                        "FCF Conversion": (
+                            round((key_metrics_data[year_offset]["enterpriseValue"] / key_metrics_data[year_offset]["evToOperatingCashFlow"] / income_data[year_offset]["netIncome"]),2)
+                            if (key_metrics_data[year_offset]["evToOperatingCashFlow"] != 0 and income_data[year_offset]["netIncome"] != 0)
+                            else "N/A"
+                        ),
+                        "ROIC": "{}%".format(round((key_metrics_data[year_offset]["roic"])*100,1)) if key_metrics_data[year_offset]["roic"] is not None else "N/A",
+                        "EV/EBITDA": round((key_metrics_data[year_offset]["enterpriseValueOverEBITDA"]),2) if key_metrics_data[year_offset]["enterpriseValueOverEBITDA"] is not None else "N/A",
                     }
 
             df = pd.DataFrame.from_dict(metrics, orient='index')

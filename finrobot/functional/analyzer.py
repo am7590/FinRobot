@@ -1,8 +1,9 @@
 import os
 from textwrap import dedent
-from typing import Annotated, List
+from typing import Annotated, List, Optional, Union
 from datetime import timedelta, datetime
 from ..data_source import YFinanceUtils, SECUtils, FMPUtils
+from ..utils import SavePathType
 
 
 def combine_prompt(instruction, resource, table_str=None):
@@ -14,7 +15,23 @@ def combine_prompt(instruction, resource, table_str=None):
 
 
 def save_to_file(data: str, file_path: str):
+    if not file_path:
+        raise ValueError("File path cannot be empty")
+    if not isinstance(file_path, str):
+        raise TypeError(f"File path must be a string, got {type(file_path)}")
+    
+    # Convert to absolute path if not already
+    if not os.path.isabs(file_path):
+        # Get the report directory path
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+        root_dir = os.path.abspath(os.path.join(current_dir, "..", ".."))
+        report_dir = os.path.join(root_dir, "report")
+        file_path = os.path.join(report_dir, file_path)
+    
+    # Create directory if it doesn't exist
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
+    
+    # Write the data
     with open(file_path, "w") as f:
         f.write(data)
 
@@ -30,34 +47,42 @@ class ReportAnalysisUtils:
         Retrieve the income statement for the given ticker symbol with the related section of its 10-K report.
         Then return with an instruction on how to analyze the income statement.
         """
-        # Retrieve the income statement
-        income_stmt = YFinanceUtils.get_income_stmt(ticker_symbol)
-        df_string = "Income statement:\n" + income_stmt.to_string().strip()
+        try:
+            # Retrieve the income statement
+            income_stmt = YFinanceUtils.get_income_stmt(ticker_symbol)
+            if income_stmt is None:
+                raise ValueError("Failed to retrieve income statement")
+            df_string = "Income statement:\n" + income_stmt.to_string().strip()
 
-        # Analysis instruction
-        instruction = dedent(
-            """
-            Conduct a comprehensive analysis of the company's income statement for the current fiscal year. 
-            Start with an overall revenue record, including Year-over-Year or Quarter-over-Quarter comparisons, 
-            and break down revenue sources to identify primary contributors and trends. Examine the Cost of 
-            Goods Sold for potential cost control issues. Review profit margins such as gross, operating, 
-            and net profit margins to evaluate cost efficiency, operational effectiveness, and overall profitability. 
-            Analyze Earnings Per Share to understand investor perspectives. Compare these metrics with historical 
-            data and industry or competitor benchmarks to identify growth patterns, profitability trends, and 
-            operational challenges. The output should be a strategic overview of the company’s financial health 
-            in a single paragraph, less than 130 words, summarizing the previous analysis into 4-5 key points under 
-            respective subheadings with specific discussion and strong data support.
-            """
-        )
+            # Analysis instruction
+            instruction = dedent(
+                """
+                Conduct a comprehensive analysis of the company's income statement for the current fiscal year. 
+                Start with an overall revenue record, including Year-over-Year or Quarter-over-Quarter comparisons, 
+                and break down revenue sources to identify primary contributors and trends. Examine the Cost of 
+                Goods Sold for potential cost control issues. Review profit margins such as gross, operating, 
+                and net profit margins to evaluate cost efficiency, operational effectiveness, and overall profitability. 
+                Analyze Earnings Per Share to understand investor perspectives. Compare these metrics with historical 
+                data and industry or competitor benchmarks to identify growth patterns, profitability trends, and 
+                operational challenges. The output should be a strategic overview of the company's financial health 
+                in a single paragraph, less than 130 words, summarizing the previous analysis into 4-5 key points under 
+                respective subheadings with specific discussion and strong data support.
+                """
+            )
 
-        # Retrieve the related section from the 10-K report
-        section_text = SECUtils.get_10k_section(ticker_symbol, fyear, 7)
+            # Retrieve the related section from the 10-K report
+            section_text = SECUtils.get_10k_section(ticker_symbol, fyear, 7)
+            if section_text is None:
+                section_text = "Section 7 not available in 10-K report"
 
-        # Combine the instruction, section text, and income statement
-        prompt = combine_prompt(instruction, section_text, df_string)
+            # Combine the instruction, section text, and income statement
+            prompt = combine_prompt(instruction, section_text, df_string)
 
-        save_to_file(prompt, save_path)
-        return f"instruction & resources saved to {save_path}"
+            # Save the instructions and resources to a file
+            save_to_file(prompt, save_path)
+            return f"instruction & resources saved to {save_path}"
+        except Exception as e:
+            return f"Error analyzing income statement: {str(e)}"
 
     def analyze_balance_sheet(
         ticker_symbol: Annotated[str, "ticker symbol"],
@@ -207,7 +232,7 @@ class ReportAnalysisUtils:
             According to the given information in the 10-k report, summarize the top 3 key risks of the company. 
             Then, for each key risk, break down the risk assessment into the following aspects:
             1. Industry Vertical Risk: How does this industry vertical compare with others in terms of risk? Consider factors such as regulation, market volatility, and competitive landscape.
-            2. Cyclicality: How cyclical is this industry? Discuss the impact of economic cycles on the company’s performance.
+            2. Cyclicality: How cyclical is this industry? Discuss the impact of economic cycles on the company's performance.
             3. Risk Quantification: Enumerate the key risk factors with supporting data if the company or segment is deemed risky.
             4. Downside Protections: If the company or segment is less risky, discuss the downside protections in place. Consider factors such as diversification, long-term contracts, and government regulation.
 
@@ -228,75 +253,103 @@ class ReportAnalysisUtils:
         Analyze financial metrics differences between a company and its competitors.
         Prepare a prompt for analysis and save it to a file.
         """
-        # Retrieve financial data
-        financial_data = FMPUtils.get_competitor_financial_metrics(ticker_symbol, competitors, years=4)
+        try:
+            # Retrieve financial data
+            financial_data = FMPUtils.get_competitor_financial_metrics(ticker_symbol, competitors, years=4)
+            if not financial_data:
+                raise ValueError("Failed to retrieve financial data")
 
-        # Construct the financial data summary
-        table_str = ""
-        for metric in financial_data[ticker_symbol].index:
-            table_str += f"\n\n{metric}:\n"
-            company_value = financial_data[ticker_symbol].loc[metric]
-            table_str += f"{ticker_symbol}: {company_value}\n"
-            for competitor in competitors:
-                competitor_value = financial_data[competitor].loc[metric]
-                table_str += f"{competitor}: {competitor_value}\n"
+            # Construct the financial data summary
+            table_str = ""
+            for metric in financial_data[ticker_symbol].index:
+                table_str += f"\n\n{metric}:\n"
+                try:
+                    company_value = financial_data[ticker_symbol].loc[metric]
+                    if company_value is not None:
+                        table_str += f"{ticker_symbol}: {company_value}\n"
+                    else:
+                        table_str += f"{ticker_symbol}: N/A\n"
+                    
+                    for competitor in competitors:
+                        try:
+                            competitor_value = financial_data[competitor].loc[metric]
+                            if competitor_value is not None:
+                                table_str += f"{competitor}: {competitor_value}\n"
+                            else:
+                                table_str += f"{competitor}: N/A\n"
+                        except (KeyError, ZeroDivisionError, TypeError) as e:
+                            table_str += f"{competitor}: N/A (Error: {str(e)})\n"
+                except (KeyError, ZeroDivisionError, TypeError) as e:
+                    table_str += f"{ticker_symbol}: N/A (Error: {str(e)})\n"
 
-        # Prepare the instructions for analysis
-        instruction = dedent(
-          """
-          Analyze the financial metrics for {company}/ticker_symbol and its competitors: {competitors} across multiple years (indicated as 0, 1, 2, 3, with 0 being the latest year and 3 the earliest year). Focus on the following metrics: EBITDA Margin, EV/EBITDA, FCF Conversion, Gross Margin, ROIC, Revenue, and Revenue Growth. 
-          For each year: Year-over-Year Trends: Identify and discuss the trends for each metric from the earliest year (3) to the latest year (0) for {company}. But when generating analysis, you need to write 1: year 3 = year 2023, 2: year 2 = year 2022, 3: year 1 = year 2021 and 4: year 0 = year 2020. Highlight any significant improvements, declines, or stability in these metrics over time.
-          Competitor Comparison: For each year, compare {company} against its {competitors} for each metric. Evaluate how {company} performs relative to its {competitors}, noting where it outperforms or lags behind.
-          Metric-Specific Insights:
+            # Prepare the instructions for analysis
+            instruction = dedent(
+              """
+              Analyze the financial metrics for {company}/ticker_symbol and its competitors: {competitors} across multiple years (indicated as 0, 1, 2, 3, with 0 being the latest year and 3 the earliest year). Focus on the following metrics: EBITDA Margin, EV/EBITDA, FCF Conversion, Gross Margin, ROIC, Revenue, and Revenue Growth. 
+              For each year: Year-over-Year Trends: Identify and discuss the trends for each metric from the earliest year (3) to the latest year (0) for {company}. But when generating analysis, you need to write 1: year 3 = year 2023, 2: year 2 = year 2022, 3: year 1 = year 2021 and 4: year 0 = year 2020. Highlight any significant improvements, declines, or stability in these metrics over time.
+              Competitor Comparison: For each year, compare {company} against its {competitors} for each metric. Evaluate how {company} performs relative to its {competitors}, noting where it outperforms or lags behind.
+              Metric-Specific Insights:
 
-          EBITDA Margin: Discuss the profitability of {company} compared to its {competitors}, particularly in the most recent year.
-          EV/EBITDA: Provide insights on the valuation and whether {company} is over or undervalued compared to its {competitors} in each year.
-          FCF Conversion: Evaluate the cash flow efficiency of {company} relative to its {competitors} over time.
-          Gross Margin: Analyze the cost efficiency and profitability in each year.
-          ROIC: Discuss the return on invested capital and what it suggests about the company's efficiency in generating returns from its investments, especially focusing on recent trends.
-          Revenue and Revenue Growth: Provide a comprehensive view of {company}’s revenue performance and growth trajectory, noting any significant changes or patterns.
-          Conclusion: Summarize the overall financial health of {company} based on these metrics. Discuss how {company}’s performance over these years and across these metrics might justify or contradict its current market valuation (as reflected in the EV/EBITDA ratio).
-          Avoid using any bullet points.
-          """
-        )
+              EBITDA Margin: Discuss the profitability of {company} compared to its {competitors}, particularly in the most recent year.
+              EV/EBITDA: Provide insights on the valuation and whether {company} is over or undervalued compared to its {competitors} in each year.
+              FCF Conversion: Evaluate the cash flow efficiency of {company} relative to its {competitors} over time.
+              Gross Margin: Analyze the cost efficiency and profitability in each year.
+              ROIC: Discuss the return on invested capital and what it suggests about the company's efficiency in generating returns from its investments, especially focusing on recent trends.
+              Revenue and Revenue Growth: Provide a comprehensive view of {company}'s revenue performance and growth trajectory, noting any significant changes or patterns.
+              Conclusion: Summarize the overall financial health of {company} based on these metrics. Discuss how {company}'s performance over these years and across these metrics might justify or contradict its current market valuation (as reflected in the EV/EBITDA ratio).
+              Avoid using any bullet points.
+              """
+            )
 
-        # Combine the prompt
-        company_name = ticker_symbol  # Assuming the ticker symbol is the company name, otherwise, retrieve it.
-        resource = f"Financial metrics for {company_name} and {competitors}."
-        prompt = combine_prompt(instruction, resource, table_str)
+            # Combine the prompt
+            company_name = ticker_symbol  # Assuming the ticker symbol is the company name, otherwise, retrieve it.
+            resource = f"Financial metrics for {company_name} and {competitors}."
+            prompt = combine_prompt(instruction, resource, table_str)
 
-        # Save the instructions and resources to a file
-        save_to_file(prompt, save_path)
-        
-        return f"instruction & resources saved to {save_path}"
+            # Save the instructions and resources to a file
+            save_to_file(prompt, save_path)
+            
+            return f"instruction & resources saved to {save_path}"
+        except Exception as e:
+            return f"Error: {str(e)}"
         
     def analyze_business_highlights(
         ticker_symbol: Annotated[str, "ticker symbol"],
-        fyear: Annotated[str, "fiscal year of the 10-K report"],
-        save_path: Annotated[str, "txt file path, to which the returned instruction & resources are written."]
-    ) -> str:
+        filing_date: Annotated[
+            str | datetime, "the filing date of the financial report being analyzed"
+        ],
+        save_path: str,
+    ) -> None:
         """
-        Retrieve the business summary and related section of its 10-K report for the given ticker symbol.
-        Then return with an instruction on how to describe the performance highlights per business of the company.
+        Analyze the business highlights from the 10-K report
         """
-        business_summary = SECUtils.get_10k_section(ticker_symbol, fyear, 1)
-        section_7 = SECUtils.get_10k_section(ticker_symbol, fyear, 7)
-        section_text = (
-            "Business summary:\n"
-            + business_summary
-            + "\n\n"
-            + "Management's Discussion and Analysis of Financial Condition and Results of Operations:\n"
-            + section_7
-        )
-        instruction = dedent(
-            """
-            According to the given information, describe the performance highlights for each company's business line.
-            Each business description should contain one sentence of a summarization and one sentence of explanation.
-            """
-        )
-        prompt = combine_prompt(instruction, section_text, "")
-        save_to_file(prompt, save_path)
-        return f"instruction & resources saved to {save_path}"
+        try:
+            # Convert filing_date to datetime if it's a string
+            if isinstance(filing_date, str):
+                # Handle potential time component in the date string
+                filing_date = datetime.strptime(filing_date.split('T')[0], "%Y-%m-%d")
+
+            fyear = filing_date.strftime("%Y")
+            business_summary = SECUtils.get_10k_section(ticker_symbol, fyear, 1)
+            if business_summary is None:
+                business_summary = "Business summary not available"
+
+            key_data = ReportAnalysisUtils.get_key_data(ticker_symbol, filing_date)
+            if key_data is None:
+                key_data = {}
+
+            # Format the output
+            analysis = (
+                "Business summary:\n"
+                + business_summary
+                + "\n\nKey Data:\n"
+                + "\n".join([f"{k}: {v}" for k, v in key_data.items()])
+            )
+
+            save_to_file(analysis, save_path)
+            return f"Analysis saved to {save_path}"
+        except Exception as e:
+            return f"Error analyzing business highlights: {str(e)}"
 
     def analyze_company_description(
         ticker_symbol: Annotated[str, "ticker symbol"],
@@ -325,10 +378,10 @@ class ReportAnalysisUtils:
         instruction = dedent(
             """
             According to the given information, 
-            1. Briefly describe the company overview and company’s industry, using the structure: "Founded in xxxx, 'company name' is a xxxx that provides .....
+            1. Briefly describe the company overview and company's industry, using the structure: "Founded in xxxx, 'company name' is a xxxx that provides .....
             2. Highlight core strengths and competitive advantages key products or services,
             3. Include topics about end market (geography), major customers (blue chip or not), market share for market position section,
-            4. Identify current industry trends, opportunities, and challenges that influence the company’s strategy,
+            4. Identify current industry trends, opportunities, and challenges that influence the company's strategy,
             5. Outline recent strategic initiatives such as product launches, acquisitions, or new partnerships, and describe the company's response to market conditions. 
             Less than 300 words.
             """
@@ -348,9 +401,9 @@ class ReportAnalysisUtils:
         """
         return key financial data used in annual report for the given ticker symbol and filing date
         """
-
-        if not isinstance(filing_date, datetime):
-            filing_date = datetime.strptime(filing_date, "%Y-%m-%d")
+        # Convert filing_date to datetime if it's a string
+        if isinstance(filing_date, str):
+            filing_date = datetime.strptime(filing_date.split('T')[0], "%Y-%m-%d")
 
         # Fetch historical market data for the past 6 months
         start = (filing_date - timedelta(weeks=52)).strftime("%Y-%m-%d")
@@ -358,7 +411,7 @@ class ReportAnalysisUtils:
 
         hist = YFinanceUtils.get_stock_data(ticker_symbol, start, end)
 
-        # 获取其他相关信息
+        # Get other related information
         info = YFinanceUtils.get_stock_info(ticker_symbol)
         close_price = hist["Close"].iloc[-1]
 
@@ -368,7 +421,7 @@ class ReportAnalysisUtils:
             (hist.index >= six_months_start) & (hist.index <= end)
         ]
 
-        # 计算这6个月的平均每日交易量
+        # Calculate average daily volume for last 6 months
         avg_daily_volume_6m = (
             hist_last_6_months["Volume"].mean()
             if not hist_last_6_months["Volume"].empty
@@ -378,15 +431,13 @@ class ReportAnalysisUtils:
         fiftyTwoWeekLow = hist["High"].min()
         fiftyTwoWeekHigh = hist["Low"].max()
 
-        # avg_daily_volume_6m = hist['Volume'].mean()
+        # Convert back to str for function calling
+        filing_date_str = filing_date.strftime("%Y-%m-%d")
 
-        # convert back to str for function calling
-        filing_date = filing_date.strftime("%Y-%m-%d")
-
-        # Print the result
-        # print(f"Over the past 6 months, the average daily trading volume for {ticker_symbol} was: {avg_daily_volume_6m:.2f}")
+        # Get rating and target price
         rating, _ = YFinanceUtils.get_analyst_recommendations(ticker_symbol)
-        target_price = FMPUtils.get_target_price(ticker_symbol, filing_date)
+        target_price = FMPUtils.get_target_price(ticker_symbol, filing_date_str)
+
         result = {
             "Rating": rating,
             "Target Price": target_price,
@@ -395,13 +446,13 @@ class ReportAnalysisUtils:
             ),
             f"Closing Price ({info['currency']})": "{:.2f}".format(close_price),
             f"Market Cap ({info['currency']}mn)": "{:.2f}".format(
-                FMPUtils.get_historical_market_cap(ticker_symbol, filing_date) / 1e6
+                FMPUtils.get_historical_market_cap(ticker_symbol, filing_date_str) / 1e6
             ),
             f"52 Week Price Range ({info['currency']})": "{:.2f} - {:.2f}".format(
                 fiftyTwoWeekLow, fiftyTwoWeekHigh
             ),
             f"BVPS ({info['currency']})": "{:.2f}".format(
-                FMPUtils.get_historical_bvps(ticker_symbol, filing_date)
+                FMPUtils.get_historical_bvps(ticker_symbol, filing_date_str)
             ),
         }
         return result
