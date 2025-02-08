@@ -4,7 +4,8 @@ import logging
 import traceback
 import json
 import base64
-from typing import Dict, Any, Optional
+import re
+from typing import Dict, Any, Optional, List, Tuple
 import queue
 import threading
 import io
@@ -13,6 +14,8 @@ from textwrap import dedent
 import streamlit as st
 from streamlit.runtime.scriptrunner import add_script_run_ctx
 import autogen
+import fitz  # PyMuPDF for PDF text extraction
+from PIL import Image
 
 from finrobot.agents.workflow import SingleAssistantShadow
 from finrobot.utils import register_keys_from_json
@@ -54,8 +57,8 @@ class StreamlitAssistant:
             self.assistant = SingleAssistantShadow(
                 agent_config=agent_config,
                 llm_config=llm_config,
-                max_consecutive_auto_reply=max_consecutive_auto_reply,
-                human_input_mode="NEVER"
+                max_consecutive_auto_reply=1,  # Limit auto-replies in general chat
+                human_input_mode="TERMINATE"  # Stop after one response
             )
             
             # Override the message handlers
@@ -301,6 +304,96 @@ def initialize_session_state():
             st.error(f"Failed to initialize assistant: {str(e)}")
             raise
 
+def extract_file_paths(content: str) -> List[Tuple[str, str]]:
+    """Extract file paths and their context from message content."""
+    file_paths = []
+    lines = content.split('\n')
+    
+    # Common phrases that might precede a file path
+    path_indicators = [
+        'saved to',
+        'file:',
+        'path:',
+        'located at',
+        'stored in',
+        'generated at',
+        'created at',
+        'output:',
+        'see:',
+        'view:'
+    ]
+    
+    # File extensions to look for
+    extensions = ['.txt', '.pdf', '.png', '.jpg', '.jpeg', '.md', '.csv', '.xlsx', '.docx']
+    
+    for i, line in enumerate(lines):
+        line_lower = line.lower()
+        
+        # Look for file paths after indicators
+        for indicator in path_indicators:
+            if indicator in line_lower:
+                parts = line.split(indicator, 1)
+                if len(parts) > 1:
+                    potential_path = parts[1].strip()
+                    if any(potential_path.lower().endswith(ext) for ext in extensions):
+                        context = parts[0].strip()
+                        file_paths.append((potential_path, context))
+                        break
+        
+        # Also look for file paths that are just mentioned in the text
+        words = line.split()
+        for word in words:
+            if any(word.lower().endswith(ext) for ext in extensions):
+                if os.path.exists(word):
+                    context = line.replace(word, '').strip()
+                    file_paths.append((word, context))
+    
+    return file_paths
+
+def interpret_document(file_path: str) -> str:
+    """Extract and interpret the content of a document."""
+    try:
+        if file_path.lower().endswith('.pdf'):
+            # Extract text from PDF
+            doc = fitz.open(file_path)
+            text = ""
+            for page in doc:
+                text += page.get_text()
+            doc.close()
+            
+            # Generate a summary
+            summary = f"""
+            Document Summary:
+            - Type: PDF
+            - Pages: {doc.page_count}
+            - Content Overview: {text[:500]}...
+            
+            Key Points:
+            - Contains tables: {"Table" in text}
+            - Contains figures: {"Figure" in text}
+            - Contains references: {"Reference" in text}
+            """
+            return summary
+            
+        elif file_path.lower().endswith('.txt'):
+            with open(file_path, 'r') as f:
+                text = f.read()
+            return f"Text Document Summary:\n{text[:500]}..."
+            
+        elif file_path.lower().endswith(('.png', '.jpg', '.jpeg')):
+            img = Image.open(file_path)
+            return f"""
+            Image Summary:
+            - Format: {img.format}
+            - Size: {img.size}
+            - Mode: {img.mode}
+            """
+            
+        return "Document type not supported for interpretation"
+        
+    except Exception as e:
+        return f"Error interpreting document: {str(e)}"
+
 def display_message(message: Dict[str, Any]):
     """Display a message in the Streamlit chat interface."""
     with st.chat_message(message["role"]):
@@ -341,35 +434,47 @@ def display_message(message: Dict[str, Any]):
                     else:
                         st.code(json.dumps(response, indent=2), language="json")
         
-        # Check for file paths in the message
-        file_paths = []
-        for line in content.split('\n'):
-            if any(ext in line.lower() for ext in ['.txt', '.pdf', '.png', '.jpg', '.jpeg']):
-                # Extract file path - assuming it's at the end of the line after 'saved to' or similar
-                if 'saved to' in line.lower():
-                    file_path = line.split('saved to')[-1].strip()
-                    file_paths.append(file_path)
+        # Extract and display file paths
+        file_paths = extract_file_paths(content)
         
         # Display file viewers for found paths
-        for file_path in file_paths:
+        for file_path, context in file_paths:
             try:
-                if file_path.lower().endswith('.txt'):
-                    with open(file_path, 'r') as f:
-                        txt_content = f.read()
-                    with st.expander(f"View {os.path.basename(file_path)}"):
-                        st.text(txt_content)
+                # Create a unique key for the expander
+                expander_key = f"{file_path}_{hash(context)}"
+                
+                with st.expander(f"📄 {os.path.basename(file_path)} - {context}", key=expander_key):
+                    col1, col2 = st.columns([2, 1])
+                    
+                    with col1:
+                        if file_path.lower().endswith('.txt'):
+                            with open(file_path, 'r') as f:
+                                txt_content = f.read()
+                            st.text(txt_content)
+                            
+                        elif file_path.lower().endswith('.pdf'):
+                            # Display PDF using PDF display component
+                            with open(file_path, "rb") as f:
+                                base64_pdf = base64.b64encode(f.read()).decode('utf-8')
+                            pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="700" height="1000" type="application/pdf"></iframe>'
+                            st.markdown(pdf_display, unsafe_allow_html=True)
+                            
+                        elif file_path.lower().endswith(('.png', '.jpg', '.jpeg')):
+                            st.image(file_path)
+                    
+                    with col2:
+                        st.markdown("### Document Analysis")
+                        interpretation = interpret_document(file_path)
+                        st.markdown(interpretation)
                         
-                elif file_path.lower().endswith('.pdf'):
-                    with st.expander(f"View {os.path.basename(file_path)}"):
-                        # Display PDF using PDF display component
+                        # Add download button
                         with open(file_path, "rb") as f:
-                            base64_pdf = base64.b64encode(f.read()).decode('utf-8')
-                        pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="700" height="1000" type="application/pdf"></iframe>'
-                        st.markdown(pdf_display, unsafe_allow_html=True)
-                        
-                elif file_path.lower().endswith(('.png', '.jpg', '.jpeg')):
-                    with st.expander(f"View {os.path.basename(file_path)}"):
-                        st.image(file_path)
+                            st.download_button(
+                                label="Download File",
+                                data=f.read(),
+                                file_name=os.path.basename(file_path),
+                                mime="application/octet-stream"
+                            )
                         
             except Exception as e:
                 st.error(f"Error displaying file {file_path}: {str(e)}")
@@ -414,8 +519,8 @@ def generate_annual_report(ticker: str, year: str):
         assistant = SingleAssistantShadow(
             agent_config="Expert_Investor",
             llm_config=llm_config,
-            max_consecutive_auto_reply=None,
-            human_input_mode="NEVER"
+            max_consecutive_auto_reply=None,  # Allow unlimited auto-replies for PDF generation
+            human_input_mode="NEVER"  # Keep automated for PDF generation
         )
         
         # Create the report generation message with more practical guidelines
@@ -556,13 +661,10 @@ def main():
     if prompt := st.chat_input("Message FinRobot..."):
         logger.info("Received user input: %s", prompt)
         
-        # Add user message
+        # Add user message to session state without displaying it
+        # (Streamlit's chat_input automatically displays the message)
         user_message = {"role": "user", "content": prompt}
         st.session_state.messages.append(user_message)
-        
-        # Display user message
-        with st.chat_message("user"):
-            st.markdown(prompt)
         
         try:
             # Start chat in background
@@ -577,6 +679,7 @@ def main():
                     display_message(msg)
                 except queue.Empty:
                     continue
+                    
         except Exception as e:
             logger.error("Error processing chat: %s", str(e))
             st.error(f"An error occurred: {str(e)}")
