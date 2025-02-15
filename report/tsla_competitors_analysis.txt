@@ -1,0 +1,158 @@
+
+
+0:
+TSLA: EBITDA Margin       0.12
+EV/EBITDA         109.96
+FCF Conversion       2.1
+Gross Margin        0.18
+ROIC                5.9%
+Revenue            97690
+Revenue Growth       N/A
+Name: 0, dtype: object
+GM: EBITDA Margin       0.12
+EV/EBITDA           7.82
+FCF Conversion      3.35
+Gross Margin        0.12
+ROIC                4.9%
+Revenue           187442
+Revenue Growth       N/A
+Name: 0, dtype: object
+F: EBITDA Margin       0.08
+EV/EBITDA          12.45
+FCF Conversion      2.62
+Gross Margin        0.14
+ROIC                1.8%
+Revenue           184992
+Revenue Growth       N/A
+Name: 0, dtype: object
+RIVN: EBITDA Margin      -0.96
+EV/EBITDA          -4.51
+FCF Conversion       0.9
+Gross Margin       -0.46
+ROIC              -39.9%
+Revenue             4434
+Revenue Growth       N/A
+Name: 0, dtype: object
+
+
+1:
+TSLA: EBITDA Margin      0.15
+EV/EBITDA         52.84
+FCF Conversion     0.88
+Gross Margin       0.18
+ROIC              16.5%
+Revenue           96773
+Revenue Growth    -0.9%
+Name: 1, dtype: object
+GM: EBITDA Margin       0.13
+EV/EBITDA           6.63
+FCF Conversion      2.07
+Gross Margin        0.11
+ROIC                4.0%
+Revenue           171842
+Revenue Growth     -8.3%
+Name: 1, dtype: object
+F: EBITDA Margin       0.07
+EV/EBITDA          14.81
+FCF Conversion      3.43
+Gross Margin        0.09
+ROIC                2.7%
+Revenue           176191
+Revenue Growth     -4.8%
+Name: 1, dtype: object
+RIVN: EBITDA Margin      -3.61
+EV/EBITDA          -1.18
+FCF Conversion      0.75
+Gross Margin       -1.88
+ROIC              -44.2%
+Revenue             1658
+Revenue Growth    -62.6%
+Name: 1, dtype: object
+
+
+2:
+TSLA: EBITDA Margin       0.22
+EV/EBITDA          21.24
+FCF Conversion      1.17
+Gross Margin        0.26
+ROIC               21.7%
+Revenue            81462
+Revenue Growth    -15.8%
+Name: 2, dtype: object
+GM: EBITDA Margin       0.15
+EV/EBITDA           6.04
+FCF Conversion      1.61
+Gross Margin        0.13
+ROIC                4.1%
+Revenue           156735
+Revenue Growth     -8.8%
+Name: 2, dtype: object
+F: EBITDA Margin       0.12
+EV/EBITDA          34.21
+FCF Conversion     -3.18
+Gross Margin        0.15
+ROIC                4.2%
+Revenue           158057
+Revenue Growth    -10.3%
+Name: 2, dtype: object
+RIVN: EBITDA Margin     -73.11
+EV/EBITDA         -17.21
+FCF Conversion      0.56
+Gross Margin       -8.45
+ROIC              -20.1%
+Revenue               55
+Revenue Growth    -96.7%
+Name: 2, dtype: object
+
+
+3:
+TSLA: EBITDA Margin       0.18
+EV/EBITDA         107.39
+FCF Conversion      2.08
+Gross Margin        0.25
+ROIC               13.1%
+Revenue            53823
+Revenue Growth    -33.9%
+Name: 3, dtype: object
+GM: EBITDA Margin        0.2
+EV/EBITDA           6.78
+FCF Conversion      1.52
+Gross Margin        0.14
+ROIC                5.2%
+Revenue           127004
+Revenue Growth    -19.0%
+Name: 3, dtype: object
+F: EBITDA Margin       0.17
+EV/EBITDA            7.9
+FCF Conversion      0.88
+Gross Margin        0.16
+ROIC                8.1%
+Revenue           136341
+Revenue Growth    -13.7%
+Name: 3, dtype: object
+RIVN: EBITDA Margin         0.0
+EV/EBITDA           -88.6
+FCF Conversion       0.83
+Gross Margin          0.0
+ROIC               -25.5%
+Revenue                 0
+Revenue Growth    -100.0%
+Name: 3, dtype: object
+
+
+Resource: Financial metrics for TSLA and ['GM', 'F', 'RIVN'].
+
+Instruction: 
+Analyze the financial metrics for {company}/ticker_symbol and its competitors: {competitors} across multiple years (indicated as 0, 1, 2, 3, with 0 being the latest year and 3 the earliest year). Focus on the following metrics: EBITDA Margin, EV/EBITDA, FCF Conversion, Gross Margin, ROIC, Revenue, and Revenue Growth. 
+For each year: Year-over-Year Trends: Identify and discuss the trends for each metric from the earliest year (3) to the latest year (0) for {company}. But when generating analysis, you need to write 1: year 3 = year 2023, 2: year 2 = year 2022, 3: year 1 = year 2021 and 4: year 0 = year 2020. Highlight any significant improvements, declines, or stability in these metrics over time.
+Competitor Comparison: For each year, compare {company} against its {competitors} for each metric. Evaluate how {company} performs relative to its {competitors}, noting where it outperforms or lags behind.
+Metric-Specific Insights:
+
+EBITDA Margin: Discuss the profitability of {company} compared to its {competitors}, particularly in the most recent year.
+EV/EBITDA: Provide insights on the valuation and whether {company} is over or undervalued compared to its {competitors} in each year.
+FCF Conversion: Evaluate the cash flow efficiency of {company} relative to its {competitors} over time.
+Gross Margin: Analyze the cost efficiency and profitability in each year.
+ROIC: Discuss the return on invested capital and what it suggests about the company's efficiency in generating returns from its investments, especially focusing on recent trends.
+Revenue and Revenue Growth: Provide a comprehensive view of {company}'s revenue performance and growth trajectory, noting any significant changes or patterns.
+Conclusion: Summarize the overall financial health of {company} based on these metrics. Discuss how {company}'s performance over these years and across these metrics might justify or contradict its current market valuation (as reflected in the EV/EBITDA ratio).
+Avoid using any bullet points.

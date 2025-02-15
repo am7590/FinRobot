@@ -1,0 +1,162 @@
+
+
+0:
+TSLA: EBITDA Margin       0.12
+EV/EBITDA         109.96
+FCF Conversion       2.1
+Gross Margin        0.18
+ROIC                5.9%
+Revenue            97690
+Revenue Growth       N/A
+Name: 0, dtype: object
+GM: EBITDA Margin       0.12
+EV/EBITDA           7.82
+FCF Conversion      3.35
+Gross Margin        0.12
+ROIC                4.9%
+Revenue           187442
+Revenue Growth       N/A
+Name: 0, dtype: object
+Ford: EBITDA Margin      -0.05
+EV/EBITDA          -2.56
+FCF Conversion     -0.21
+Gross Margin        0.21
+ROIC              -33.7%
+Revenue               30
+Revenue Growth       N/A
+Name: 0, dtype: object
+NIO: EBITDA Margin      -0.27
+EV/EBITDA          -8.38
+FCF Conversion      0.07
+Gross Margin        0.05
+ROIC              -26.4%
+Revenue            55618
+Revenue Growth       N/A
+Name: 0, dtype: object
+Rivian: N/A (Error: 0)
+
+
+1:
+TSLA: EBITDA Margin      0.15
+EV/EBITDA         52.84
+FCF Conversion     0.88
+Gross Margin       0.18
+ROIC              16.5%
+Revenue           96773
+Revenue Growth    -0.9%
+Name: 1, dtype: object
+GM: EBITDA Margin       0.13
+EV/EBITDA           6.63
+FCF Conversion      2.07
+Gross Margin        0.11
+ROIC                4.0%
+Revenue           171842
+Revenue Growth     -8.3%
+Name: 1, dtype: object
+Ford: EBITDA Margin      0.02
+EV/EBITDA         14.72
+FCF Conversion    -0.28
+Gross Margin       0.23
+ROIC               0.9%
+Revenue              37
+Revenue Growth    23.9%
+Name: 1, dtype: object
+NIO: EBITDA Margin      -0.29
+EV/EBITDA          -8.91
+FCF Conversion      0.27
+Gross Margin         0.1
+ROIC              -22.7%
+Revenue            49269
+Revenue Growth    -11.4%
+Name: 1, dtype: object
+Rivian: N/A (Error: 1)
+
+
+2:
+TSLA: EBITDA Margin       0.22
+EV/EBITDA          21.24
+FCF Conversion      1.17
+Gross Margin        0.26
+ROIC               21.7%
+Revenue            81462
+Revenue Growth    -15.8%
+Name: 2, dtype: object
+GM: EBITDA Margin       0.15
+EV/EBITDA           6.04
+FCF Conversion      1.61
+Gross Margin        0.13
+ROIC                4.1%
+Revenue           156735
+Revenue Growth     -8.8%
+Name: 2, dtype: object
+Ford: EBITDA Margin      -0.02
+EV/EBITDA          17.64
+FCF Conversion     -1.11
+Gross Margin         0.2
+ROIC              -10.6%
+Revenue               42
+Revenue Growth     15.4%
+Name: 2, dtype: object
+NIO: EBITDA Margin      -0.09
+EV/EBITDA        -326.02
+FCF Conversion     -0.49
+Gross Margin        0.19
+ROIC               -7.4%
+Revenue            36136
+Revenue Growth    -26.7%
+Name: 2, dtype: object
+Rivian: N/A (Error: 2)
+
+
+3:
+TSLA: EBITDA Margin       0.18
+EV/EBITDA         107.39
+FCF Conversion      2.08
+Gross Margin        0.25
+ROIC               13.1%
+Revenue            53823
+Revenue Growth    -33.9%
+Name: 3, dtype: object
+GM: EBITDA Margin        0.2
+EV/EBITDA           6.78
+FCF Conversion      1.52
+Gross Margin        0.14
+ROIC                5.2%
+Revenue           127004
+Revenue Growth    -19.0%
+Name: 3, dtype: object
+Ford: EBITDA Margin     -0.02
+EV/EBITDA        -63.67
+FCF Conversion    -1.01
+Gross Margin       0.21
+ROIC              -7.5%
+Revenue              39
+Revenue Growth    -7.8%
+Name: 3, dtype: object
+NIO: EBITDA Margin       -0.3
+EV/EBITDA        -104.37
+FCF Conversion     -0.37
+Gross Margin        0.12
+ROIC              -10.7%
+Revenue            16258
+Revenue Growth    -55.0%
+Name: 3, dtype: object
+Rivian: N/A (Error: 3)
+
+
+Resource: Financial metrics for TSLA and ['GM', 'Ford', 'NIO', 'Rivian'].
+
+Instruction: 
+Analyze the financial metrics for {company}/ticker_symbol and its competitors: {competitors} across multiple years (indicated as 0, 1, 2, 3, with 0 being the latest year and 3 the earliest year). Focus on the following metrics: EBITDA Margin, EV/EBITDA, FCF Conversion, Gross Margin, ROIC, Revenue, and Revenue Growth. 
+For each year: Year-over-Year Trends: Identify and discuss the trends for each metric from the earliest year (3) to the latest year (0) for {company}. But when generating analysis, you need to write 1: year 3 = year 2023, 2: year 2 = year 2022, 3: year 1 = year 2021 and 4: year 0 = year 2020. Highlight any significant improvements, declines, or stability in these metrics over time.
+Competitor Comparison: For each year, compare {company} against its {competitors} for each metric. Evaluate how {company} performs relative to its {competitors}, noting where it outperforms or lags behind.
+Metric-Specific Insights:
+
+EBITDA Margin: Discuss the profitability of {company} compared to its {competitors}, particularly in the most recent year.
+EV/EBITDA: Provide insights on the valuation and whether {company} is over or undervalued compared to its {competitors} in each year.
+FCF Conversion: Evaluate the cash flow efficiency of {company} relative to its {competitors} over time.
+Gross Margin: Analyze the cost efficiency and profitability in each year.
+ROIC: Discuss the return on invested capital and what it suggests about the company's efficiency in generating returns from its investments, especially focusing on recent trends.
+Revenue and Revenue Growth: Provide a comprehensive view of {company}'s revenue performance and growth trajectory, noting any significant changes or patterns.
+Conclusion: Summarize the overall financial health of {company} based on these metrics. Discuss how {company}'s performance over these years and across these metrics might justify or contradict its current market valuation (as reflected in the EV/EBITDA ratio).
+Avoid using any bullet points.

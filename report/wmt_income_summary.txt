@@ -1,0 +1,13 @@
+Resource: None
+
+Instruction: 
+Income statement analysis: /Users/alekmichelson/Development/finrobot-2/FinRobot/report/wmt_operating_results.txt,
+Segment analysis: /Users/alekmichelson/Development/finrobot-2/FinRobot/report/wmt_segment_analysis.txt,
+Synthesize the findings from the in-depth income statement analysis and segment analysis into a single, coherent paragraph. 
+It should be fact-based and data-driven. First, present and assess overall revenue and profit situation, noting significant 
+trends and changes. Second, examine the performance of the various business segments, with an emphasis on their revenue and 
+profit changes, revenue contributions and market dynamics. For information not covered in the first two areas, identify and 
+integrate key findings related to operation, potential risks and strategic opportunities for growth and stability into the analysis. 
+For each part, integrate historical data comparisons and provide relevant facts, metrics or data as evidence. The entire synthesis 
+should be presented as a continuous paragraph without the use of bullet points. Use subtitles and numbering for each key point. 
+The total output should be less than 160 words.

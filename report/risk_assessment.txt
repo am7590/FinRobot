@@ -1,0 +1,1001 @@
+Resource: Company Name: Tesla, Inc.
+
+Risk factors:
+ ITEM 1A. RISK FACTORS ##TABLE_END You should carefully consider the risks described below together with the other information set forth in this report, which could materially affect our business, financial condition and future results. The risks described below are not the only risks facing our company. Risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition and operating results. 
+
+Risks Related to Our Business and Industry 
+
+Our limited operating history makes evaluating our business and future prospects difficult, and may increase the risk of your investment. 
+
+You must consider the risks and difficulties we face as an early stage company with a limited operating history. If we do not successfully address these risks, our business, prospects, operating results and financial condition will be materially and adversely harmed. We were formed in July 2003. We began delivering our first performance electric vehicle, the Tesla Roadster, in early 2008, and as of December 31, 2011, we had only sold approximately 2,150 Roadsters to customers, almost all of which were sold in the United States and Europe. Our revenues for the years ended December 31, 2011, 2010 and 2009 were $204.2 million, $116.7 million and $111.9 million, respectively. We have a very limited operating history on which investors can base an evaluation of our business, operating results and prospects. 
+
+To date, we have derived our revenues principally from sales of the Tesla Roadster and from electric powertrain development services and sales. We intend in the longer term to derive substantial revenues from the sales of our Model S sedan, our Model X crossover and future electric vehicles. Model S is in development and we plan to commence deliveries by July 2012. We have no operating history with respect to Model S and have not yet fully completed the component procurement process for Model S, which limits our ability to accurately forecast the cost of the vehicle. Further, we have only recently produced an early prototype of the Model X crossover. We plan to start Model X production in late 2013 and ramp to significant customer deliveries in early 2014. We only completed the purchase of our Tesla Factory in Fremont, California in October 2010 to produce such vehicles, and we have not yet completely finalized the full vehicle design or our engineering, manufacturing or component supply plans for Model S. In addition, our powertrain component sales, development services revenue and powertrain research and development compensation have been almost entirely generated under arrangements with Daimler AG (Daimler) and Toyota Motor Corporation (Toyota). While in November 2011 we received a letter of intent from Daimler for a full electric powertrain program for a vehicle in the Mercedes line and recently we received a purchase order to begin the development work, we have not yet finalized with Daimler the terms for this program and may never do so. Furthermore, while we have executed a supply and services agreement with Toyota related to the Toyota RAV4 EV program, there are no assurances that we will be able to secure future business with Daimler, Toyota or any of their affiliates. 
+
+It is difficult to predict our future revenues and appropriately budget for our expenses, and we have limited insight into trends that may emerge and affect our business. For example, during the years ended 2011, 2010 and 2009, we recorded quarterly revenues of as much as $58.2 million and as little as $18.6 million and quarterly operating losses of as much as $80.9 million and as little as $4.3 million. In the event that actual results differ from our estimates or we adjust our estimates in future periods, our operating results and financial position could be materially affected. 
+
+In addition, our revenues to date have included amounts we receive from selling zero emission vehicle (ZEV) credits to other automobile manufacturers, pursuant to certain state regulations. While we continue to sign agreements with automakers to sell ZEV and other regulatory credits, we may not be able to enter into new agreements to sell any additional credits related to Model S, Model X or our other future vehicles, which would negatively impact our revenues and margin targets in the long term. 
+
+&#160; 
+
+Although we are significantly dependent upon revenue generated from the sale of the Tesla Roadster and our powertrain activities with other OEMs in the near term, our future success will be dependent upon our ability to design and achieve market acceptance of new vehicle models, specifically Model S and Model X. 
+
+We currently generate a significant percentage of our revenues from the sale of our Tesla Roadsters. We ended the production run of the Tesla Roadster at 2,500 vehicles in January 2012 and sales of new Tesla Roadsters are now limited to any vehicles available from our remaining inventory. 
+
+Our second planned vehicle, our Model S, will not be in production until mid-2012, requires significant investment prior to commercial introduction, and may never be successfully developed or commercially successful. Additionally, there can be no assurance that we will be able to design future electric vehicles that will meet the expectations of our customers or that our future models, including Model S and Model X, will become commercially viable. To the extent that we are not able to build the production Model S and Model X to the expectations created by the early prototypes and our announced specifications, customers may cancel their reservations, our future sales could be harmed and investors may lose confidence in us. Furthermore, historically, automobile customers have come to expect new and improved vehicle models to be introduced frequently. In order to meet these expectations, we may in the future be required to introduce on a regular basis new vehicle models as well as enhanced versions of existing vehicle models. As technologies change in the future for automobiles in general and performance electric vehicles specifically, we will be expected to upgrade or adapt our vehicles and introduce new models in order to continue to provide vehicles with the latest technology. To date, we have limited experience simultaneously designing, testing, manufacturing, upgrading, adapting and selling our electric vehicles. 
+
+We anticipate that we will experience a significant increase in losses and will experience a significant decrease in revenues prior to the launch of Model S. 
+
+Prior to the launch of our Model S, we anticipate our revenues will decline significantly as we have a limited supply of Tesla Roadsters remaining to be sold. As a result, we anticipate that we will generate limited revenues from selling electric vehicles in 2012 until the launch of our Model S. The launch of our Model S could be delayed for a number of reasons and any such delays may be significant and would extend the period in which we would generate limited revenues from sales of our electric vehicles. Furthermore, although we recently received a letter of intent and a purchase order from Daimler for a full electric powertrain program for a vehicle in the Mercedes line, we have not yet finalized with Daimler the terms for this program. In addition to the limited number of the Tesla Roadsters left for sale, we also expect powertrain component sales to be limited until the start of production for the Toyota RAV4 EV program during the first half of 2012. The potential decrease in sales revenue prior to the launch of Model S due to declines in both Roadster and powertrain component sales could materially and adversely affect our business, prospects, operating results and financial condition and our ability to fund operating losses could seriously constrain our growth. 
+
+Our production model for the non-powertrain portion of Model S is unproven, still evolving and is very different from the non-powertrain portion of the production model for the Tesla Roadster. 
+
+Our future business depends in large part on our ability to execute on our plans to develop, manufacture, market and sell our Model S. To date, our revenues have been principally derived from the sales of our Tesla Roadster. The Tesla Roadster has only been produced in low volume quantities and the body was assembled by Lotus Cars Limited (Lotus) in the United Kingdom, with the final assembly by us at our facility in Menlo Park, California for sales destined in the United States. We plan to manufacture Model S in higher volumes at our Tesla Factory. As a result, the non-powertrain portion of the production model for Model S will be substantially different and significantly more complex than the non-powertrain portion of the production model for the Tesla Roadster. In addition, for Model S we plan to introduce a number of new manufacturing technologies and techniques, such as aluminum spot welding systems, which have not been widely adopted in the automotive industry, and the vehicle will have a number of new and unique design features, such as a 17 inch display screen, newly designed retractable exterior door handles and a panoramic roof. Our Model S production model will 
+
+&#160; 
+
+require significant investments of cash and management resources and we may experience unexpected delays or difficulties that could postpone our ability to launch or achieve full manufacturing capacity for Model S, which could have a material adverse effect on our business, prospects, operating results and financial condition. 
+
+Our production model for Model S is based on many key assumptions, which may turn out to be incorrect, including: 
+
+&#160;
+
+##TABLE_START &#160; &#149; &#160; that we will be able to complete changes to the late stage design of Model S in a timely manner that meets our targeted production date and allows for high quality manufacturing; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; that we will be able to engage suppliers for all the necessary components on terms and conditions acceptable to us and that we will be able to obtain all components on a timely basis and in the necessary quantities, quality and at acceptable prices; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; that we will not experience any significant delays or disruptions in our supply chain; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; that our internal crash testing and computer aided design and engineering processes can accurately predict the performance of our vehicle for passing relevant safety standards and that we will be able to meet our safety goals without changing materials or designs in a way that would impact our anticipated start of production; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; that we will be able to build out and equip the Tesla Factory in a timely manner, including meeting milestones and other conditions necessary to draw down funds under our loan facility with the United States Department of Energy (such loan facility, including amendments thereto, the DOE Loan Facility); 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; that we will be able to develop and equip the Tesla Factory without exceeding our projected costs and on our projected timeline; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; that the equipment which we have purchased or which we select will be able to accurately manufacture the vehicle within specified design tolerances; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; that we will be able to comply with environmental, workplace safety and similar regulations to operate our manufacturing facilities and our business on our projected timeline; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; that Model S will obtain the necessary government approvals in a timely fashion without impacting our planned start of production; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; that we will be able to attract, recruit, hire and train a sufficient number of skilled employees, including employees on the production line, to operate the Tesla Factory, and do so in a timely fashion; and 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; that we will be able to maintain high quality controls as we transition to a higher level of in-house manufacturing process. 
+
+##TABLE_END If one or more of the foregoing assumptions turns out to be incorrect, and we are unable to successfully launch Model S on time and on budget and to ramp to our planned volume production, our business prospects, operating results and financial condition may be materially and adversely impacted. 
+
+We have no experience to date in high volume manufacturing of our electric vehicles. 
+
+We do not know whether we will be able to develop efficient, automated, low-cost manufacturing capability and processes, and reliable sources of component supply that will enable us to meet the quality, price, engineering, design and production standards, as well as the production volumes required to successfully mass market Model S. Even if we are successful in developing our high volume manufacturing capability and processes and reliable sources of component supply, we do not know whether we will be able to do so in a manner that avoids significant delays and cost overruns, including as a result of factors beyond our control such as problems with suppliers and vendors, or in time to meet our vehicle commercialization schedules or to satisfy the requirements of customers. We have, and may in the future, experience cost increases from certain of our suppliers in order to meet our quality targets and development timelines as well as due to design changes that we 
+
+&#160; 
+
+make. Any failure to develop such manufacturing processes and capabilities within our projected costs and timelines could have a material adverse effect on our business, prospects, operating results and financial condition. 
+
+We may experience significant delays in the design, manufacture, launch, financing and ramping up of production of Model S, which could harm our business and prospects. 
+
+Any delay in the financing, design, manufacture and launch of Model S could materially damage our brand, business, prospects, financial condition and operating results. Automobile manufacturers often experience delays in the design, manufacture and commercial release of new vehicle models. We experienced significant delays in launching the Tesla Roadster. We initially announced that we would begin delivering the Tesla Roadster in June 2007, but due to various design and production delays, we did not physically deliver our first Tesla Roadster until February 2008, and we only achieved higher production of this vehicle in the fourth quarter of 2008. These delays resulted in additional costs and adverse publicity for our business. 
+
+We may experience similar delays in launching and ramping up production of Model S, and any such delays could be significant. In addition, final designs for Model S and plans for the operation of the Tesla Factory using production tooling are still in process and have not yet been completely finalized. We continue to make final adjustments to the design of Model S to create the highest quality electric vehicle in the world. If we do not complete these late stage changes to the design of Model S however, and do not execute on Model S manufacturing plans in a timely manner, we may be unable to meet our plan to deliver first customer vehicles by July 2012 or ramp up our planned production of Model S in a timely manner, our costs may rise and/or Model S that we do produce initially or after ramp up may be lower in quality. Additionally, detailed testing of systems integration, performance and safety are ongoing and any negative results from such testing could cause production delays in Model S, cost increases or lower quality Model S vehicles. 
+
+In addition, we are currently evaluating, qualifying and selecting our remaining suppliers for the planned production of Model S. However, we may not be able to engage suppliers for the remaining components in a timely manner, at an acceptable price or in the necessary quantities. Furthermore, even if we are able to engage needed suppliers, such suppliers may not be ready or able to supply us with needed Model S components in a timely manner or may be unable to provide us with the necessary level of quality components that we require. 
+
+In addition, we will also need to do extensive testing to ensure that Model S is in compliance with applicable National Highway Traffic Safety Administration (NHTSA) safety regulations and United States Environmental Protection Agency (EPA) and California Air Resources Board (CARB) emission regulations prior to beginning mass production and delivery of the vehicles. 
+
+Our plan to begin production of Model S in mid-2012 is dependent upon the timely availability of funds from our DOE Loan Facility, upon our finalizing the related design, engineering, component procurement, testing, and manufacturing plans in a timely manner, and upon our ability to execute these plans within the current timeline. 
+
+We completed the purchase of the Tesla Factory in October 2010 and selected it in part because it was recently used for automobile manufacturing, was located within 20 miles of our Palo Alto engineering facility, and we believe its size may allow us to adapt our internal manufacturing plans quickly. We expect that all these factors will support the timely start of production for Model S. However, because we are still implementing our manufacturing plans, including the purchasing and installment of needed tooling, we may experience unexpected delays in ramping up production at this facility for the production of our Model S. 
+
+In January 2010, we entered into a loan facility with the Federal Financing Bank (FFB) that is guaranteed by the DOE (DOE Loan Facility). Our DOE Loan Facility provides for a $465.0 million loan facility under the DOE&#146;s Advanced Technology Vehicles Manufacturing Loan Program (ATVM Program) to help finance the continued development of Model S, including the build out and operation of a manufacturing facility, and to 
+
+&#160; 
+
+finance the build out and operation of our electric powertrain manufacturing facility. We intend to fund the final tooling purchases and the remaining Model S related development expenses principally by using existing cash and cash obtained through the DOE Loan Facility. Our ability to draw down these funds under the DOE Loan Facility is conditioned upon certain draw conditions, including our achievement of progress milestones relating to the design and development of Model S as well as financial covenants. If we are unable to draw down the anticipated funds under the DOE Loan Facility on the timeline that we anticipate, our plans for building our Model S and electric powertrain manufacturing plants could be significantly delayed which would materially adversely affect our business, prospects, financial condition and operating results. 
+
+We are dependent on our suppliers, a significant number of which are single source suppliers, and the inability of these suppliers to continue to deliver, or their refusal to deliver, necessary components of our vehicles in a timely manner at prices, quality levels, and volumes acceptable to us would have a material adverse effect on our business, prospects and operating results. 
+
+Model S contains numerous purchased parts which we source globally from over 200 direct suppliers, many of whom are currently single source suppliers for these components. While we obtain components from multiple sources whenever possible, similar to other automobile manufacturers, many of the components used in our vehicles are purchased by us from a single source. While we are currently working to establish long-term agreements with our entire supplier base, to date we have not qualified alternative sources for most of the single sourced components used in our vehicles and we generally do not maintain long-term agreements with our suppliers. 
+
+While we believe that we may be able to establish alternate supply relationships and can obtain or engineer replacement components for our single source components, we may be unable to do so in the short term or at all at prices or costs that are favorable to us. In particular, while we believe that we will be able to secure alternate sources of supply for almost all of our single sourced components in a relatively short time frame, qualifying alternate suppliers or developing our own replacements for certain highly customized components of our vehicles may be time consuming, costly and may force us to make additional modifications to a vehicle&#146;s design. 
+
+This supply chain exposes us to multiple potential sources of delivery failure or component shortages for Model S, as well as for our powertrain component sales activities. For example, earthquakes similar to the one that occurred in Japan in March 2011 could negatively impact our supply chain. We are currently evaluating, qualifying and selecting our suppliers for the planned production of Model S and we intend to establish dual suppliers and multiple manufacturing locations for some suppliers for several key components of Model S, although we expect that most of components for Model S will be single sourced. We have in the past experienced source disruptions in our supply chains, which have caused delays in our production process and we may experience additional delays in the future with respect to Model S and any other future vehicle we may produce. 
+
+Changes in business conditions, wars, governmental changes and other factors beyond our control or which we do not presently anticipate, could also affect our suppliers&#146; ability to deliver components to us on a timely basis. Furthermore, if we experience significant increased demand, or need to replace certain existing suppliers, there can be no assurance that additional supplies of component parts will be available when required on terms that are favorable to us, at all, or that any supplier would allocate sufficient supplies to us in order to meet our requirements or fill our orders in a timely manner. In the past, we have replaced certain suppliers because of their failure to provide components that met our quality control standards. The loss of any single or limited source supplier or the disruption in the supply of components from these suppliers could lead to delays in vehicle deliveries to our customers, which could hurt our relationships with our customers and also materially adversely affect our business, prospects and operating results. 
+
+Changes in our supply chain have resulted in the past, and may result in the future, in increased cost and delay. For example, a change in our supplier for our carbon fiber body panels contributed to the delay in our ability to ramp our production of the Tesla Roadster. A failure by our suppliers to provide the components in a timely manner or at the level of quality necessary to manufacture our performance electric vehicles such as our 
+
+&#160; 
+
+Model S could prevent us from fulfilling customer orders in a timely fashion which could result in negative publicity, damage our brand and have a material adverse effect on our business, prospects, financial condition and operating results. 
+
+We face significant barriers in our attempt to produce our Model S, and if we cannot successfully overcome those barriers our business will be negatively impacted. 
+
+We face significant barriers as we attempt to produce our first mass produced vehicle, our Model S. We currently have drivable prototypes of Model S, but do not have a final design, or completely finalized manufacturing processes. The automobile industry has traditionally been characterized by significant barriers to entry, including large capital requirements, investment costs of designing and manufacturing vehicles, long lead times to bring vehicles to market from the concept and design stage, the need for specialized design and development expertise, regulatory requirements and establishing a brand name and image and the need to establish sales and service locations. As a manufacturer and seller of only electric vehicles, we face a variety of added challenges to entry that a traditional automobile manufacturer would not encounter including additional costs of developing and producing an electric powertrain that has comparable performance to a traditional gasoline engine in terms of range and power, inexperience with servicing electric vehicles, regulations associated with the transport of lithium-ion battery packs and unproven high-volume customer demand for fully electric vehicles. In addition, while we are designing Model S to have the capability to rapidly swap out its battery pack, there are no specialized public facilities today to perform such swapping. Also, while we expect to be able to achieve a 300 mile range while traveling at a speed of 55 miles per hour, our ability to do so will depend on the feasibility and availability of appropriate battery cell technologies and improvements that we are able to achieve in reducing energy consumption. We must successfully overcome these barriers as we move from producing the low volume Tesla Roadster to producing Model S at much higher volumes. If we are not able to overcome these barriers, our business, prospects, operating results and financial condition will be negatively impacted and our ability to grow our business will be harmed. 
+
+We may fail to meet our publicly announced guidance or other expectations about our business, which would cause our stock price to decline. 
+
+We provide guidance regarding our expected financial and business performance. Correctly identifying the key factors affecting business conditions and predicting future events is inherently an uncertain process. Our guidance is based in part on assumptions which include, but are not limited to, assumptions regarding our ability to achieve anticipated volumes and projected average sales prices for our Model S sedan, assumptions regarding supplier and commodity-related costs and assumptions regarding planned cost reductions. Such guidance may not always be accurate or may vary from actual results due to our inability to meet our assumptions and the impact on our financial performance that could occur as a result of the various risks and uncertainties to our business as set forth in these risk factors. We offer no assurance that such guidance will ultimately be accurate, and investors should treat any such guidance with appropriate caution. If we fail to meet our guidance or if we find it necessary to revise such guidance, investors and analysts may lose confidence in us and the market value of our common stock could be materially adversely affected. 
+
+Our vehicles make use of lithium-ion battery cells, which have been observed to catch fire or vent smoke and flame, and such events have raised concerns about the batteries used in automotive applications. 
+
+The battery pack in the Tesla Roadster makes use of lithium-ion cells. We also currently intend to make use of lithium-ion cells in the battery pack for Model S and any future vehicles we may produce. On rare occasions, lithium-ion cells can rapidly release the energy they contain by venting smoke and flames in a manner that can ignite nearby materials as well as other lithium-ion cells. Highly publicized incidents of laptop computers and cell phones bursting into flames have focused consumer attention on the safety of these cells. More recently, multiple Chevrolet Volt battery pack fires followed by a government investigation into the cause of such fires focused considerable public attention, as well as the attention of NHTSA, on the safety of electric vehicles. The events have raised concerns about the batteries used in automotive applications. To address these questions and 
+
+&#160; 
+
+concerns, a number of cell manufacturers are pursuing alternative lithium-ion battery cell chemistries to improve safety. We have designed our battery pack to passively contain any single cell&#146;s release of energy without spreading to neighboring cells and we are not aware of any such incident in our customers&#146; vehicles. We have tested the battery packs and subjected them to damaging treatments such as baking, overcharging, crushing or puncturing to assess our battery pack&#146;s response to deliberate and sometimes destructive abuse. However, we have delivered only a limited number of Tesla Roadsters to customers and have limited field experience with our vehicles, especially Model S. Additionally, final safety testing for Model S, some versions of which use new, higher density cells in their battery packs, is currently in progress. Accordingly, there can be no assurance that a field failure of our Model S or other battery packs will not occur, which could damage the vehicle or lead to personal injury or death and may subject us to lawsuits. We may have to redesign our battery packs, which would be time consuming and expensive. In addition, negative public perceptions regarding the suitability of lithium-ion cells for automotive applications could seriously harm our business. 
+
+In addition, we store a significant number of lithium-ion cells at our manufacturing facility. Any mishandling of battery cells may cause disruption to the operation of our facilities. While we have implemented safety procedures related to the handling of the cells, there can be no assurance that a safety issue or fire related to the cells would not disrupt our operations. Such damage or injury would likely lead to adverse publicity and potentially a safety recall. Moreover, any failure of a competitor&#146;s electric vehicle, especially those that use a high volume of commodity cells similar to the Tesla Roadster or Model S, may cause indirect adverse publicity for us and our electric vehicles. Such adverse publicity would negatively affect our brand and harm our business, prospects, financial condition and operating results. 
+
+If our vehicles fail to perform as expected, or if we suffer product recalls for our upcoming Model S, our ability to develop, market and sell our electric vehicles could be harmed. 
+
+Our vehicles may contain defects in design and manufacture that may cause them not to perform as expected or that may require repair. For example, our vehicles use a substantial amount of software code to operate. Software products are inherently complex and often contain defects and errors when first introduced. While we have performed extensive internal testing, we currently have a limited frame of reference by which to evaluate the long-term performance of our Tesla Roadster. We have no frame of reference by which to evaluate our Model S upon which our business prospects depend. There can be no assurance that we will be able to detect and fix any defects in the vehicles prior to their sale to consumers. We experienced product recalls in May 2009 and October 2010, both of which were unrelated to our electric powertrain. In May 2009, we initiated a product recall after we determined that a condition caused by insufficient torquing of the rear inner hub flange bolt existed in some of our Tesla Roadsters, as a result of a missed process during the manufacture of the Tesla Roadster glider, which is the partially assembled Tesla Roadster that does not contain our electric powertrain. In October 2010, we initiated a product recall after the 12 volt, low voltage auxiliary cable in a single vehicle chafed against the edge of a carbon fiber panel in the vehicle causing a short, smoke and possible fire behind the right front headlamp of the vehicle. Although the cost of the most recent recall was not material, we may experience additional recalls in the future, which could adversely affect our brand in our target markets and could adversely affect our business, prospects and results of operations. 
+
+Our electric vehicles, including the Tesla Roadster and Model S, may not perform consistent with customers&#146; expectations or consistent with other vehicles currently available. For example, our electric vehicles may not have the durability or longevity of current vehicles, and may not be as easy to repair as other vehicles currently on the market. Additionally, while we are designing Model S with the intent to achieve a five star safety rating and an estimated 300 mile range while traveling at a steady speed of 55 miles per hour, there is no assurance that we will be able to achieve these performance levels. Any product defects or any other failure of our performance electric vehicles to perform as expected could harm our reputation and result in adverse publicity, lost revenue, delivery delays, product recalls, product liability claims, harm to our brand and reputation, and significant warranty and other expenses, and could have a material adverse impact on our business, financial condition, operating results and prospects. 
+
+&#160; 
+
+We have a history of losses and we expect significant increases in our costs and expenses to result in continuing losses for at least the remainder of 2012. 
+
+We incurred a net loss of $254.4 million for the year ended December 31, 2011. In addition, we have accumulated net losses of $669.4 million from our inception through December 31, 2011. We have had net losses in each quarter since our inception. We believe that we will continue to incur operating and net losses each quarter until at least the time we begin significant deliveries of Model S, which is not expected to be in production until mid-2012 with higher volume production not occurring until 2013. Even if we are able to successfully develop Model S, there can be no assurance that it will be commercially successful. If we are to ever achieve profitability it will be dependent upon the successful development and successful commercial introduction and acceptance of automobiles such as Model S, which may not occur. 
+
+We expect the rate at which we will incur losses to increase significantly in 2012 compared to prior years&#146; levels until significant deliveries of Model S begin as we: 
+
+&#160;
+
+##TABLE_START &#160; &#149; &#160; conclude Roadster sales; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; complete the development services contract for the Toyota RAV4 EV program; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; experience a drop in powertrain component sales until we commence powertrain component sales for the Toyota RAV4 EV in 2012; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; design, develop and manufacture our Model S and our planned Model X crossover; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; design, develop and manufacture components of our electric powertrain; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; develop and equip the Tesla Factory to produce our Model S; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; build up inventories of parts and components for our Model S; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; develop and equip manufacturing facilities to produce our electric powertrain components; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; open new Tesla stores and service centers; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; expand our design, development, maintenance and repair capabilities; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; increase our sales and marketing activities; and 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; increase our general and administrative functions to support our growing operations. 
+
+##TABLE_END Because we will incur the costs and expenses from these efforts before we receive any incremental revenues with respect thereto, our losses in future periods will be significantly greater than the losses we would incur if we developed our business more slowly. In addition, we may find that these efforts are more expensive than we currently anticipate or that these efforts may not result in increases in our revenues, which would further increase our losses. 
+
+In addition, as of December 31, 2011, we had recorded a full valuation allowance on our United States net deferred tax assets as at this point we believe it is more likely than not that we will not achieve profitability and accordingly be able to use our deferred tax assets in the foreseeable future. Federal and state laws impose substantial restrictions on the utilization of net operating loss and tax credit carry-forwards in the event of an &#147;ownership change,&#148; as defined in Section 382 of the Internal Revenue Code. Although we do not believe that either our initial public offering (IPO) or subsequent follow-on offering or private placements constituted an ownership change resulting in limitations on our ability to use our net operating loss and tax credit carry-forwards, we have not yet performed a study to determine whether such limitations exist. If an ownership change is deemed to have occurred as a result of our IPO, subsequent follow-on offering, or private placements, utilization of these assets could be significantly reduced. 
+
+&#160; 
+
+If we are unable to adequately control the costs associated with operating our business, including our costs of manufacturing, sales and materials, our business, financial condition, operating results and prospects will suffer. 
+
+If we are unable to maintain a sufficiently low level of costs for designing, manufacturing, marketing, selling and distributing and servicing our electric vehicles relative to their selling prices, our operating results, gross margins, business and prospects could be materially and adversely impacted. We have made, and will be required to continue to make, significant investments for the design, manufacture and sales of our electric vehicles. When we first began delivering our Tesla Roadster in early 2008, our marginal costs of producing the Tesla Roadster exceeded our revenue from selling those vehicles. Revenue from the sales of our Tesla Roadster as well as from ZEV credits did not exceed the cost of revenues related to our Tesla Roadster until the second quarter of 2009. There can be no assurances that our costs of producing and delivering Model S will be less than the revenue we generate from the related sales at the time of Model S launch or that we will achieve our expected gross margin on sales of Model S. 
+
+We incur significant costs related to procuring the raw materials required to manufacture our high-performance electric cars, assembling vehicles and compensating our personnel. We will also incur substantial costs in constructing and building out our Model S and powertrain manufacturing facilities, each of which could potentially face cost overruns or delays in construction. If our Model S tooling, production equipment and parts are insufficient for use in Model X, perhaps as a result of a lower level of commonality between the two vehicles than we currently anticipate, our costs related to the production of Model X may exceed expectations. 
+
+Additionally, in the future we may be required to incur substantial marketing costs and expenses to promote our vehicles, including through the use of traditional media such as television, radio and print, even though our marketing expenses to date have been relatively limited. If we are unable to keep our operating costs aligned with the level of revenues we generate, our operating results, business and prospects will be harmed. Many of the factors that impact our operating costs are beyond our control. For example, the costs of our raw materials and components, such as lithium-ion battery cells or aluminum body panels used in our vehicles, could increase due to shortages as global demand for these products increases. Indeed, if the popularity of electric vehicles exceeds current expectations without significant expansion in battery cell production capacity and advancements in battery cell technology, shortages could occur which would result in increased materials costs to us. 
+
+Increases in costs, disruption of supply or shortage of raw materials, in particular lithium-ion cells, could harm our business. 
+
+We may experience increases in the cost or a sustained interruption in the supply or shortage of raw materials. Any such increase or supply interruption could materially negatively impact our business, prospects, financial condition and operating results. We use various raw materials in our business including aluminum, steel, nickel and copper. The prices for these raw materials fluctuate depending on market conditions and global demand for these materials and could adversely affect our business and operating results. For instance, we are exposed to multiple risks relating to price fluctuations for lithium-ion cells. These risks include: 
+
+&#160;
+
+##TABLE_START &#160; &#149; &#160; the inability or unwillingness of current battery manufacturers to build or operate battery cell manufacturing plants to supply the numbers of lithium-ion cells required to support the growth of the electric or plug-in hybrid vehicle industry as demand for such cells increases; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; disruption in the supply of cells due to quality issues or recalls by battery cell manufacturers; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; an increase in the cost of raw materials, such as nickel used in lithium-ion cells, or aluminum used in the body of Model S; and 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; fluctuations in the value of the Japanese yen against the U.S. dollar. 
+
+##TABLE_END &#160; 
+
+Our business is dependent on the continued supply of battery cells for our vehicles and for the battery pack we produce for other automobile manufacturers. While we believe several sources of the battery cells are available for the Tesla Roadster and Model S, we have fully qualified only one supplier for the cells used in each of the Tesla Roadster and Model S. The same is also true for the battery cells used for battery packs that we supply to other OEMs. Any disruption in the supply of battery cells from such vendor could temporarily disrupt production of Model S and of the battery packs we produce for other automobile manufacturers until such time as a different supplier is fully qualified. Furthermore, fluctuations or shortages in petroleum and other economic conditions may cause us to experience significant increases in freight charges and raw material costs. Substantial increases in the prices for our raw materials or prices charged to us, such as those charged by our battery cell manufacturers, would increase our operating costs, and could reduce our margins if we cannot recoup the increased costs through increased electric vehicle prices. There can be no assurance that we will be able to recoup increasing costs of raw materials by increasing vehicle prices. We have also recently announced pricing of Model S. Any attempts to increase the announced prices in response to increased raw material costs could be viewed negatively by our customers, result in cancellations of Model S reservations and could materially adversely affect our brand, image, business, prospects and operating results. 
+
+Our future growth is dependent upon consumers&#146; willingness to adopt electric vehicles. 
+
+Our growth is highly dependent upon the adoption by consumers of, and we are subject to an elevated risk of any reduced demand for, alternative fuel vehicles in general and electric vehicles in particular. If the market for electric vehicles does not develop as we expect or develops more slowly than we expect, our business, prospects, financial condition and operating results will be harmed. The market for alternative fuel vehicles is relatively new, rapidly evolving, characterized by rapidly changing technologies, price competition, additional competitors, evolving government regulation and industry standards, frequent new vehicle announcements and changing consumer demands and behaviors. 
+
+Other factors that may influence the adoption of alternative fuel vehicles, and specifically electric vehicles, include: 
+
+&#160;
+
+##TABLE_START &#160; &#149; &#160; perceptions about electric vehicle quality, safety (in particular with respect to lithium-ion battery packs), design, performance and cost, especially if adverse events or accidents occur that are linked to the quality or safety of electric vehicles; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; perceptions about vehicle safety in general, in particular safety issues that may be attributed to the use of advanced technology, including vehicle electronics and regenerative braking systems; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; negative perceptions of electric vehicles, such as that they are more expensive than non-electric vehicles and are only affordable with government subsidies; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; the limited range over which electric vehicles may be driven on a single battery charge; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; the decline of an electric vehicle&#146;s range resulting from deterioration over time in the battery&#146;s ability to hold a charge and possible EPA actions that could reduce the advertised range on the required vehicle labeling by up to 30%; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; concerns about electric grid capacity and reliability, which could derail our past and present efforts to promote electric vehicles as a practical solution to vehicles which require gasoline; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; concerns by potential customers that if their battery pack is not maintained properly, it may become unusable; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; the availability of alternative fuel vehicles, including plug-in hybrid electric vehicles; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; improvements in the fuel economy of the internal combustion engine; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; the availability of service for electric vehicles; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; consumers&#146; desire and ability to purchase a luxury automobile or one that is perceived as exclusive; 
+
+##TABLE_END &#160; 
+
+##TABLE_START &#160; &#149; &#160; the environmental consciousness of consumers; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; volatility in the cost of oil and gasoline; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; consumers&#146; perceptions of the dependency of the United States on oil from unstable or hostile countries; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; government regulations and economic incentives promoting fuel efficiency and alternate forms of energy; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; access to charging stations, standardization of electric vehicle charging systems and consumers&#146; perceptions about convenience and cost to charge an electric vehicle; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; the availability of tax and other governmental incentives to purchase and operate electric vehicles or future regulation requiring increased use of nonpolluting vehicles; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; perceptions about and the actual cost of alternative fuel; and 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; macroeconomic factors. 
+
+##TABLE_END In addition, reports have suggested the potential for extreme temperatures to affect the range or performance of electric vehicles. Based on internal testing, we estimate that our Tesla Roadster would have a 5-10% reduction in range when operated in -20&#176;C temperatures. To the extent customers have concerns about such reductions or third party reports which suggest reductions in range greater than our estimates gain widespread acceptance, our ability to market and sell our vehicles, particularly in colder climates, may be adversely impacted. 
+
+Additionally, we will become subject to regulations that require us to alter the design of our vehicles, which could negatively impact consumer interest in our vehicles. For example, our electric vehicles make less noise than internal combustion vehicles. Due to concerns about overly quiet vehicles and vision impaired pedestrians, in January 2011, Congress passed and the President signed the Pedestrian Safety Enhancement Act of 2010. The new law requires NHTSA to establish minimum sounds for electric vehicles and hybrid electric vehicles when travelling at low speeds. New standards must be proposed by mid-2012 for implementation within three years of the Act&#146;s enactment date of January 3, 2011. 
+
+The influence of any of the factors described above may cause current or potential customers not to purchase our electric vehicles, which would materially adversely affect our business, operating results, financial condition and prospects. 
+
+Our success could be harmed by negative publicity regarding our company or products. 
+
+From time to time, our vehicles are evaluated by third parties. For example, the show Top Gear which airs on the British Broadcasting Corporation did a review of the Tesla Roadster in 2008. Top Gear is one of the most watched automotive shows in the world with an estimated 350 million viewers worldwide and is broadcast in over 100 countries. Since originally airing in the fall of 2008, the episode about the Tesla Roadster has been rebroadcast repeatedly around the world. The review of the Tesla Roadster included a number of significant falsehoods regarding the car&#146;s performance, range and safety. Such criticisms create a negative public perception about the Tesla Roadster, and to the extent that these comments are believed by the public, may cause current or potential customers not to purchase our electric vehicles, which would materially adversely affect our business, operating results, financial condition and prospects. 
+
+The range of our electric vehicles on a single charge declines over time which may negatively influence potential customers&#146; decisions whether to purchase our vehicles. 
+
+The range of our electric vehicles on a single charge declines principally as a function of usage, time and charging patterns as well as other factors. For example, a customer&#146;s use of their Tesla vehicle as well as the 
+
+&#160; 
+
+frequency with which they charge the battery pack of their Tesla vehicle can result in additional deterioration of the battery pack&#146;s ability to hold a charge. We currently expect that our battery pack for the Tesla Roadster will retain approximately 60-65% of its ability to hold its initial charge after approximately 100,000 miles or seven years, which will result in a decrease to the vehicle&#146;s initial range. Such battery pack deterioration and the related decrease in range may negatively influence potential customer decisions whether to purchase our vehicles, which may harm our ability to market and sell our vehicles. 
+
+We are dependent upon our ability to fully draw down on our loan facility from the United States Department of Energy, which may restrict our ability to conduct our business. 
+
+Our plan for manufacturing Model S and for developing our electric powertrain facility depends on our ability to fully draw down on our DOE Loan Facility. Our DOE Loan Facility provides for a $465.0 million loan facility under the DOE&#146;s ATVM Program to help finance the continued development of Model S, including the build out and operation of a manufacturing facility, and to finance the build out and operation of our electric powertrain manufacturing facility. We cannot, however, access all of these funds at once, but only through periodic draws through January 2013 as eligible costs are incurred. Through December 31, 2011, we have received loans under our DOE Loan Facility for an aggregate of $276.3 million. Our ability to draw down these funds under the DOE Loan Facility is conditioned upon specified draw conditions. For the Model S manufacturing facility project, the draw conditions include our achievement of progress milestones relating to the design and development of Model S. Additionally, the DOE Loan Facility requires us to comply with certain operating and financial covenants and places additional restrictions on our ability to operate our business. If we do not comply with such requirements of the DOE Loan Facility, such failure, if not waived by the DOE, could cause a default. In the event of a default, we would not be eligible to draw funds under the DOE Loan Facility and existing outstanding loan amounts would become due immediately. 
+
+Additionally, if we are unable to draw down the anticipated funds under the DOE Loan Facility, or our ability to make such draw downs is delayed, we may need to obtain additional or alternative financing to operate our Model S and electric powertrain manufacturing facilities to the extent our cash on hand is insufficient. Any failure to obtain the remaining DOE funds or secure other alternative funding could materially and adversely affect our business and prospects. Such additional or alternative financing may not be available on attractive terms, if at all, and could be more costly for us to obtain. As a result, our plans for the build out of our Model S and electric powertrain manufacturing facilities could be significantly delayed which would materially adversely affect our business, prospects, financial condition and operating results. 
+
+Our DOE Loan Facility documents contain customary covenants that include, among others, a requirement that the project be conducted in accordance with the business plan for such project, compliance with all requirements of the ATVM Program, and limitations on our and our subsidiaries&#146; ability to incur indebtedness, incur liens, make investments or loans, enter into mergers or acquisitions, dispose of assets, pay dividends or make distributions on capital stock, prepay indebtedness, pay management, advisory or similar fees to affiliates, enter into certain affiliate transactions, enter into new lines of business and enter into certain restrictive agreements. These restrictions may limit our ability to operate our business and may cause us to take actions or prevent us from taking actions we believe are necessary from a competitive standpoint or that we otherwise believe are necessary to grow our business. 
+
+In addition, our DOE Loan Facility requires Mr. Musk and certain of his affiliates, until one year after we complete the project relating to the Model S Facility, to own at least 65% of the Tesla capital stock held by them as of the date of the DOE Loan Facility, and a failure to comply would be an event of default that could result in an acceleration of all obligations under the DOE Loan Facility documents and the exercise of other remedies by the DOE. 
+
+&#160; 
+
+The operation of our vehicles is different from internal combustion engine vehicles and our customers may experience difficulty operating them properly, including difficulty transitioning between different methods of braking. 
+
+We have designed our vehicles to minimize inconvenience and inadvertent driver damage to the powertrain. In certain instances, these protections may cause the vehicle to behave in ways that are unfamiliar to drivers of internal combustion vehicles. For example, we employ regenerative braking to recharge the battery pack in most modes of vehicle operation. Our customers may become accustomed to using this regenerative braking instead of the wheel brakes to slow the vehicle. However, when the vehicle is at maximum charge, the regenerative braking is not needed and is not employed. Accordingly, our customers may have difficulty shifting between different methods of braking. In addition, we use safety mechanisms to limit motor torque when the powertrain system reaches elevated temperatures. In such instances, the vehicle&#146;s acceleration and speed will decrease. Finally, if the driver permits the battery pack to substantially deplete its charge, the vehicle will progressively limit motor torque and speed to preserve the charge that remains. The vehicle will lose speed and ultimately coast to a stop. Despite several warnings about an imminent loss of charge, the ultimate loss of speed may be unexpected. There can be no assurance that our customers will operate the vehicles properly, especially in these situations. Any accidents resulting from such failure to operate our vehicles properly could harm our brand and reputation, result in adverse publicity and product liability claims, and have a material adverse affect on our business, prospects, financial condition and operating results. In addition, if consumers dislike these features, they may choose not to buy additional cars from us which could also harm our business and prospects. 
+
+Developments in alternative technologies or improvements in the internal combustion engine may materially adversely affect the demand for our electric vehicles. 
+
+Significant developments in alternative technologies, such as advanced diesel, ethanol, fuel cells or compressed natural gas, or improvements in the fuel economy of the internal combustion engine, may materially and adversely affect our business and prospects in ways we do not currently anticipate. Any failure by us to develop new or enhanced technologies or processes, or to react to changes in existing technologies, could materially delay our development and introduction of new and enhanced electric vehicles, which could result in the loss of competitiveness of our vehicles, decreased revenue and a loss of market share to competitors. 
+
+Our distribution model is different from the predominant current distribution model for automobile manufacturers, which makes evaluating our business, operating results and future prospects difficult. 
+
+Our distribution model is not common in the automobile industry today, particularly in the United States. We plan to continue to sell our performance electric vehicles over the internet and in company-owned Tesla stores. This model of vehicle distribution is relatively new and unproven, especially in the United States, and subjects us to substantial risk as it requires, in the aggregate, a significant expenditure and provides for slower expansion of our distribution and sales systems than may be possible by utilizing a more traditional dealer franchise system. For example, we will not be able to utilize long established sales channels developed through a franchise system to increase our sales volume, which may harm our business, prospects, financial condition and operating results. Moreover, we will be competing with companies with well-established distribution channels. 
+
+We have opened Tesla stores in the United States, Europe and Japan, many of which have been open for less than one year. We have only limited experience distributing and selling our performance vehicles through our Tesla stores. Our success will depend in large part on our ability to effectively develop our own sales channels and marketing strategies. Implementing our business model is subject to numerous significant challenges, including obtaining permits and approvals from local and state authorities, and we may not be successful in addressing these challenges. In April 2011, we began the roll out of our new interactive store strategy. The concept and layout of these new stores, which are located in high profile retail centers, is different than what has previously been used in automotive sales. We do not know whether our new store strategy will be successful, if consumers will be willing to purchase vehicles in this manner or if these locations will be deemed to comply with 
+
+&#160; 
+
+applicable zoning restrictions as well as approval and acceptance from the specific high profile retail centers in which we seek to locate our stores. As a result, we may incur additional costs in order to improve or change our retail strategy. 
+
+You must consider our business and prospects in light of the risks, uncertainties and difficulties we encounter as we implement our business model. For instance, we will need to persuade customers, suppliers and regulators of the validity and sustainability of our business model. We cannot be certain that we will be able to do so, or to successfully address the risks, uncertainties and difficulties that our business strategy faces. Any failure to successfully address any of the risks, uncertainties and difficulties related to our business model would have a material adverse effect on our business and prospects. 
+
+We may face regulatory limitations on our ability to sell vehicles directly or over the internet which could materially and adversely affect our ability to sell our electric vehicles. 
+
+We sell our vehicles from our Tesla stores as well as over the internet. We may not be able to sell our vehicles through this sales model in each state in the United States as many states have laws that may be interpreted to prohibit internet sales by manufacturers to residents of the state or to impose other limitations on this sales model, including laws that prohibit manufacturers from selling vehicles directly to consumers without the use of an independent dealership or without a physical presence in the state. For example, the state of Kansas provides that a manufacturer cannot deliver a vehicle to a Kansas resident except through a dealer licensed to do business in the state of Kansas, which may be interpreted to require us to open a store in the state of Kansas in order to sell vehicles to Kansas residents. In some states where we have opened a gallery, which is a location where potential customers can view our vehicles but is not a full retail location, it is possible that a state regulator could take the position that activities at our gallery constitute an unlicensed motor vehicle dealership and thereby violates applicable manufacturer-dealer laws. For example, the state of Colorado required us to obtain dealer and manufacturer licenses in the state in order to operate our gallery in Colorado. In addition, some states have requirements that service facilities be available with respect to vehicles sold in the state, which may be interpreted to also require that service facilities be available with respect to vehicles sold over the internet to residents of the state thereby limiting our ability to sell vehicles in states where we do not maintain service facilities. 
+
+The foregoing examples of state laws governing the sale of motor vehicles are just some of the regulations we will face as we sell our vehicles. In many states, the application of state motor vehicle laws to our specific sales model is largely untested under state motor vehicle industry laws, particularly with respect to sales over the internet, and would be determined by a fact specific analysis of numerous factors, including whether we have a physical presence or employees in the applicable state, whether we advertise or conduct other activities in the applicable state, how the sale transaction is structured, the volume of sales into the state, and whether the state in question prohibits manufacturers from acting as dealers. As a result of the fact specific and untested nature of these issues, and the fact that applying these laws intended for the traditional automobile distribution model to our sales model allows for some interpretation and discretion by the regulators, the manner in which the applicable authorities will apply their state laws to our distribution model is unknown. Such laws, as well as other laws governing the motor vehicle industry, may subject us to potential inquiries and investigations from state motor vehicle regulators who may question whether our sales model complies with applicable state motor vehicle industry laws and who may require us to change our sales model or may prohibit our ability to sell our vehicles to residents in such states. In addition, decisions by regulators permitting us to sell vehicles may be subject to challenges as to whether such decisions comply with applicable state motor vehicle industry laws. Such challenges, if successful, could prohibit our ability to sell our vehicles to residents in such states. 
+
+We are also registered as both a motor vehicle manufacturer and dealer in Canada, Australia, and Japan, and have obtained licenses to sell vehicles in other countries such as Hong Kong and Singapore. Furthermore, while we have performed an analysis of the principal laws in the European Union relating to our distribution model and believe we comply with such laws, we have not performed a complete analysis in all foreign jurisdictions in 
+
+&#160; 
+
+which we may sell vehicles. Accordingly, there may be laws in jurisdictions we have not yet entered or laws we are unaware of in jurisdictions we have entered that may restrict our vehicle reservation practices or other business practices. Even for those jurisdictions we have analyzed, the laws in this area can be complex, difficult to interpret and may change over time. 
+
+Regulatory limitations on our ability to sell vehicles could materially and adversely affect our ability to sell our electric vehicles. 
+
+Reservations for Model S and Model X are fully refundable to customers, and significant cancellations could harm our financial condition, business, prospects and operating results. 
+
+As of December 31, 2011, we had unfilled reservations for over 8,000 Model S sedans, all of which are subject to cancellation by the customer up until such time that the customer enters into a purchase agreement. Historically, all of our reservations have been refundable and we have had a significant number of customers who submitted reservations for the Tesla Roadster cancel those reservations and we have refunded their deposits. 
+
+Given the long lead times that we have historically experienced between customer reservation and delivery on the Tesla Roadster and that we expect to experience on Model S and Model X, there is a heightened risk that customers that have made reservations may not ultimately take delivery on vehicles due to potential changes in customer preferences, competitive developments and other factors. For example, when we delayed the introduction of the original Tesla Roadster in the fall of 2007, we experienced a significant number of customers that cancelled their reservations and requested the return of their reservation payment. If we encounter delays in the introduction of Model S or Model X, we believe that a significant number of our customers could similarly cancel their reservations and demand refunds of their reservation payments. As a result, no assurance can be made that reservations will not be cancelled and will ultimately result in the final purchase, delivery, and sale of the vehicle. Given the high level of reservations, significant cancellations could harm our financial condition, business, prospects and operating results. 
+
+If we are unable to design, develop, market and sell new electric vehicles and services that address additional market opportunities, our business, prospects and operating results will suffer. 
+
+We may not be able to successfully develop new electric vehicles and services, address new market segments or develop a significantly broader customer base. To date, we have focused our business on the sale of high-performance electric vehicles and have targeted relatively affluent consumers. We will need to address additional markets and expand our customer demographic in order to further grow our business. In particular, we intend Model S to appeal to the customers of premium vehicles, which is a much larger and different demographic from that of the Tesla Roadster. Successfully offering a vehicle in this vehicle class requires delivering a vehicle with a higher standard of fit and finish in the interior and exterior than currently exists in the Tesla Roadster, at a price that is competitive with other premium vehicles. We have not completely finalized the design, component sourcing or manufacturing process for Model S, so it is difficult to accurately forecast its final cost, manufacturability or quality. Therefore, there can be no assurance that we will be able to deliver a vehicle that is ultimately competitive in the premium vehicle market. In 2012, we publicly revealed an early prototype of the Model X crossover as the first vehicle we intend to develop by leveraging the Model S platform. We have also previously announced our intent to develop a third generation electric vehicle which we expect to produce at the Tesla Factory after the introduction of Model S. However, we have not yet finalized the design, engineering or component sourcing plans for these vehicles and there are no assurances that we will be able to bring these vehicles to market at the price points and in the volumes as we currently intend, if at all. Our failure to address additional market opportunities would harm our business, prospects, financial condition and operating results. 
+
+&#160; 
+
+Any changes to the Federal Trade Commission&#146;s electric vehicle range testing procedure and recent changes made by the United States Environmental Protection Agency&#146;s energy consumption regulations for electric vehicles could result in a reduction to the range of our vehicles as compared to the current combined two-cycle test which could negatively impact our sales and harm our business. 
+
+The Federal Trade Commission (FTC) requires us to calculate and display the range of our electric vehicles on a label we affix to the vehicle&#146;s window. The FTC specifies that we follow testing requirements set forth by the Society of Automotive Engineers (SAE) which further requires that we test using the EPA&#146;s combined city and highway testing cycles. In July 2011, the EPA established new requirements for the fuel economy stickers that appear on new cars offered for sale (i.e., the Monroney label). We advertise that we plan to offer Model S with a variety of battery pack options, which we estimate will offer a range on a single charge of 160 miles, 230 miles, and 300 miles, respectively, while traveling at a steady speed of 55 miles per hour. The EPA&#146;s new fuel economy requirements will require us to label Model S utilizing new and different energy efficiency testing methodologies. These methodologies differ from the one we have used to estimate the range of the vehicles at a steady speed of 55 miles per hour and could reduce the range reported on the required labeling of our vehicles by a de-rating factor which could be up to 30% as compared to our current estimates. These new requirements apply to all model year 2013 and later vehicles. However, the EPA has also indicated that they would like automobile manufacturers to utilize the new label format as soon as possible. Therefore, it is possible that the EPA will request that we utilize new labels sooner bearing lower range values. Any reduction in the advertised range of our vehicles could negatively impact our vehicle sales and harm our business. 
+
+If we are unable to effectively leverage the benefits of using an adaptable common platform architecture in the design and manufacture of future vehicles such as Model X, our business prospects, operating results and financial condition would be adversely affected. 
+
+We intend to design Model S with an adaptable platform architecture and common electric powertrain so that we can use the platform of Model S to create future electric vehicles, including, as an example, our Model X crossover vehicle. However, we have no experience with using common platforms in the design and manufacture of our vehicles and the design of Model S is not complete. We may make changes to the design of Model S that may make it more difficult to use the Model S platform for Model X or for future electric vehicles that we decide to produce. Additionally, we intend to use some of our Model S manufacturing equipment and parts tooling for the production of Model X. If such tooling, production equipment and parts are insufficient for use in Model X, perhaps as a result of a lower level of commonality between the two vehicles than we anticipate, our costs related to the production of Model X may exceed expectations. There are no assurances that we will be able to use the Model S platform to bring future vehicle models, including the Model X crossover, to market faster or more inexpensively by leveraging use of this common platform or that there will be sufficient customer demand for any vehicles built on the Model S platform. 
+
+We may experience significant delays in the design, manufacture and launch of Model X which could harm our business and prospects. 
+
+We plan to start Model X production in late 2013 and ramp up to significant customer deliveries in early 2014. Any delay in the design, manufacture and launch of Model X could materially damage our brand, business, prospects, financial condition and operating results. Automobile manufacturers often experience delays in the design, manufacture and commercial release of new vehicle models. We experienced significant delays in launching the Tesla Roadster, which resulted in additional costs and adverse publicity for our business. We may experience similar delays, cost overruns and adverse publicity in launching Model X, any of which could be significant. We are in the initial design and development stages of Model X. Furthermore, we have not yet begun to evaluate, qualify or select suppliers for the planned production of Model X and cannot begin to do so until the design of Model X is finalized. We may not be able to engage suppliers for the components in a timely manner, at an acceptable price or in the necessary quantities. We will also need to do extensive testing to ensure that Model X is in compliance with applicable NHTSA safety regulations and EPA and CARB emission regulations prior to beginning mass production and delivery of the vehicles. In addition, we have limited resources and, to 
+
+&#160; 
+
+the extent that such resources are devoted to the manufacture and production of Model S, we may have difficulty producing and delivering our Model X vehicle in a timely manner. If we are not able to manufacture and deliver our Model X in a timely manner and consistent with our budget and cost projections, our business, prospects, operating results and financial condition will be negatively impacted and our ability to grow our business will be harmed. 
+
+The automotive market is highly competitive, and we may not be successful in competing in this industry. We currently face competition from new and established competitors and expect to face competition from others in the future. 
+
+The worldwide automotive market, particularly for alternative fuel vehicles, is highly competitive today and we expect it will become even more so in the future. Other automobile manufacturers entered the electric vehicle market at the end of 2010 and we expect additional competitors to enter this market. With respect to our Tesla Roadster, we currently face strong competition from established automobile manufacturers, including manufacturers of high-performance vehicles, such as Porsche and Ferrari. In addition, upon the launch of our Model S sedan, we will face competition from existing and future automobile manufacturers in the extremely competitive premium sedan market, including Audi, BMW, Lexus and Mercedes. 
+
+Many established and new automobile manufacturers have entered or have announced plans to enter the alternative fuel vehicle market. In Japan, Mitsubishi has been selling its electric iMiEV since April 2010. In December 2010, Nissan introduced in the United States the Nissan Leaf, a fully electric vehicle and Ford introduced the pure electric Ford Focus and plug-in hybrid Ford CMax in 2012. In addition, several manufacturers, including General Motors, Toyota, Ford, and Honda, are each selling hybrid vehicles, and certain of these manufacturers have announced plug-in versions of their hybrid vehicles. For example, in December 2010, General Motors introduced the Chevrolet Volt, which is a plug-in hybrid vehicle that operates purely on electric power for a limited number of miles, at which time an internal combustion engine engages to recharge the battery pack. 
+
+Moreover, it has been reported that many of the large OEMs such as BMW, Daimler, Lexus, Audi, Renault and Volkswagen are also developing electric vehicles. Several new start-ups have also announced plans to enter the market for performance electric vehicles, although none of these have yet come to market. Finally, electric vehicles have already been brought to market in China and other foreign countries and we expect a number of those manufacturers to enter the United States market as well. 
+
+Most of our current and potential competitors have significantly greater financial, technical, manufacturing, marketing and other resources than we do and may be able to devote greater resources to the design, development, manufacturing, distribution, promotion, sale and support of their products. Virtually all of our competitors have more extensive customer bases and broader customer and industry relationships than we do. In addition, almost all of these companies have longer operating histories and greater name recognition than we do. Our competitors may be in a stronger position to respond quickly to new technologies and may be able to design, develop, market and sell their products more effectively. 
+
+Furthermore, certain large manufacturers offer financing and leasing options on their vehicles and also have the ability to market vehicles at a substantial discount, provided that the vehicles are financed through their affiliated financing company. We only began offering a leasing program in February 2010 which is currently only available to qualified Tesla Roadster customers in the United States and Canada. We do not currently plan to offer any lease financing on Model S, but may do so at a later date. We have not in the past, and do not currently, offer customary discounts on our vehicles. The lack of lease financing and the absence of customary vehicle discounts could put us at a competitive disadvantage. 
+
+We expect competition in our industry to intensify in the future in light of increased demand for alternative fuel vehicles, continuing globalization and consolidation in the worldwide automotive industry. Factors affecting 
+
+&#160; 
+
+competition include product quality and features, innovation and development time, pricing, reliability, safety, fuel economy, customer service and financing terms. Increased competition may lead to lower vehicle unit sales and increased inventory, which may result in a further downward price pressure and adversely affect our business, financial condition, operating results and prospects. Our ability to successfully compete in our industry will be fundamental to our future success in existing and new markets and our market share. There can be no assurances that we will be able to compete successfully in our markets. If our competitors introduce new cars or services that compete with or surpass the quality, price or performance of our cars or services, we may be unable to satisfy existing customers or attract new customers at the prices and levels that would allow us to generate attractive rates of return on our investment. Increased competition could result in price reductions and revenue shortfalls, loss of customers and loss of market share, which could harm our business, prospects, financial condition and operating results. 
+
+Demand in the automobile industry is highly volatile, which may lead to lower vehicle unit sales and adversely affect our operating results. 
+
+Volatility of demand in the automobile industry may materially and adversely affect our business, prospects, operating results and financial condition. The markets in which we currently compete and plan to compete in the future have been subject to considerable volatility in demand in recent periods. For example, according to automotive industry sources, sales of passenger vehicles in North America during the fourth quarter of 2008 were over 30% lower than those during the same period in the prior year. Demand for automobile sales depends to a large extent on general, economic, political and social conditions in a given market and the introduction of new vehicles and technologies. As a new automobile manufacturer and low volume producer, we have less financial resources than more established automobile manufacturers to withstand changes in the market and disruptions in demand. As our business grows, economic conditions and trends in other countries and regions where we sell our electric vehicles will impact our business, prospects and operating results as well. Demand for our electric vehicles may also be affected by factors directly impacting automobile price or the cost of purchasing and operating automobiles such as sales and financing incentives, prices of raw materials and parts and components, cost of fuel and governmental regulations, including tariffs, import regulation and other taxes. Volatility in demand may lead to lower vehicle unit sales and increased inventory, which may result in further downward price pressure and adversely affect our business, prospects, financial condition and operating results. These effects may have a more pronounced impact on our business given our relatively smaller scale and financial resources as compared to many incumbent automobile manufacturers. 
+
+Difficult economic conditions may negatively affect consumer purchases of luxury items, such as our performance electric vehicles. 
+
+Over the last few years, the deterioration in the global financial markets and continued challenging condition of the macroeconomic environment has negatively impacted consumer spending and we believe has adversely affected the sales of our Tesla Roadster. The automobile industry in particular was severely impacted by the poor economic conditions and several vehicle manufacturing companies, including General Motors and Chrysler, were forced to file for bankruptcy. Sales of new automobiles generally have dropped during this recessionary period. Sales of high-end and luxury consumer products, such as our performance electric vehicles, depend in part on discretionary consumer spending and are even more exposed to adverse changes in general economic conditions. Difficult economic conditions could therefore temporarily reduce the market for vehicles in our price range. Discretionary consumer spending also is affected by other factors, including changes in tax rates and tax credits, interest rates and the availability and terms of consumer credit. 
+
+If the current difficult economic conditions continue or worsen, we may experience a decline in the demand for our Tesla Roadster or reservations for our Model S or future vehicles such as Model X, any of which could materially harm our business, prospects, financial condition and operating results. Accordingly, any events that have a negative effect on the United States economy or on foreign economies or that negatively affect consumer confidence in the economy, including disruptions in credit and stock markets, and actual or perceived economic slowdowns, may harm our business, prospects, financial condition and operating results. 
+
+&#160; 
+
+Our financial results may vary significantly from period-to-period due to the seasonality of our business and fluctuations in our operating costs. 
+
+Our operating results may vary significantly from period-to-period due to many factors, including seasonal factors that may have an effect on the demand for our electric vehicles. Demand for new cars in the automobile industry in general, and for high-performance sports vehicles such as the Tesla Roadster in particular, typically decline over the winter season, while sales are generally higher as compared to the winter season during the spring and summer months. Sales of the Tesla Roadster have fluctuated on a seasonal basis with increased sales during the spring and summer months in our second and third fiscal quarters relative to our fourth and first fiscal quarters. We note that, in general, automotive sales tend to decline over the winter season and we anticipate that our sales of Model S, Model X and other models we introduce may have similar seasonality. However, our limited operating history makes it difficult for us to judge the exact nature or extent of the seasonality of our business. Also, any unusually severe weather conditions in some markets may impact demand for our vehicles. Our operating results could also suffer if we do not achieve revenue consistent with our expectations for this seasonal demand because many of our expenses are based on anticipated levels of annual revenue. 
+
+In addition, we expect our period-to-period operating results to vary based on our operating costs which we anticipate will increase significantly in future periods as we, among other things, design, develop and manufacture our Model S, Model X and electric powertrain components, build and equip new manufacturing facilities to produce Model S and electric powertrain components, open new Tesla Service Centers with maintenance and repair capabilities, incur costs for warranty repairs or product recalls, if any, increase our sales and marketing activities, and increase our general and administrative functions to support our growing operations. As a result of these factors, we believe that quarter-to-quarter comparisons of our operating results, especially in the short-term, are not necessarily meaningful and that these comparisons cannot be relied upon as indicators of future performance. Moreover, our operating results may not meet expectations of equity research analysts or investors. If any of this occurs, the trading price of our common stock could fall substantially, either suddenly or over time. 
+
+If we are unable to establish and maintain confidence in our long-term business prospects among consumers, analysts and within our industry, then our financial condition, operating results, business prospects and stock price may suffer materially. 
+
+Our vehicles are highly technical products that require maintenance and support. If we were to cease or cut back operations, even years from now, buyers of our vehicles from years earlier might have much more difficulty in maintaining their vehicles and obtaining satisfactory support. As a result, consumers may be less likely to purchase our vehicles now if they are not convinced that our business will succeed or that our operations will continue for many years. Similarly, suppliers and other third parties will be less likely to invest time and resources in developing business relationships with us if they are not convinced that our business will succeed. For example, during the economic downturn of 2008, we had difficulty raising the necessary funding for our operations, and, as a result, in the fourth quarter of 2008 we had to lay off approximately 60 employees and curtail our expansion plans. In addition, during this period a number of customers canceled their previously placed reservations. If we are required to take similar actions in the future, such actions may result in negative perceptions regarding our long-term business prospects and may lead to cancellations of Model S or Model X reservations. 
+
+Accordingly, in order to build and maintain our business, we must maintain confidence among customers, suppliers, analysts and other parties in our liquidity and long-term business prospects. In contrast to some more established automakers, we believe that, in our case, the task of maintaining such confidence may be particularly complicated by factors such as the following: 
+
+&#160;
+
+##TABLE_START &#160; &#149; &#160; our limited operating history; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; our limited revenues and lack of profitability to date; 
+
+##TABLE_END &#160; 
+
+##TABLE_START &#160; &#149; &#160; unfamiliarity with or uncertainty about the Tesla Roadster and Model S; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; uncertainty about the long-term marketplace acceptance of alternative fuel vehicles generally, or electric vehicles specifically; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; the prospect that we will need ongoing infusions of external capital to fund our planned operations; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; the size of our expansion plans in comparison to our existing capital base and scope and history of operations; and 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; the prospect or actual emergence of direct, sustained competitive pressure from more established automakers, which may be more likely if our initial efforts are perceived to be commercially successful. 
+
+##TABLE_END Many of these factors are largely outside our control, and any negative perceptions about our long-term business prospects, even if exaggerated or unfounded, would likely harm our business and make it more difficult to raise additional funds when needed. 
+
+We may need to raise additional funds and these funds may not be available to us when we need them. If we cannot raise additional funds when we need them, our operations and prospects could be negatively affected. 
+
+The design, manufacture, sale and servicing of automobiles is a capital intensive business. As of December 31, 2011, we had $492.7 million in principal sources of liquidity available from our cash and cash equivalents, short-term marketable securities, cash held in our dedicated DOE account and the remaining amounts available under the DOE Loan Facility. This includes our cash and cash equivalents in the amount of $255.3 million which includes investments in money market funds, short-term marketable securities of $25.1 million, cash of $23.5 million deposited in a dedicated DOE account in accordance with the requirements of our DOE Loan Facility, and $188.8 million available under the DOE Loan Facility. We expect that these principal sources of liquidity together with our current projections of cash flow from operating activities will provide us adequate liquidity until we reach profitability in 2013. However, if there are delays in the launch of Model S or Model X, if we are unable to draw down the anticipated funds under the DOE Loan Facility for any reason, including our failure to meet operating or financial covenants, or if the costs in building our Model S, Model X and powertrain manufacturing facilities exceed our expectations or if we incur any significant unplanned expenses or embark on new significant strategic investments, we may need to raise additional funds through the issuance of equity, equity-related or debt securities or through obtaining credit from government or financial institutions. This capital will be necessary to fund our ongoing operations, continue research and development projects, including those for our planned Model X crossover, establish sales and service centers, improve infrastructure such as expanded battery assembly facilities, and to make the investments in tooling and manufacturing capital required to introduce Model S and Model X. 
+
+In particular, we have only recently begun to accept customer reservation payments on our Model X crossover, can provide no assurance that customers will be willing to make such payments and accordingly may be reliant on other financing sources to fund the development of this vehicle. We cannot be certain that additional funds will be available to us on favorable terms when required, or at all. If we cannot raise additional funds when we need them, our financial condition, results of operations, business and prospects could be materially adversely affected. Additionally, under our DOE Loan Facility, we face restrictions on our ability to incur additional indebtedness, and in the future may need to obtain a waiver from the DOE in order to do so. We may not be able to obtain such waiver from the DOE which may harm our business. Future issuance of equity or equity-related securities will dilute the ownership interest of existing stockholders and our issuance of debt securities could increase the risk or perceived risk of our company. 
+
+&#160; 
+
+We have very limited experience servicing our vehicles and we are using a different service model from the one typically used in the industry. If we are unable to address the service requirements of our existing and future customers our business will be materially and adversely affected. 
+
+If we are unable to successfully address the service requirements of our existing and future customers our business and prospects will be materially and adversely affected. In addition, we anticipate the level and quality of the service we provide our Tesla Roadster customers will have a direct impact on the success of Model S and our future vehicles. If we are unable to satisfactorily service our Tesla Roadster customers, our ability to generate customer loyalty, grow our business and sell additional Tesla Roadsters as well as Model S sedans could be impaired. 
+
+We have very limited experience servicing our vehicles. We do not plan to begin production of any Model S vehicles until mid-2012 with higher volume production not occurring until 2013, and do not have any experience servicing these cars as they do not exist currently. Servicing electric vehicles is different than servicing vehicles with internal combustion engines and requires specialized skills, including high voltage training and servicing techniques. 
+
+We plan to service our performance electric vehicles through our company-owned Tesla service centers and through our mobile service technicians known as the Tesla Rangers. Many of our Tesla stores are equipped to actively service our performance electric vehicles. However, our new design stores do not have servicing capabilities, certain stores have been open for less than one year, and to date we have only limited experience servicing our performance vehicles through our Tesla stores. Going forward, we intend to build separate sales and service locations in several markets, but to date have limited experience with separate sales and service locations within a geographic market. We will need to open additional Tesla stores with service capabilities and standalone service locations, as well as hire and train significant numbers of new employees to staff these centers and act as Tesla Rangers, in order to successfully maintain our fleet of delivered performance electric vehicles. We only implemented our Tesla Rangers program in October 2009 and have limited experience in deploying them to service our customers&#146; vehicles. There can be no assurance that these service arrangements or our limited experience servicing our vehicles will adequately address the service requirements of our customers to their satisfaction, or that we will have sufficient resources to meet these service requirement in a timely manner as the volume of vehicles we are able to deliver annually increases. 
+
+We do not expect to be able to open Tesla stores in all the geographic areas in which our existing and potential customers may reside. In order to address the service needs of customers that are not in geographical proximity to our service centers, we plan to either transport those vehicles to the nearest Tesla store or service center for servicing or deploy our mobile Tesla Rangers to service the vehicles at the customer&#146;s location. These special arrangements may be expensive and we may not be able to recoup the costs of providing these services to our customers. In addition, a number of potential customers may choose not to purchase our vehicles because of the lack of a more widespread service network. If we do not adequately address our customers&#146; service needs, our brand and reputation will be adversely affected, which in turn, could have a material and adverse impact on our business, financial condition, operating results and prospects. 
+
+Traditional automobile manufacturers in the United States do not provide maintenance and repair services directly. Consumers must rather service their vehicles through franchised dealerships or through third party maintenance service providers. We do not have any such arrangements with third party service providers and it is unclear when or even whether such third party service providers will be able to acquire the expertise to service our vehicles. At this point, we anticipate that we will be providing substantially all of the service for our vehicles for the foreseeable future. As our vehicles are placed in more locations, we may encounter negative reactions from our consumers who are frustrated that they cannot use local service stations to the same extent as they have with their conventional automobiles and this frustration may result in negative publicity and reduced sales, thereby harming our business and prospects. 
+
+&#160; 
+
+In addition, the motor vehicle industry laws in many states require that service facilities be available with respect to vehicles physically sold from locations in the state. Whether these laws would also require that service facilities be available with respect to vehicles sold over the internet to consumers in a state in which we have no physical presence is uncertain. While we believe our Tesla Ranger program and our practice of shipping customers&#146; vehicles to our nearest Tesla store for service would satisfy regulators in these circumstances, without seeking formal regulatory guidance, there are no assurances that regulators will not attempt to require that we provide physical service facilities in their states. Further, certain state franchise laws which prohibit manufacturers from being licensed as a dealer or acting in the capacity of dealer also restrict manufacturers from providing vehicle service. If issues arise in connection with these laws, certain aspects of Tesla&#146;s service program would need to be restructured to comply with state law, which may harm our business. 
+
+We may not succeed in maintaining and strengthening the Tesla brand, which would materially and adversely affect customer acceptance of our vehicles and components and our business, revenues and prospects. 
+
+Our business and prospects are heavily dependent on our ability to develop, maintain and strengthen the Tesla brand. Any failure to develop, maintain and strengthen our brand may materially and adversely affect our ability to sell the Tesla Roadster, Model S, Model X and future planned electric vehicles, and sell our electric powertrain components. If we do not continue to establish, maintain and strengthen our brand, we may lose the opportunity to build a critical mass of customers. Promoting and positioning our brand will likely depend significantly on our ability to provide high quality electric cars and maintenance and repair services, and we have very limited experience in these areas. Any problems associated with the launch of our Model S sedan may hurt the Tesla brand. 
+
+In addition, we expect that our ability to develop, maintain and strengthen the Tesla brand will also depend heavily on the success of our marketing efforts. To date, we have limited experience with marketing activities as we have relied primarily on the internet, word of mouth and attendance at industry trade shows to promote our brand. To further promote our brand, we may be required to change our marketing practices, which could result in substantially increased advertising expenses, including the need to use traditional media such as television, radio and print. The automobile industry is intensely competitive, and we may not be successful in building, maintaining and strengthening our brand. Many of our current and potential competitors, particularly automobile manufacturers headquartered in Detroit, Japan and the European Union, have greater name recognition, broader customer relationships and substantially greater marketing resources than we do. If we do not develop and maintain a strong brand, our business, prospects, financial condition and operating results will be materially and adversely impacted. 
+
+Our recent agreement with Toyota contains risks and uncertainties that, if realized, could have a materially adverse impact on our operating results. 
+
+In July 2011, we entered into a supply and services agreement with Toyota for the supply of a validated electric powertrain system, including a battery pack, charging system, inverter, motor, gearbox and associated software which will be integrated into an electric vehicle version of the Toyota RAV4. Pursuant to this agreement, we expect that Toyota will pay us approximately $100 million between 2012 and 2014 based on our delivery of electric powertrain systems. The payments to us are not guaranteed and will only occur upon the delivery of powertrain systems that meet Toyota&#146;s specifications. Toyota has no obligation to buy any systems from us, and if Toyota does not order the anticipated systems from us, we will not receive the revenues we anticipate from this agreement. The agreement further requires that we meet customary obligations such as timely deliveries, warranty and product defect obligations. Our failure to meet these obligations could have a materially adverse impact on our operating results. 
+
+Additionally, although we have discussed new business opportunities with Toyota, there is no guarantee that we will be able to reach agreement with Toyota regarding such opportunities at all or on terms and conditions that are favorable to us. 
+
+&#160; 
+
+We are currently expanding and improving our information technology systems. If these implementations are not successful, our business and operations could be disrupted and our operating results could be harmed. 
+
+We are currently expanding and improving our information technology systems to assist us in the management of our business. In particular, our production of Model S will necessitate the improvement, design and development of more expanded supply chain systems to support our operations as well as production and shop floor management. Additionally, we will need to continually build out and improve upon our online customer interface systems as well as enhance the integration of our software systems used to share data between engineering, supply chain and manufacturing in order to be able to efficiently mass produce Model S. The implementation of new software management platforms and the addition of these platforms at new locations require significant management time, support and cost. Moreover, there are inherent risks associated with developing, improving and expanding our core systems, including supply chain disruptions that may affect our ability to obtain supplies when needed or to deliver vehicles to our Tesla stores and customers. We cannot be sure that these expanded systems will be fully or effectively implemented on a timely basis, if at all. If we do not successfully implement this project, our operations may be disrupted and our operating results could be harmed. In addition, the new systems may not operate as we expect them to, and we may be required to expend significant resources to correct problems or find alternative sources for performing these functions. 
+
+If our vehicle owners customize our vehicles or change the charging infrastructure with aftermarket products, the vehicle may not operate properly, which could harm our business. 
+
+Automobile enthusiasts may seek to &#147;hack&#148; our vehicles to modify its performance which could compromise vehicle safety systems. Also, we are aware of customers who have customized their vehicles with after-market parts that may compromise driver safety. For example, some customers have installed seats that elevate the driver such that airbag and other safety systems could be compromised. Other customers have changed wheels and tires, while others have installed large speaker systems that may impact the electrical systems of the vehicle. We have not tested, nor do we endorse, such changes or products. In addition, customer use of improper external cabling or unsafe charging outlets can expose our customers to injury from high voltage electricity. Such unauthorized modifications could reduce the safety of our vehicles and any injuries resulting from such modifications could result in adverse publicity which would negatively affect our brand and harm our business, prospects, financial condition and operating results. 
+
+The success of our business depends on attracting and retaining a large number of customers. If we are unable to do so, we will not be able to achieve profitability. 
+
+Our success depends on attracting a large number of potential customers to purchase our electric vehicles. As of December 31, 2011, we had accepted reservations for over 8,000 Model S sedans. If our existing and prospective customers do not perceive our vehicles and services to be of sufficiently high value and quality, cost competitive and appealing in aesthetics or performance, or if the final production version of Model S is not sufficiently similar to the drivable design prototype, we may not be able to retain our current customers or attract new customers, investors may lose confidence in us, and our business and prospects, operating results and financial condition may suffer as a result. In addition, because our performance electric vehicles to date have been sold largely through word of mouth marketing efforts, we may be required to incur significantly higher and more sustained advertising and promotional expenditures than we have previously incurred to attract customers, and use more traditional advertising techniques. In addition, if we engage in traditional advertising, we may face review by consumer protection enforcement agencies and may incur significant expenses to ensure that our advertising claims are fully supported. To date, we have limited experience selling our electric vehicles and we may not be successful in attracting and retaining a large number of customers. For example, a significant number of our stores have been open for less than one year and a portion of our sales team come from backgrounds other than automotive. If for any of these reasons we are not able to attract and maintain customers, our business, prospects, operating results and financial condition would be materially harmed. 
+
+&#160; 
+
+Regulators could review our practice of taking reservation payments and, if the practice is deemed to violate applicable law, we could be required to pay penalties or refund the reservation payments that we have received for vehicles that are not immediately available for delivery, to stop accepting additional reservation payments, to restructure certain aspects of our reservation program, and potentially to suspend or revoke our licenses to manufacture and sell our vehicles. 
+
+We have not yet commenced production of our Model S sedan which we currently plan for mid-2012. We have also not commenced production of our Model X crossover which we currently plan to do in late 2013 and ramp up to significant customer deliveries in early 2014. For customers interested in making a reservation for Model S or Model X, we require an initial refundable reservation payment of at least $5,000. As of December 31, 2011, we had collected reservation payments for Model S sedans in an aggregate amount of $90.0 million. We started taking reservations for Model X in February 2012. At this time, we do not plan to hold reservation payments separately or in an escrow or trust fund or pay any interest on reservation payments except to the extent applicable state laws require us to do so. We generally use these funds for working capital and other general corporate purposes. 
+
+California laws, and potentially the laws of other states, restrict the ability of licensed auto dealers to advertise or take deposits for vehicles before the vehicles are available to the dealer from the manufacturer. In November 2007, we became aware that the New Motor Vehicle Board of the California Department of Transportation has considered whether our reservation policies and advertising comply with the California Vehicle Code. To date, we have not received any communications on this topic from the New Motor Vehicle Board or the Department of Motor Vehicles (DMV), which has the power to enforce these laws. There can be no assurance that the DMV will not take the position that our vehicle reservation or advertising practices violate the law. We expect that if the DMV determines that we may have violated the law, it would initially discuss its concerns with us and request voluntary compliance. If we are ultimately found to be in violation of California law, we might be precluded from taking reservation payments, and the DMV could take other actions against us, including levying fines and requiring us to refund reservation payments. Resolution of any inquiry may also involve restructuring certain aspects of the reservation program. In addition, California is currently the only jurisdiction in which we have licenses to both manufacture and sell our vehicles so any limitation imposed on our operations in California may be particularly damaging to our business. The DMV also has the power to suspend licenses to manufacture and sell vehicles in California, following a hearing on the merits, which it has typically exercised in cases of significant or repeat violations and/or a refusal to comply with DMV directions. 
+
+Certain states may have specific laws which apply to reservation payments accepted by dealers, or manufacturers selling directly to consumers, or both. For example, the state of Washington requires that reservation payments or other payments received from residents in the state of Washington must be placed in a segregated account until delivery of the vehicle, which account must be unencumbered by any liens from creditors of the dealer and may not be used by the dealer. Consequently, we established a segregated account for reservation payments in the state of Washington in January 2010. There can be no assurance that other state or foreign jurisdictions will not require similar segregation of reservation payments received from customers. Our inability to access these funds for working capital purposes could harm our liquidity. 
+
+Furthermore, while we have performed an analysis of the principal laws in the European Union relating to our distribution model and believe we comply with such laws, we have not performed a complete analysis in all foreign jurisdictions in which we may sell vehicles. Accordingly, there may be laws in jurisdictions we have not yet entered or laws we are unaware of in jurisdictions we have entered that may restrict our vehicle reservation practices or other business practices. Even for those jurisdictions we have analyzed, the laws in this area can be complex, difficult to interpret and may change over time. If our vehicle reservation or advertising practices or other business practices were found to violate the laws of a jurisdiction, we may face exposure under those laws and our business and prospects would be adversely affected. For example, if we are required to return reservation payment amounts, we may need to raise additional funds to make such payments. There can be no assurance that such funding would be available on a timely basis on commercially reasonable terms, if at all. If a court were to 
+
+&#160; 
+
+find that our reservation agreement or advertising does not comply with state laws, we may face exposure under those laws which may include exposure under consumer protection statutes such as those that deal with unfair competition and false advertising. Moreover, reductions in our cash as a result of redemptions or an inability to take reservation payments could also make it more difficult for us to obtain additional financing. The prospect of reductions in cash, even if unrealized, may also make it more difficult to obtain financing. 
+
+Our plan to expand our network of Tesla stores will require significant cash investments and management resources and may not meet our expectations with respect to additional sales of our electric vehicles. In addition, we may not be able to open stores in certain states. 
+
+Our plan to expand our network of Tesla stores will require significant cash investments and management resources and may not meet our expectations with respect to additional sales of our electric vehicles. This planned global expansion of Tesla stores may not have the desired effect of increasing sales and expanding our brand presence to the degree we are anticipating. Furthermore there can be no assurances that we will be able to construct additional storefronts on the budget or timeline we have established. We will also need to ensure we are in compliance with any regulatory requirements applicable to the sale of our vehicles in those jurisdictions, which could take considerable time and expense. If we experience any delays in expanding our network of Tesla stores, this could lead to a decrease in sales of our vehicles and could negatively impact our business, prospects, financial condition and operating results. We have opened Tesla stores in major metropolitan areas throughout North America, Europe and Asia. We plan to open additional stores, with a goal of establishing approximately 50 stores globally within the next several years in connection with the Model S rollout. However, we may not be able to expand our network at such rate and our planned expansion of our network of Tesla stores will require significant cash investment and management resources, as well as efficiency in the execution of establishing these storefronts and in hiring and training the necessary employees to effectively sell our vehicles. 
+
+Furthermore, certain states and foreign jurisdictions may have permit requirements, franchise dealer laws or similar laws or regulations that may preclude or restrict our ability to open stores or sell vehicles out of such states and jurisdictions. Any such prohibition or restriction may lead to decreased sales in such jurisdictions, which could harm our business, prospects and operating results. 
+
+We face risks associated with our international operations, including unfavorable regulatory, political, tax and labor conditions, which could harm our business. 
+
+We face risks associated with our international operations, including possible unfavorable regulatory, political, tax and labor conditions, which could harm our business. We currently have international operations and subsidiaries in Australia, Canada, Denmark, France, Germany, Hong Kong, Italy, Japan, Monaco, Netherlands, Norway, Singapore, Switzerland and the United Kingdom that are subject to the legal, political, regulatory and social requirements and economic conditions in these jurisdictions. Additionally, as part of our growth strategy, we intend to expand our sales, maintenance and repair services internationally. However, we have limited experience to date selling and servicing our vehicles internationally and such expansion would require us to make significant expenditures, including the hiring of local employees and establishing facilities, in advance of generating any revenue. We are subject to a number of risks associated with international business activities that may increase our costs, impact our ability to sell our electric vehicles and require significant management attention. These risks include: 
+
+&#160;
+
+##TABLE_START &#160; &#149; &#160; conforming our vehicles to various international regulatory requirements where our vehicles are sold, or homologation; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; difficulty in staffing and managing foreign operations; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; difficulties attracting customers in new jurisdictions; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; foreign government taxes, regulations and permit requirements, including foreign taxes that we may not be able to offset against taxes imposed upon us in the United States, and foreign tax and other laws limiting our ability to repatriate funds to the United States; 
+
+##TABLE_END &#160; 
+
+##TABLE_START &#160; &#149; &#160; fluctuations in foreign currency exchange rates and interest rates, including risks related to any interest rate swap or other hedging activities we undertake; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; our ability to enforce our contractual and intellectual property rights, especially in those foreign countries that do not respect and protect intellectual property rights to the same extent as do the United States, Japan and European countries, which increases the risk of unauthorized, and uncompensated, use of our technology; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; United States and foreign government trade restrictions, tariffs and price or exchange controls; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; foreign labor laws, regulations and restrictions; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; preferences of foreign nations for domestically produced vehicles; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; changes in diplomatic and trade relationships; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; political instability, natural disasters, war or events of terrorism; and 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; the strength of international economies. 
+
+##TABLE_END If we fail to successfully address these risks, our business, prospects, operating results and financial condition could be materially harmed. 
+
+Foreign currency movements relative to the U.S. dollar could harm our financial results. 
+
+Our revenues and costs denominated in foreign currencies are not completely matched. For example, a portion of our costs and expenses for the year ended December 31, 2011 was denominated in foreign currencies, principally the British pound. This is primarily due to the contract with Lotus in the United Kingdom to assemble the Tesla Roadster vehicles and gliders. If the value of the U.S. dollar depreciates significantly against the British pound, our costs as measured in U.S. dollars will correspondingly increase. Similarly, a weakening of the U.S. dollar against the Japanese yen or another Asian currency could cause our component costs to increase. However, we do not currently have sufficient revenues denominated in these currencies to fully offset the impact of such cost increases. As a result, our operating results could be adversely affected. Conversely, we have greater revenues than costs denominated in other currencies, principally the euro. In this case, a strengthening of the dollar against the euro from current levels would tend to reduce our revenues as measured in U.S. dollars. 
+
+The unavailability, reduction or elimination of government and economic incentives could have a material adverse effect on our business, financial condition, operating results and prospects. 
+
+Any reduction, elimination or discriminatory application of government subsidies and economic incentives because of policy changes, the reduced need for such subsidies and incentives due to the perceived success of the electric vehicle, fiscal tightening or other reasons may result in the diminished competitiveness of the alternative fuel vehicle industry generally or our electric vehicles in particular. This could materially and adversely affect the growth of the alternative fuel automobile markets and our business, prospects, financial condition and operating results. 
+
+Our growth depends in part on the availability and amounts of government subsidies and economic incentives for alternative fuel vehicles generally and performance electric vehicles specifically. For example, in December 2009, we finalized an arrangement with the California Alternative Energy and Advanced Transportation Financing Authority that will result in an exemption from California state sales and use taxes for up to $320 million of manufacturing equipment. To the extent all of this equipment is purchased and would otherwise be subject to California state sales and use tax, we believe this incentive would result in tax savings by us of up to approximately $31 million over a three year period starting in December 2009. This exemption is only available for equipment that would otherwise be subject to California sales and use taxes and that would be used only for the following three purposes: to establish our production facility for the Model S sedan, to upgrade our Palo Alto powertrain production facility, and to expand our current Tesla Roadster assembly operations at our Menlo Park facility. If we fail to meet these conditions, we would be unable to take full advantage of this tax incentive and our financial position could be harmed. 
+
+&#160; 
+
+In addition, certain regulations and laws that encourage sales of electric cars through tax credits or other subsidies could be reduced, eliminated or applied in a way that creates an adverse effect against our vehicles, either currently or at any time in the future. For example, while the federal and state governments have from time to time enacted tax credits and other incentives for the purchase of alternative fuel cars, our competitors have more experience and greater resources in working with legislators than we do, and so there is no guarantee that our vehicles would be eligible for tax credits or other incentives provided to alternative fuel vehicles in the future. This would put our vehicles at a competitive disadvantage. As an example at the state level, California recently renewed a rebate program for the purchase of qualified alternative technology vehicles, but reduced the rebate amount from $5,000 per vehicle to $2,500 per vehicle due to fewer funds available and increased demand. When these funds run out, there is no mechanism in place to replenish them until the next fiscal year. Subsequent purchasers would face a delay in receiving rebates since they would have to wait until the next fiscal year&#146;s funding became available. As an additional example, there is considerable discussion at the federal level over tax reform. Discussions have included reducing or even eliminating the current $7,500 tax credit available to purchasers of qualified alternative fuel vehicles, including the Tesla Roadster and Model S. Also, government disincentives have been enacted in Europe for gas-powered vehicles, which discourage the use of such vehicles and allow us to set a higher sales price for the Tesla Roadster in Europe. In the event that such disincentives are reduced or eliminated, sales of electric vehicles, including our Tesla Roadster and our Model S, could be adversely affected. Furthermore, low volume manufacturers are exempt from certain regulatory requirements in the United States and the European Union. This provides us with an advantage over high volume manufacturers that must comply with such regulations. Once we reach a certain threshold number of sales in each of the United States and the European Union, we will no longer be able to take advantage of such exemptions in the respective jurisdictions, which could lead us to incur additional design and manufacturing expense. We do not anticipate that we will be able to take advantage of these exemptions with respect to Model S which we plan to produce at significantly higher volumes than the Tesla Roadster. 
+
+If we are unable to grow our sales of electric vehicle components to original equipment manufacturers our financial results may suffer. 
+
+We may have trouble attracting and retaining powertrain customers which could adversely affect our business prospects and results. Daimler and its affiliates and Toyota and its affiliates are currently the only customers of our electric powertrain sales and development services. While we recently received a letter of intent from Daimler for a full electric powertrain program for a vehicle in the Mercedes line and a purchase order to begin this development, there is no guarantee that we will be able to secure future business with Daimler or its affiliates. Even if we can attract and retain powertrain customers, there is no assurance that we can adequately pursue such opportunities simultaneously with the execution of our plans for our vehicles. 
+
+Our relationship with Daimler is subject to various risks which could adversely affect our business and future prospects. 
+
+While we recently received a letter of intent from Daimler for a full electric powertrain program for a vehicle in the Mercedes line and a purchase order to begin this development, our relationship with Daimler poses various risks to us including: 
+
+&#160;
+
+##TABLE_START &#160; &#149; &#160; potential loss of access to parts that Daimler is providing for Model S; and 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; potential loss of business and adverse publicity to our brand image if there are defects or other problems discovered with our electric powertrain components that Daimler has incorporated into their vehicles. 
+
+##TABLE_END The occurrence of any of the foregoing could adversely affect our business, prospects, financial condition and operating results. 
+
+&#160; 
+
+In addition, our exclusivity and intellectual property agreement, or EIP Agreement, with Daimler North America Corporation (DNAC), an affiliate of Daimler provides that, if a Daimler competitor offers to enter into a competitive strategic transaction with us, we are required to give DNAC notice of such offer and DNAC will have a specified period of time in which to notify us whether it wishes to enter into such transaction with us on the same terms as offered by the third party. Because we will be able to enter into such a transaction with a third party only if DNAC declines to do so, this may decrease the likelihood that we will receive offers from third parties to enter into strategic arrangements in the future. 
+
+We may not be able to identify adequate strategic relationship opportunities, or form strategic relationships, in the future. 
+
+Strategic business relationships will be an important factor in the growth and success of our business. For example, our strategic relationship with Daimler has provided us with various benefits and we have entered into an agreement for the supply of a validated electric powertrain for the Toyota RAV4 with Toyota. However, there are no assurances that we will be able to identify or secure suitable business relationship opportunities in the future or our competitors may capitalize on such opportunities before we do. Our strategic relationship with Daimler involved Blackstar, an affiliate of Daimler, making a significant equity investment in us as well as a representative from Daimler, Dr. Herbert Kohler, joining our Board. In addition, Toyota made a significant equity investment in us concurrent with the closing of our IPO in July 2010. We may not be able to offer similar benefits to other companies that we would like to establish and maintain strategic relationships with which could impair our ability to establish such relationships. Moreover, identifying such opportunities could demand substantial management time and resources, and negotiating and financing relationships involves significant costs and uncertainties. If we are unable to successfully source and execute on strategic relationship opportunities in the future, our overall growth could be impaired, and our business, prospects and operating results could be materially adversely affected. 
+
+If we are unable to keep up with advances in electric vehicle technology, we may suffer a decline in our competitive position. 
+
+We may be unable to keep up with changes in electric vehicle technology and, as a result, may suffer a decline in our competitive position. Any failure to keep up with advances in electric vehicle technology would result in a decline in our competitive position which would materially and adversely affect our business, prospects, operating results and financial condition. Our research and development efforts may not be sufficient to adapt to changes in electric vehicle technology. As technologies change, we plan to upgrade or adapt our vehicles and introduce new models in order to continue to provide vehicles with the latest technology, in particular battery cell technology. However, our vehicles may not compete effectively with alternative vehicles if we are not able to source and integrate the latest technology into our vehicles. For example, we do not manufacture battery cells, which makes us dependent upon other suppliers of battery cell technology for our battery packs. 
+
+If we fail to manage future growth effectively, we may not be able to market and sell our vehicles successfully. 
+
+Any failure to manage our growth effectively could materially and adversely affect our business, prospects, operating results and financial condition. We continue to expand our operations significantly, and additional significant expansion will be required, especially in connection with the establishment of our Model S manufacturing facility, our electric powertrain manufacturing facility, the expansion of our network of Tesla stores and service centers, our mobile Tesla Rangers program and requirements of being a public company. Our future operating results depend to a large extent on our ability to manage this expansion and growth successfully. Risks that we face in undertaking this expansion include: 
+
+&#160;
+
+##TABLE_START &#160; &#149; &#160; training new personnel; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; forecasting production and revenue; 
+
+##TABLE_END &#160; 
+
+##TABLE_START &#160; &#149; &#160; controlling expenses and investments in anticipation of expanded operations; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; establishing or expanding design, manufacturing, sales and service facilities; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; implementing and enhancing manufacturing and administrative infrastructure, systems and processes; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; addressing new markets; and 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; expanding international operations. 
+
+##TABLE_END We intend to continue to hire a significant number of additional personnel, including design and manufacturing personnel and service technicians for our performance electric vehicles. Because our high-performance vehicles are based on a different technology platform than traditional internal combustion engines, individuals with sufficient training in performance electric vehicles may not be available to hire, and we will need to expend significant time and expense training the employees we do hire. Competition for individuals with experience designing, manufacturing and servicing electric vehicles is intense, and we may not be able to attract, assimilate, train or retain additional highly qualified personnel in the future. The failure to attract, integrate, train, motivate and retain these additional employees could seriously harm our business and prospects. 
+
+If we are unable to attract and/or retain key employees and hire qualified management, technical vehicle engineering, and manufacturing personnel, our ability to compete could be harmed and our stock price may decline. 
+
+The loss of the services of any of our key employees could disrupt our operations, delay the development and introduction of our vehicles and services, and negatively impact our business, prospects and operating results as well as cause our stock price to decline. In particular, we are highly dependent on the services of Elon Musk, our Chief Executive Officer, Product Architect and Chairman of our Board of Directors, and JB Straubel, our Chief Technical Officer. None of our key employees is bound by an employment agreement for any specific term. There can be no assurance that we will be able to successfully attract and retain senior leadership necessary to grow our business. Our future success depends upon our ability to attract and retain our executive officers and other key technology, sales, marketing, engineering, manufacturing and support personnel and any failure to do so could adversely impact our business, prospects, financial condition and operating results. We have in the past and may in the future experience difficulty in retaining members of our senior management team as well as technical, vehicle engineering and manufacturing personnel due to various factors, such as a very competitive labor market for talented individuals with automotive experience. In addition, we do not have &#147;key person&#148; life insurance policies covering any of our officers or other key employees. There is increasing competition for talented individuals with the specialized knowledge of electric vehicles and this competition affects both our ability to retain key employees and hire new ones. In particular, as we prepare for the launch of Model S, we will have to significantly ramp up hiring of manufacturing personnel, and finding manufacturing personnel in sufficient numbers, at the required times and with the needed skill sets may be difficult. 
+
+We are highly dependent on the services of Elon Musk, our Chief Executive Officer. 
+
+We are highly dependent on the services of Elon Musk, our Chief Executive Officer, Product Architect, Chairman of our Board of Directors and largest stockholder. Although Mr. Musk spends significant time with Tesla and is highly active in our management, he does not devote his full time and attention to Tesla. Mr. Musk also currently serves as Chief Executive Officer and Chief Technical Officer of Space Exploration Technologies, a developer and manufacturer of space launch vehicles, and Chairman of SolarCity, a solar equipment installation company. 
+
+In addition, our financing agreements with Blackstar contain certain covenants relating to Mr. Musk&#146;s employment as our Chief Executive Officer. These covenants provide that if Mr. Musk is not serving as our Chief Executive Officer at any time until the later of December 31, 2012 or the launch of Model S, Mr. Musk shall promptly propose a successor Chief Executive Officer and Dr. Kohler, or his successor, must consent to any 
+
+&#160; 
+
+appointment of such person by our Board of Directors. If at any time during the period from January 1, 2011 through December 31, 2012, Mr. Musk is not serving as either our Chief Executive Officer or Chairman of our Board of Directors for reasons other than his death or disability, and Dr. Kohler, or his successor, has not consented to the appointment of a new Chief Executive Officer or if during such period Mr. Musk renders services to, or invests in, any other automotive OEM other than us, Daimler has the right to terminate any or all of its strategic collaboration agreements with us. If this were to occur, our business would be harmed. 
+
+Furthermore, our DOE Loan Facility provides that we will be in default under the facility in the event Mr. Musk and certain of his affiliates fail to own, at any time prior to one year after we complete the project relating to Model S, at least 65% of the capital stock held by Mr. Musk and such affiliates as of the date of the DOE Loan Facility. Mr. Musk&#146;s shares of our capital stock are held directly by his personal trust. 
+
+Many members of our management team are new to the company or to the automobile industry, and execution of our business plan and development strategy could be seriously harmed if integration of our management team into our company is not successful. 
+
+Our business could be seriously harmed if integration of our management team into our company is not successful. We expect that it will take time for our new management team to integrate into our company and it is too early to predict whether this integration will be successful. We have recently experienced significant changes in our management team and expect to continue to experience significant growth in our management team. Our senior management team has only limited experience working together as a group. Specifically, three of the six members of our senior management team have joined us within the last few years. For example, Gilbert Passin, our Vice President of Manufacturing, joined us in January 2010, George Blankenship, our Vice President of Sales and Ownership Experience, joined us in July 2010, and Eric Whitaker, our General Counsel, joined us in October 2010. This lack of long-term experience working together may impact the team&#146;s ability to collectively quickly and efficiently respond to problems and effectively manage our business. Although we are taking steps to add senior management personnel that have significant automotive experience, many of the members of our current senior management team have limited or no prior experience in the automobile or electric vehicle industries. 
+
+We are subject to various environmental and safety laws and regulations that could impose substantial costs upon us and cause delays in building our manufacturing facilities. 
+
+As an automobile manufacturer, we and our operations, both in the United States and abroad, are subject to national, state, provincial and/or local environmental, health and safety laws and regulations, including laws relating to the use, handling, storage, disposal and human exposure to hazardous materials. Environmental and health and safety laws and regulations can be complex, and we expect that our business and operations will be affected by future amendments to such laws or other new environmental and health and safety laws which may require us to change our operations, potentially resulting in a material adverse effect on our business. These laws can give rise to liability for administrative oversight costs, cleanup costs, property damage, bodily injury and fines and penalties. Capital and operating expenses needed to comply with environmental, health and safety laws and regulations can be significant, and violations may result in substantial fines and penalties, third party damages, suspension of production or a cessation of our operations. 
+
+Contamination at properties formerly owned or operated by us, as well as at properties we will own and operate, and properties to which hazardous substances were sent by us, may result in liability for us under environmental laws and regulations, including, but not limited to the Comprehensive Environmental Response, Compensation and Liability Act (CERCLA), which can impose liability for the full amount of remediation-related costs without regard to fault, for the investigation and cleanup of contaminated soil and ground water, for building contamination and impacts to human health and for damages to natural resources. The costs of complying with environmental laws and regulations and any claims concerning noncompliance, or liability with respect to contamination in the future, could have a material adverse effect on our financial condition or 
+
+&#160; 
+
+operating results. We may face unexpected delays in obtaining the necessary permits and approvals required by environmental laws in connection with our manufacturing facilities that could require significant time and financial resources and delay our ability to operate these facilities, which would adversely impact our business prospects and operating results. 
+
+New United Motor Manufacturing, Inc. (NUMMI) has previously identified environmental conditions at our Tesla Factory which affect soil and groundwater, and has undertaken efforts to address these conditions. Although we have been advised by NUMMI that it has documented and managed the environmental issues at the Fremont site, we cannot currently determine with certainty the total potential costs to remediate pre-existing contamination, and we may be exposed to material liability as a result of the existence of any environmental contamination at the Fremont site. 
+
+As the owner of the Fremont site, we may be responsible under federal and state laws and regulations for the entire investigation and remediation of any environmental contamination at the Fremont site, whether it occurred before or after the date we purchase the property. We have reached an agreement with NUMMI under which, over a ten year period, we will pay the first $15.0 million of any costs of any governmentally-required remediation activities for contamination that existed prior to the closing of the purchase for any known or unknown environmental conditions (Remediation Activities), and NUMMI has agreed to pay the next $15.0 million for such Remediation Activities. Our agreement provides, in part, that NUMMI will pay up to the first $15.0 million on our behalf if such expenses are incurred in the first four years of our agreement, subject to our reimbursement of such costs on the fourth anniversary date of the closing. 
+
+On the ten-year anniversary of the closing or whenever $30.0 million has been spent on the Remediation Activities, whichever comes first, NUMMI&#146;s liability to us with respect to Remediation Activities ceases, and we are responsible for any and all environmental conditions at the Fremont site. At that point in time, we have agreed to indemnify, defend, and hold harmless NUMMI from all liability, including attorney fees, or any costs or penalties it may incur arising out of or in connection with any claim relating to environmental conditions and we have released NUMMI for any known or unknown claims except for NUMMI&#146;s obligations for representations and warranties under the agreement. As of December 31, 2011, we have accrued $5.3 million related to these environmental liabilities. 
+
+There are no assurances that NUMMI will perform its obligations under our agreement and NUMMI&#146;s failure to perform would require us to undertake these obligations at a potentially significant cost and risk to our ability to build, equip, and operate our Tesla Factory. Any Remediation Activities or other environmental conditions at the Fremont site could harm our operations and the future use and value of the Fremont site and could delay our production plans for Model S. 
+
+Our business may be adversely affected by union activities. 
+
+Although none of our employees are currently represented by a labor union, it is common throughout the automobile industry generally for many employees at automobile companies to belong to a union, which can result in higher employee costs and increased risk of work stoppages. Our employees may join or seek recognition to form a labor union, or we may be required to become a union signatory. We recently purchased an existing automobile production facility in Fremont, California from NUMMI and we plan to produce our Model S at such facility. Prior employees of NUMMI were union members and our future work force at this facility may be inclined to vote in favor of forming a labor union. We are also directly or indirectly dependent upon companies with unionized work forces, such as parts suppliers and trucking and freight companies, and work stoppages or strikes organized by such unions could have a material adverse impact on our business, financial condition or operating results. If a work stoppage occurs, it could delay the manufacture and sale of our performance electric vehicles and have a material adverse effect on our business, prospects, operating results or financial condition. The mere fact that our labor force could be unionized may harm our reputation in the eyes of some investors and thereby negatively affect our stock price. Additionally, the unionization of our labor force 
+
+&#160; 
+
+could increase our employee costs and decrease our profitability, both of which could adversely affect our business, prospects, financial condition and results of operations. 
+
+We are subject to substantial regulation, which is evolving, and unfavorable changes or failure by us to comply with these regulations could substantially harm our business and operating results. 
+
+Our performance electric vehicles, the sale of motor vehicles in general and the electronic components used in our vehicles are subject to substantial regulation under international, federal, state, and local laws. We have incurred, and expect to incur in the future, significant costs in complying with these regulations. For example, the Clean Air Act requires that we obtain a Certificate of Conformity issued by the EPA and a California Executive Order issued by the CARB with respect to emissions for our vehicles. We received a Certificate of Conformity for sales of our Tesla Roadsters in 2008 and 2010, but did not receive a Certificate of Conformity for sales of the Tesla Roadster in 2009 until December 21, 2009. In January 2010, we and the EPA entered into an Administrative Settlement Agreement and Audit Policy Determination in which we agreed to pay a civil administrative penalty in the sum of $275,000 for failing to obtain a Certificate of Conformity for sales of our vehicles in 2009 prior to December 21, 2009. 
+
+Regulations related to the electric vehicle industry and alternative energy are currently evolving and we face risks associated with changes to these regulations such as: 
+
+&#160;
+
+##TABLE_START &#160; &#149; &#160; the imposition of a carbon tax or the introduction of a cap-and-trade system on electric utilities could increase the cost of electricity; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; changes to the regulations governing the assembly and transportation of lithium-ion battery packs, such as the UN Recommendations of the Safe Transport of Dangerous Goods Model Regulations or regulations adopted by the U.S. Pipeline and Hazardous Materials Safety Administration (PHMSA) could increase the cost of lithium-ion battery packs; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; the amendment or rescission of the federal law and regulations mandating increased fuel economy in the United States, referred to as the Corporate Average Fuel Economy (CAFE) standards could reduce new business opportunities for our powertrain sales and development activities; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; amendment or rescission of federal greenhouse gas tailpipe emission regulations administered by EPA under the authority of the Clean Air Act could reduce new business opportunities for our powertrain sales and development activities; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; increased sensitivity by regulators to the needs of established automobile manufacturers with large employment bases, high fixed costs and business models based on the internal combustion engine could lead them to pass regulations that could reduce the compliance costs of such established manufacturers or mitigate the effects of government efforts to promote alternative fuel vehicles; and 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; changes to regulations governing exporting of our products could increase our costs incurred to deliver products outside the United States or force us to charge a higher price for our vehicles in such jurisdictions. 
+
+##TABLE_END In addition, as the automotive industry moves towards greater use of electronics for vehicle systems, NHTSA and other regulatory bodies may in the future increase regulation for these electronic systems. 
+
+To the extent the laws change, some or all of our vehicles may not comply with applicable international, federal, state or local laws, which would have an adverse effect on our business. Compliance with changing regulations could be burdensome, time consuming, and expensive. To the extent compliance with new regulations is cost prohibitive, our business, prospects, financial condition and operating results will be adversely affected. 
+
+&#160; 
+
+We retain certain personal information about our customers and may be subject to various privacy and consumer protection laws. 
+
+We use our vehicles&#146; electronic systems to log information about each vehicle&#146;s use in order to aid us in vehicle diagnostics, repair and maintenance, as well as to help us collect data regarding our customers&#146; charge time, battery usage, mileage and efficiency habits. Our customers may object to the use of this data, which may harm our business. Possession and use of our customers&#146; personal information in conducting our business may subject us to federal and/or state legislative and regulatory burdens in the United States and foreign jurisdictions that could require notification of data breach, restrict our use of such personal information and hinder our ability to acquire new customers or market to existing customers. For example, we are subject to local data protection laws in Europe. We may incur significant expenses to comply with privacy, consumer protection and security standards and protocols imposed by law, regulation, industry standards or contractual obligations. If third parties improperly obtain and use the personal information of our customers, we may be required to expend significant resources to resolve these problems. A major breach of our network security and systems could have serious negative consequences for our businesses and future prospects, including possible fines, penalties and damages, reduced customer demand for our vehicles, and harm to our reputation and brand. 
+
+We may become subject to product liability claims, which could harm our financial condition and liquidity if we are not able to successfully defend or insure against such claims. 
+
+We may become subject to product liability claims, which could harm our business, prospects, operating results and financial condition. The automobile industry experiences significant product liability claims and we face inherent risk of exposure to claims in the event our vehicles do not perform as expected or malfunction resulting in personal injury or death. Our risks in this area are particularly pronounced given the limited number of vehicles delivered to date and limited field experience of those vehicles. A successful product liability claim against us could require us to pay a substantial monetary award. Moreover, a product liability claim could generate substantial negative publicity about our vehicles and business and inhibit or prevent commercialization of other future vehicle candidates which would have material adverse effect on our brand, business, prospects and operating results. We self insure against the risk of product liability claims. Any lawsuit seeking significant monetary damages may have a material adverse effect on our reputation, business and financial condition. We may not be able to secure additional product liability insurance coverage on commercially acceptable terms or at reasonable costs when needed, particularly if we do face liability for our products and are forced to make a claim under our policy. 
+
+In connection with the development and sale of our Model S, Model X, and our future electric vehicles, we will need to comply with various additional safety regulations and requirements that were not applicable to the sales of our Tesla Roadsters, with which it may be expensive or difficult to comply. For example, we will need to pass a range of impact tests for Model S. We performed similar tests on the Tesla Roadster based on European Union testing standards in connection with sales exceeding certain volume thresholds in Australia and Japan, and two criteria were not met in the test. We may experience difficulties in meeting all the criteria for these or similar tests for our Model S and Model X, which may delay our ability to sell Model S and Model X in high volumes in certain jurisdictions. 
+
+We may be compelled to undertake product recalls, which could adversely affect our brand image and financial performance. 
+
+Any product recall in the future may result in adverse publicity, damage our brand and adversely affect our business, prospects, operating results and financial condition. We previously experienced product recalls in May 2009 and October 2010, both of which were unrelated to our electric powertrain. In April 2009, we determined that a condition caused by insufficient torquing of the rear inner hub flange bolt existed in some of our Tesla Roadsters, as a result of a missed process during manufacture of the Tesla Roadster glider. In October 2010, we initiated a product recall after the 12 volt, low voltage auxiliary cable in a single vehicle chafed against the edge 
+
+&#160; 
+
+of a carbon fiber panel in the vehicle causing a short, smoke and possible fire behind the right front headlamp of the vehicle. In the future, we may at various times, voluntarily or involuntarily, initiate a recall if any of our vehicles, including our Model S, or electric powertrain components prove to be defective or noncompliant with applicable federal motor vehicle safety standards. Such recalls, voluntary or involuntary, involve significant expense and diversion of management attention and other resources, which could adversely affect our brand image in our target markets and could adversely affect our business, prospects, financial condition and results of operations. 
+
+Our current and future warranty reserves may be insufficient to cover future warranty claims which could adversely affect our financial performance. 
+
+If our warranty reserves are inadequate to cover future warranty claims on our vehicles, our business, prospects, financial condition and operating results could be materially and adversely affected. We provide a three year or 36,000 miles New Vehicle Limited Warranty with every Tesla Roadster, which we extended to four years or 50,000 miles for the purchasers of our 2008 Tesla Roadster. In addition, customers have the opportunity to purchase an Extended Service Plan for the period after the end of the New Vehicle Limited Warranty to cover additional services for an additional three years or 36,000 miles, whichever comes first. The New Vehicle Limited Warranty is similar to other vehicle manufacturers&#146; warranty programs and is intended to cover all parts and labor to repair defects in material or workmanship in the body, chassis, suspension, interior, electronic systems, battery pack, powertrain and brake system. We record and adjust warranty reserves based on changes in estimated costs and actual warranty costs. However, because we only began delivering our first Tesla Roadster in early 2008, we have extremely limited operating experience with our vehicles, and therefore little experience with warranty claims for these vehicles or with estimating warranty reserves. Furthermore, reserves that we anticipate recording when we commence delivering Model S may be insufficient to cover any future warranty claims. 
+
+Since we began initiating sales of our vehicles, we have continued to increase our warranty reserves based on our actual warranty claim experience and we may be required to undertake further such increases in the future. As of December 31, 2011, we had warranty reserves of $6.3 million, and such reserve amount will increase in the future as Model S is sold. We could in the future become subject to a significant and unexpected warranty expense. There can be no assurances that our currently existing or future warranty reserves will be sufficient to cover all claims or that our limited experience with warranty claims will adequately address the needs of our customers to their satisfaction. 
+
+We may need to defend ourselves against patent or trademark infringement claims, which may be time-consuming and would cause us to incur substantial costs. 
+
+Companies, organizations or individuals, including our competitors, may hold or obtain patents, trademarks or other proprietary rights that would prevent, limit or interfere with our ability to make, use, develop or sell our vehicles or components, which could make it more difficult for us to operate our business. From time to time, we may receive inquiries from holders of patents or trademarks inquiring whether we infringe their proprietary rights. Companies holding patents or other intellectual property rights relating to battery packs, electric motors or electronic power management systems may bring suits alleging infringement of such rights or otherwise asserting their rights and seeking licenses. In addition, if we are determined to have infringed upon a third party&#146;s intellectual property rights, we may be required to do one or more of the following: 
+
+&#160;
+
+##TABLE_START &#160; &#149; &#160; cease selling, incorporating or using vehicles that incorporate the challenged intellectual property; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; pay substantial damages; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; obtain a license from the holder of the infringed intellectual property right, which license may not be available on reasonable terms or at all; or 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; redesign our vehicles. 
+
+##TABLE_END &#160; 
+
+In the event of a successful claim of infringement against us and our failure or inability to obtain a license to the infringed technology, our business, prospects, operating results and financial condition could be materially adversely affected. In addition, any litigation or claims, whether or not valid, could result in substantial costs and diversion of resources and management attention. 
+
+We also license patents and other intellectual property from third parties, and we may face claims that our use of this in-licensed technology infringes the rights of others. In that case, we may seek indemnification from our licensors under our license contracts with them. However, our rights to indemnification may be unavailable or insufficient to cover our costs and losses, depending on our use of the technology, whether we choose to retain control over conduct of the litigation, and other factors. 
+
+Our business will be adversely affected if we are unable to protect our intellectual property rights from unauthorized use or infringement by third parties. 
+
+Any failure to protect our proprietary rights adequately could result in our competitors offering similar products, potentially resulting in the loss of some of our competitive advantage and a decrease in our revenue which would adversely affect our business, prospects, financial condition and operating results. Our success depends, at least in part, on our ability to protect our core technology and intellectual property. To accomplish this, we rely on a combination of patents, patent applications, trade secrets, including know-how, employee and third party nondisclosure agreements, copyright laws, trademarks, intellectual property licenses and other contractual rights to establish and protect our proprietary rights in our technology. We have also received from third parties patent licenses related to manufacturing our vehicles. 
+
+The protection provided by the patent laws is and will be important to our future opportunities. However, such patents and agreements and various other measures we take to protect our intellectual property from use by others may not be effective for various reasons, including the following: 
+
+&#160;
+
+##TABLE_START &#160; &#149; &#160; our pending patent applications may not result in the issuance of patents; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; our patents, if issued, may not be broad enough to protect our proprietary rights; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; the patents we have been granted may be challenged, invalidated or circumvented because of the pre-existence of similar patented or unpatented intellectual property rights or for other reasons; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; the costs associated with enforcing patents, confidentiality and invention agreements or other intellectual property rights may make aggressive enforcement impracticable; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; current and future competitors may independently develop similar technology, duplicate our vehicles or design new vehicles in a way that circumvents our patents; and 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; our in-licensed patents may be invalidated or the holders of these patents may seek to breach our license arrangements. 
+
+##TABLE_END Existing trademark and trade secret laws and confidentiality agreements afford only limited protection. In addition, the laws of some foreign countries do not protect our proprietary rights to the same extent as do the laws of the United States, and policing the unauthorized use of our intellectual property is difficult. 
+
+Our patent applications may not result in issued patents, which may have a material adverse effect on our ability to prevent others from commercially exploiting products similar to ours. 
+
+We cannot be certain that we are the first creator of inventions covered by pending patent applications or the first to file patent applications on these inventions, nor can we be certain that our pending patent applications will result in issued patents or that any of our issued patents will afford protection against a competitor. In addition, patent applications filed in foreign countries are subject to laws, rules and procedures that differ from those of the United States, and thus we cannot be certain that foreign patent applications related to issued U.S. patents will 
+
+&#160; 
+
+result in issued patents. Furthermore, even if these patent applications do result in issued patents, some foreign countries provide significantly less effective patent enforcement than in the United States. 
+
+The status of patents involves complex legal and factual questions and the breadth of claims allowed is uncertain. As a result, we cannot be certain that the patent applications that we file will result in patents being issued, or that our patents and any patents that may be issued to us in the near future will afford protection against competitors with similar technology. In addition, patents issued to us may be infringed upon or designed around by others and others may obtain patents that we need to license or design around, either of which would increase costs and may adversely affect our business, prospects, financial condition and operating results. 
+
+Three of our trademark applications in the European Union remain subject to three outstanding opposition proceedings. 
+
+We currently sell and market our vehicles in the European Union under the Tesla trademark. We have three trademark applications in the European Union for the Tesla trademark. These are each subject to an outstanding opposition proceeding brought by a prior owner of trademarks consisting of the word Tesla. If we cannot resolve these remaining oppositions and thereby secure registered rights in the European Union, this will reduce our ability to challenge third party users of the Tesla trademark and dilute the value of the mark as our exclusive brand name in the European Union. In addition, there is a risk that the remaining prior rights owner could in the future take action to challenge our use of the Tesla mark in the European Union. This would have a severe impact on our position in the European Union and may inhibit our ability to use the Tesla mark in the European Union. If we were prevented from using the Tesla trademark in the European Union, we would need to expend significant additional financial and marketing resources on establishing an alternative brand identity in these markets. 
+
+We may be subject to claims arising from an airplane crash in which three of our employees died. 
+
+In February 2010, three of our employees died in a crash of an airplane owned and piloted by one of our employees. The plane crashed in a neighborhood in East Palo Alto, California. The plane also clipped an electrical tower, causing a power loss and business interruption in parts of Palo Alto, including Stanford University. The cause of the accident is under investigation by the National Transportation Safety Board. 
+
+In November 2010, a case was filed against us relating to the crash in California Superior Court. In that case, plaintiffs allege claims for negligence, negligent infliction of emotional distress, trespass, and violations of federal and state aviation laws and regulations against all defendants, and seek compensation for real property damage and loss of use, as well as personal property and emotional distress/bodily injury claims. In December 2010, the plaintiffs settled claims for real property damage but retained their claims for emotional distress, bodily injury and personal property damage. We believe that these remaining claims are covered by insurance. 
+
+As a result of the accident, other claims, including but not limited to those arising from loss of or damage to personal property, business interruption losses or damage to the electrical tower and surrounding area, may be asserted against various parties including us. The time and attention of our management may also be diverted in defending such claims. We may also incur costs both in defending against any claims and for any judgments if such claims are adversely determined. 
+
+Our corporate or manufacturing facilities or operations could be damaged or adversely affected as a result of disasters or unpredictable events. 
+
+Our corporate headquarters in Palo Alto and Tesla Factory in Fremont are located in Northern California, a region known for seismic activity. If major disasters such as earthquakes, fires, floods, hurricanes, wars, terrorist attacks, computer viruses, pandemics or other events occur, or our information system or communications network breaks down or operates improperly, our headquarters and production facilities may be seriously 
+
+&#160; 
+
+damaged, or we may have to stop or delay production and shipment of our products. In addition, our lease for our Palo Alto facility permits the landlord to terminate the lease following a casualty event if the needed repairs are in excess of certain thresholds and we do not agree to pay for any uninsured amounts. We may incur expenses relating to such damages, which could have a material adverse impact on our business, operating results and financial condition. 
+
+If our suppliers fail to use ethical business practices and comply with applicable laws and regulations, our brand image could be harmed due to negative publicity. 
+
+Our core values, which include developing the highest quality electric vehicles while operating with integrity, are an important component of our brand image, which makes our reputation particularly sensitive to allegations of unethical business practices. We do not control our independent suppliers or their business practices. Accordingly, we cannot guarantee their compliance with ethical business practices, such as environmental responsibility, fair wage practices, appropriate sourcing of raw materials, and compliance with child labor laws, among others. A lack of demonstrated compliance could lead us to seek alternative suppliers, which could increase our costs and result in delayed delivery of our products, product shortages or other disruptions of our operations. 
+
+Violation of labor or other laws by our suppliers or the divergence of an independent supplier&#146;s labor or other practices from those generally accepted as ethical in the United States or other markets in which we do business could also attract negative publicity for us and our brand. This could diminish the value of our brand image and reduce demand for our performance electric vehicles if, as a result of such violation, we were to attract negative publicity. If we, or other manufacturers in our industry, encounter similar problems in the future, it could harm our brand image, business, prospects, financial condition and operating results. 
+
+We are obligated to develop and maintain proper and effective internal control over financial reporting. We may not complete our analysis of our internal control over financial reporting in a timely manner, or these internal controls may not be determined to be effective, which may adversely affect investor confidence in our company and, as a result, the value of our common stock. 
+
+We are required, pursuant to Section 404 of the Sarbanes-Oxley Act, to furnish a report by management on, among other things, the effectiveness of our internal control over financial reporting. This assessment includes disclosure of any material weaknesses identified by our management in our internal control over financial reporting, as well as a statement that our independent registered public accounting firm has issued an attestation report on the effectiveness of our internal control over financial reporting. 
+
+Complying with Section 404 requires a rigorous compliance program as well as adequate time and resources. We may not be able to complete our evaluation, testing and any required remediation in a timely fashion. Additionally, if we identify one or more material weaknesses in our internal control over financial reporting, we may be unable to assert that our internal controls are effective. If we are unable to assert that our internal control over financial reporting is effective, or if our independent registered public accounting firm is unable to express an opinion on the effectiveness of our internal controls, we could lose investor confidence in the accuracy and completeness of our financial reports, which would have a material adverse effect on the price of our common stock. 
+
+Risks Related to the Ownership of our Common Stock 
+
+Concentration of ownership among our existing executive officers, directors and their affiliates may prevent new investors from influencing significant corporate decisions. 
+
+As of December 31, 2011, our executive officers, directors and their affiliates beneficially own, in the aggregate, approximately 41.7% of our outstanding shares of common stock. In particular, Elon Musk, our Chief Executive Officer, Product Architect and Chairman of our Board of Directors, beneficially owned approximately 
+
+&#160; 
+
+28.9% of our outstanding shares of common stock as of December 31, 2011. As a result, these stockholders will be able to exercise a significant level of control over all matters requiring stockholder approval, including the election of directors, amendment of our certificate of incorporation and approval of significant corporate transactions. This control could have the effect of delaying or preventing a change of control of our company or changes in management and will make the approval of certain transactions difficult or impossible without the support of these stockholders. 
+
+The trading price of our common stock is likely to continue to be volatile. 
+
+Our shares of common stock began trading on the Nasdaq Global Select Market on June 29, 2010 and therefore, the trading history for our common stock has been limited. In addition, the trading price of our common stock has been highly volatile and could continue to be subject to wide fluctuations in response to various factors, some of which are beyond our control. For example, after opening at $17.00 per share at the IPO, our common stock has experienced an intra-day trading high of $36.42 per share and a low of $14.98 per share through December 31, 2011. 
+
+In addition, the stock market in general, and the market for technology companies in particular, has experienced extreme price and volume fluctuations that have often been unrelated or disproportionate to the operating performance of those companies. Broad market and industry factors may seriously affect the market price of companies&#146; stock, including ours, regardless of actual operating performance. These fluctuations may be even more pronounced in the trading market for our stock during the period following this offering. In addition, in the past, following periods of volatility in the overall market and the market price of a particular company&#146;s securities, securities class action litigation has often been instituted against these companies. This litigation, if instituted against us, could result in substantial costs and a diversion of our management&#146;s attention and resources. 
+
+A majority of our total outstanding shares are held by insiders and may be sold on a stock exchange in the near future. The large number of shares eligible for public sale or subject to rights requiring us to register them for public sale could depress the market price of our common stock. 
+
+The market price of our common stock could decline as a result of sales of a large number of shares of our common stock in the market in the future, and the perception that these sales could occur may also depress the market price of our common stock. Stockholders owning a majority of our total outstanding shares are entitled, under contracts providing for registration rights, to require us to register shares of our common stock owned by them for public sale in the United States, subject to the restrictions of Rule 144. In addition, we have registered shares previously issued or reserved for future issuance under our equity compensation plans and agreements, a portion of which are related to outstanding option awards. Subject to the satisfaction of applicable exercise periods and, in certain cases, lock-up agreements, the shares of common stock issued upon exercise of outstanding options will be available for immediate resale in the United States in the open market. Sales of our common stock as restrictions end or pursuant to registration rights may make it more difficult for us to sell equity securities in the future at a time and at a price that we deem appropriate. These sales also could cause our stock price to fall and make it more difficult for you to sell shares of our common stock. 
+
+Mr. Musk has borrowed funds from an affiliate of our underwriter and pledged shares of our common stock to secure this borrowing. The forced sale of these shares pursuant to a margin call could cause our stock price to decline and negatively impact our business. 
+
+Goldman Sachs Bank USA, an affiliate of Goldman, Sachs &#38; Co., made a loan in the amount of $35 million to Elon Musk and the Elon Musk Revocable Trust dated July 22, 2003, or the Trust. Interest on the loan accrues at market rates. Goldman Sachs Bank USA received customary fees and expense reimbursements in connection with this loan. Goldman Sachs Bank USA made additional extensions of credit in an aggregate amount of $50 million to Elon Musk and the Trust and Mr. Musk used a portion of the proceeds of such loans to purchase shares 
+
+&#160; 
+
+in the June 2011 private placement. Interest on the loans will accrue at market rates. Goldman Sachs Bank USA will receive customary fees and expense reimbursements in connection with these loans. As a regulated entity, Goldman Sachs Bank USA makes decisions regarding making and managing its loans independent of Goldman, Sachs &#38; Co. Mr. Musk and Goldman have a long-standing relationship of almost a decade. We are not a party to these loans, which are full recourse against Mr. Musk and the Trust and are secured by a pledge of a portion of the Tesla common stock currently owned by Mr. Musk and the Trust and other shares of capital stock of unrelated entities owned by Mr. Musk and the Trust. The terms of these loans were negotiated directly between Mr. Musk and Goldman Sachs Bank USA. 
+
+If the price of our common stock declines, Mr. Musk may be forced by Goldman Sachs Bank USA to provide additional collateral for the loans or to sell shares of Tesla common stock in order to remain within the margin limitations imposed under the terms of his loans. The loans between Goldman Sachs Bank USA and Mr. Musk and the Trust prohibit the non-pledged shares currently owned by Mr. Musk and the Trust from being pledged to secure other loans. In addition, our DOE Loan Facility requires Mr. Musk and certain of his affiliates, until one year after we complete the project relating to the Model S Facility, to own at least 65% of the Tesla capital stock held by them as of the date of the DOE Loan Facility, and a failure to comply would be an event of default that could result in an acceleration of all obligations under the DOE Loan Facility documents and the exercise of other remedies by the DOE. These factors may limit Mr. Musk&#146;s ability to either pledge additional shares of Tesla common stock or sell shares of Tesla common stock as a means to avoid or satisfy a margin call with respect to his pledged Tesla common stock in the event of a decline in our stock price that is large enough to trigger a margin call. Any sales of common stock following a margin call that is not satisfied may cause the price of our common stock to decline further. 
+
+Anti-takeover provisions contained in our certificate of incorporation and bylaws, as well as provisions of Delaware law, could impair a takeover attempt. 
+
+Our certificate of incorporation, bylaws and Delaware law contain provisions which could have the effect of rendering more difficult, delaying or preventing an acquisition deemed undesirable by our board of directors. Our corporate governance documents include provisions: 
+
+&#160;
+
+##TABLE_START &#160; &#149; &#160; creating a classified board of directors whose members serve staggered three-year terms; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; authorizing &#147;blank check&#148; preferred stock, which could be issued by the board without stockholder approval and may contain voting, liquidation, dividend and other rights superior to our common stock; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; limiting the liability of, and providing indemnification to, our directors and officers; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; limiting the ability of our stockholders to call and bring business before special meetings; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; requiring advance notice of stockholder proposals for business to be conducted at meetings of our stockholders and for nominations of candidates for election to our board of directors; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; controlling the procedures for the conduct and scheduling of board and stockholder meetings; and 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; providing the board of directors with the express power to postpone previously scheduled annual meetings and to cancel previously scheduled special meetings. 
+
+##TABLE_END These provisions, alone or together, could delay or prevent hostile takeovers and changes in control or changes in our management. 
+
+As a Delaware corporation, we are also subject to provisions of Delaware law, including Section 203 of the Delaware General Corporation law, which prevents some stockholders holding more than 15% of our outstanding common stock from engaging in certain business combinations without approval of the holders of substantially all of our outstanding common stock. 
+
+&#160; 
+
+Any provision of our certificate of incorporation or bylaws or Delaware law that has the effect of delaying or deterring a change in control could limit the opportunity for our stockholders to receive a premium for their shares of our common stock, and could also affect the price that some investors are willing to pay for our common stock. 
+
+Our current agreements with Blackstar, an affiliate of Daimler, contain certain restrictions that decrease the likelihood that potential acquirors would make a bid to acquire us. 
+
+Our financing agreements with Blackstar, an affiliate of Daimler, include certain restrictions that decrease the likelihood that potential acquirors would make a bid to acquire us, including giving Blackstar a right of notice on any acquisition proposal we receive for which we determine to engage in further discussions with a potential acquiror or otherwise pursue. Blackstar then has a right, within a specified time period, to submit a competing acquisition proposal. In addition, Elon Musk, our Chief Executive Officer, Product Architect, Chairman and largest stockholder, has agreed that he will not transfer any shares of our capital stock beneficially owned by him to any automobile original equipment manufacturer, other than Daimler, without Blackstar&#146;s consent. Mr. Musk has further agreed not to vote any shares of our capital stock beneficially owned by him in favor of a deemed liquidation transaction to which any automobile original equipment manufacturer, other than Daimler, is a party without Blackstar&#146;s consent. These provisions could delay or prevent hostile takeovers and changes in control of us, which could cause our stock price or trading volume to fall. 
+
+If securities or industry analysts publishing research or reports about us, our business or our market change their recommendations regarding our stock adversely or cease to publish research or reports about us, our stock price and trading volume could decline. 
+
+The trading market for our common stock will be influenced by the research and reports that industry or securities analysts may publish about us, our business, our market or our competitors. If any of the analysts who may cover us change their recommendation regarding our stock adversely, or provide more favorable relative recommendations about our competitors, our stock price would likely decline. If any analyst who may cover us were to cease coverage of our company or fail to regularly publish reports on us, we could lose visibility in the financial markets, which in turn could cause our stock price or trading volume to decline. 
+
+We do not expect to declare any dividends in the foreseeable future. 
+
+We do not anticipate declaring any cash dividends to holders of our common stock in the foreseeable future. Consequently, investors may need to rely on sales of their common stock after price appreciation, which may never occur, as the only way to realize any future gains on their investment. Investors seeking cash dividends should not purchase our common stock. 
+
+&#160;
+
+##TABLE_START 
+
+
+
+Instruction: 
+            According to the given information in the 10-k report, summarize the top 3 key risks of the company. 
+            Then, for each key risk, break down the risk assessment into the following aspects:
+            1. Industry Vertical Risk: How does this industry vertical compare with others in terms of risk? Consider factors such as regulation, market volatility, and competitive landscape.
+            2. Cyclicality: How cyclical is this industry? Discuss the impact of economic cycles on the company's performance.
+            3. Risk Quantification: Enumerate the key risk factors with supporting data if the company or segment is deemed risky.
+            4. Downside Protections: If the company or segment is less risky, discuss the downside protections in place. Consider factors such as diversification, long-term contracts, and government regulation.
+
+            Finally, provide a detailed and nuanced assessment that reflects the true risk landscape of the company. And Avoid any bullet points in your response.
+            

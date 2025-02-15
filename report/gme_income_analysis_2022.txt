@@ -1,0 +1,62 @@
+Income statement:
+2024-01-31    2023-01-31    2022-01-31    2021-01-31
+Tax Effect Of Unusual Items                                   -1008000.0     -567000.0     -241200.0     3464500.0
+Tax Rate For Calcs                                                  0.21          0.21         0.036         0.205
+Normalized EBITDA                                             31300000.0  -244500000.0  -277900000.0  -190900000.0
+Total Unusual Items                                           -4800000.0    -2700000.0    -6700000.0    16900000.0
+Total Unusual Items Excluding Goodwill                        -4800000.0    -2700000.0    -6700000.0    16900000.0
+Net Income From Continuing Operation Net Minority Interest     6700000.0  -313100000.0  -381300000.0  -214600000.0
+Reconciled Depreciation                                       56200000.0    61700000.0    77200000.0    80700000.0
+Reconciled Cost Of Revenue                                  3978600000.0  4555100000.0  4662900000.0  3830300000.0
+EBITDA                                                        26500000.0  -247200000.0  -284600000.0  -174000000.0
+EBIT                                                         -29700000.0  -308900000.0  -361800000.0  -254700000.0
+Net Interest Income                                           49500000.0     9500000.0   -26900000.0   -32100000.0
+Interest Expense                                                     NaN           NaN    26900000.0    34000000.0
+Interest Income                                               49500000.0     9500000.0   -26900000.0   -32100000.0
+Normalized Income                                             10492000.0  -310967000.0  -374841200.0  -228035500.0
+Net Income From Continuing And Discontinued Operation          6700000.0  -313100000.0  -381300000.0  -215300000.0
+Total Expenses                                              5302500000.0  6236100000.0  6372500000.0  5344500000.0
+Total Operating Income As Reported                           -34500000.0  -311600000.0  -368500000.0  -237800000.0
+Diluted Average Shares                                       305200000.0   304200000.0   290400000.0   260000000.0
+Basic Average Shares                                         305100000.0   304200000.0   290400000.0   260000000.0
+Diluted EPS                                                         0.02         -1.03         -1.31       -0.8275
+Basic EPS                                                           0.02         -1.03         -1.31       -0.8275
+Diluted NI Availto Com Stockholders                            6700000.0  -313100000.0  -381300000.0  -215300000.0
+Net Income Common Stockholders                                 6700000.0  -313100000.0  -381300000.0  -215300000.0
+Net Income                                                     6700000.0  -313100000.0  -381300000.0  -215300000.0
+Net Income Including Noncontrolling Interests                  6700000.0  -313100000.0  -381300000.0  -215300000.0
+Net Income Discontinuous Operations                                  NaN           0.0           0.0     -700000.0
+Net Income Continuous Operations                               6700000.0  -313100000.0  -381300000.0  -214600000.0
+Tax Provision                                                  6400000.0    11000000.0   -14100000.0   -55300000.0
+Pretax Income                                                 13100000.0  -302100000.0  -395400000.0  -269900000.0
+Other Income Expense                                          -6700000.0    -2700000.0    -6700000.0    16900000.0
+Other Non Operating Income Expenses                           -1900000.0           NaN           NaN           NaN
+Special Income Charges                                        -4800000.0    -2700000.0    -6700000.0    16900000.0
+Gain On Sale Of Ppe                                                  NaN           0.0           0.0    32400000.0
+Write Off                                                      4800000.0     2700000.0     6700000.0    15500000.0
+Impairment Of Capital Assets                                         NaN     2700000.0     6700000.0    15500000.0
+Net Non Operating Interest Income Expense                     49500000.0     9500000.0   -26900000.0   -32100000.0
+Total Other Finance Cost                                     -49500000.0    -9500000.0    26900000.0    32100000.0
+Interest Expense Non Operating                                       NaN           NaN    26900000.0    34000000.0
+Interest Income Non Operating                                 49500000.0     9500000.0   -26900000.0   -32100000.0
+Operating Income                                             -29700000.0  -308900000.0  -361800000.0  -254700000.0
+Operating Expense                                           1323900000.0  1681000000.0  1709600000.0  1514200000.0
+Selling General And Administration                          1323900000.0  1681000000.0  1709600000.0  1514200000.0
+Gross Profit                                                1294200000.0  1372100000.0  1347800000.0  1259500000.0
+Cost Of Revenue                                             3978600000.0  4555100000.0  4662900000.0  3830300000.0
+Total Revenue                                               5272800000.0  5927200000.0  6010700000.0  5089800000.0
+Operating Revenue                                           5272800000.0  5927200000.0  6010700000.0  5089800000.0
+
+Resource: Section 7 not available in 10-K report
+
+Instruction: 
+Conduct a comprehensive analysis of the company's income statement for the current fiscal year. 
+Start with an overall revenue record, including Year-over-Year or Quarter-over-Quarter comparisons, 
+and break down revenue sources to identify primary contributors and trends. Examine the Cost of 
+Goods Sold for potential cost control issues. Review profit margins such as gross, operating, 
+and net profit margins to evaluate cost efficiency, operational effectiveness, and overall profitability. 
+Analyze Earnings Per Share to understand investor perspectives. Compare these metrics with historical 
+data and industry or competitor benchmarks to identify growth patterns, profitability trends, and 
+operational challenges. The output should be a strategic overview of the company's financial health 
+in a single paragraph, less than 130 words, summarizing the previous analysis into 4-5 key points under 
+respective subheadings with specific discussion and strong data support.

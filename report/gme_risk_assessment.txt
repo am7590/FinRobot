@@ -1,0 +1,283 @@
+Resource: Company Name: GameStop Corporation
+
+Risk factors:
+ ITEM 1A. 
+
+RISK FACTORS 
+
+##TABLE_END An investment in our company involves a high degree of risk. You should carefully consider the risks below, together with the other information contained in this report, before you make an investment decision with respect to our company. The risks described below are not the only ones facing us. Additional risks not presently known to us, or that we consider immaterial, may also impair our business operations. Any of the following risks could materially adversely affect our business, operating results or financial condition, and could cause a decline in the trading price of our common stock and the value of your investment. 
+
+Risks Related to Our Business 
+
+Economic conditions in the U.S. and in certain international markets could adversely affect demand for the products we sell. 
+
+Sales of our products involve discretionary spending by consumers. Consumers are typically more likely to make discretionary purchases, including purchasing video game products, when there are favorable economic conditions. Consumer spending may be affected by many economic and other factors outside of the Company's control. Some of these factors include consumer disposable income levels, consumer confidence in current and future economic conditions, levels of employment, consumer credit availability, consumer debt levels, inflation, political conditions and the effect of weather, natural disasters, public health crises, including the recent outbreak of coronavirus (or COVID-19), and civil disturbances. The extent to which the coronavirus impacts our results will depend on future developments, which are highly uncertain and cannot be predicted, including new information which may emerge concerning the severity of the coronavirus and the actions to contain the coronavirus or treat its impact, among others. These and other economic factors could adversely affect demand for our products, which may negatively impact our business, results of operations and financial condition. 
+
+The video game industry has historically been cyclical and is affected by the introduction of next-generation consoles, which could negatively impact the demand for existing products or our pre-owned business. 
+
+The video game industry has historically been cyclical in nature in response to the introduction and maturation of new technology. Following the introduction of new video game platforms, sales of these platforms and related software and accessories generally increase due to initial demand, while sales of older platforms and related products generally decrease as customers migrate toward the new platforms. In addition, the features of new consoles or changes to the existing generations of consoles, including any future restrictions or conditions or the ability to play prior generation video games on such consoles, may adversely affect our pre-owned business. 
+
+The current generation of consoles include the Sony PlayStation 4 (launched in 2013), Microsoft Xbox One (launched in 2013) and the Nintendo Switch (launched in 2017). The Sony PlayStation 4 and Microsoft Xbox One are nearing the end of their cycle as Sony and Microsoft have announced that their next generation consoles are expected to launch during the holiday period of 2020. 
+
+We depend upon the timely delivery of new and innovative products from our vendors. 
+
+We depend on manufacturers and publishers to deliver video game hardware, software, and consumer electronics in quantities sufficient to meet customer demand. In addition, we depend on these manufacturers and publishers to introduce new and innovative products and software titles to drive industry sales. We have experienced sales declines in the past due to a reduction in the number of new software titles available for sale. Any material delay in the introduction or delivery, or limited allocations, of hardware platforms or software titles could result in reduced sales. 
+
+Technological advances in the delivery and types of video games and PC entertainment hardware and software, as well as changes in consumer behavior related to these new technologies, have and may continue to lower our sales. 
+
+The current consoles from Sony, Nintendo, and Microsoft have facilitated download technology. In addition, Microsoft sells disc-less consoles that are currently available to consumers. Downloading of video game content to the current generation video game systems continues to grow and take an increasing percentage of new video game sales. If consumers' preference for downloading video game content continues to increase or these consoles and other advances in technology continue to expand our customers&#8217; ability to access and download the current format of video games and incremental content for their games through these and other sources, our customers may no longer choose to purchase video games in our stores or reduce their purchases in favor of other forms of game delivery. As a result, our business and results of operations may be negatively impacted. 
+
+If we fail to keep pace with changing industry technology and consumer preferences, we will be at a competitive disadvantage. 
+
+The interactive entertainment industry is characterized by swiftly changing technology, evolving industry standards, frequent new and enhanced product introductions, rapidly changing consumer preferences and product obsolescence. Video games are now played on a wide variety of mediums, including mobile phones, tablets, social networking websites and other devices. Browser, mobile and social gaming is accessed through hardware other than the consoles and traditional hand-held video game devices we currently sell. 
+
+In order to continue to compete effectively in the video game industry, we need to respond effectively to technological changes and to understand their impact on our customers&#8217; preferences. It may take significant time and resources to respond to these technological changes and changes in consumer preferences. Our business and results of operations may be negatively impacted if we fail to keep pace with these changes. 
+
+International events could delay or prevent the delivery of products to our suppliers. 
+
+Our suppliers rely on foreign sources, primarily in Asia, to manufacture a portion of the products we purchase from them. As a result, any event causing a disruption of imports, including natural disasters, public health crises, or the imposition of import or trade restrictions in the form of tariffs or quotas could increase the cost and reduce the supply of products available to us, which may negatively impact our business and results of operations. Furthermore, the recent outbreak of the coronavirus in China has resulted in work stoppages at certain suppliers in China that are part of our supply chain. We have not experienced shortages in supply as a result of the interruptions, but if the work stoppages were to be prolonged or expanded in scope, there could be resulting supply shortages which could impact our ability to import certain products on schedule and, accordingly, could have an adverse effect on our business, financial condition and results of operations. 
+
+Our ability to obtain favorable terms from our suppliers may impact our financial results. 
+
+Our financial results depend significantly upon the business terms we can obtain from our suppliers, including competitive prices, unsold product return policies, advertising and market development allowances, freight charges and payment terms. We purchase substantially all of our products directly from manufacturers, software publishers and, in some cases, distributors. Our largest vendors are Nintendo, Sony, Microsoft, Electronic Arts and Take-Two Interactive, which accounted for 28% , 18% , 6% , 5% and 5% , respectively, of our new product purchases in fiscal 2019 . If our suppliers do not provide us with favorable business terms, we may not be able to offer products to our customers at competitive prices. 
+
+Our international operations expose us to numerous risks. 
+
+We have international retail operations in Australia, Canada and Europe. Because release schedules for hardware and software introduction in these markets can sometimes differ from release schedules in the United States, the timing of increases and decreases in foreign sales may differ from the timing of increases and decreases in domestic sales. We are also subject to a number of other factors that may affect our current or future international operations. These include: 
+
+##TABLE_START &#8226; 
+
+economic downturns, specifically in the regions in which we operate; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+currency exchange rate fluctuations and sovereign debt crises; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+international incidents, including public health crises such as the coronavirus; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+natural disasters; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+government instability; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+competitors entering our current and potential markets. 
+
+##TABLE_END Our operations in Europe are also subject to risks associated with the withdrawal of the United Kingdom from the European Union ("EU"). On January 31, 2020, the United Kingdom of Great Britain and Northern Ireland officially exited the EU ("Brexit") and entered into a transition period to negotiate the final terms of Brexit. The transition period is expected to end on December 31, 2020. The continued uncertainty regarding the transition and impact of the withdrawal may have an adverse impact on European and global economic conditions. Unfavorable economic conditions could negatively affect consumer demand for our products, which could unfavorably impact our results of operations and financial condition. 
+
+Our international operations are also subject to compliance with the U.S. Foreign Corrupt Practices Act and other anti-bribery laws applicable to our operations. While we have policies and procedures intended to ensure compliance with these laws, our employees, contractors, representatives and agents may take actions that violate our policies. Moreover, it may be more difficult to oversee the conduct of any such persons who are not our employees, potentially exposing us to greater risk from their actions. Any violations of those laws by any of those persons could have a negative impact on our business. 
+
+An adverse trend in sales during the holiday selling season could impact our financial results. 
+
+Our business, like that of many retailers, is seasonal, with the major portion of our sales and operating profit realized during the fourth fiscal quarter, which includes the holiday selling season. During fiscal 2019 , we generated approximately 34% of our sales during the fourth quarter. Any adverse trend in sales during the holiday selling season could lower our results of operations for the fourth quarter and the entire fiscal year. 
+
+Our results of operations may fluctuate from quarter to quarter. 
+
+Our results of operations may fluctuate from quarter to quarter depending upon several factors, some of which are beyond our control. These factors include, but are not limited to: 
+
+##TABLE_START &#8226; 
+
+the timing and allocations of new product releases including new console launches; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the timing of new store openings or closings; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+shifts in the timing or content of certain promotions or service offerings; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the effect of changes in tax rates in the jurisdictions in which we operate; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+acquisition costs and the integration of companies we acquire or invest in; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the mix of earnings in the countries in which we operate; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the costs associated with the exit of unprofitable markets, businesses or stores; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+changes in foreign currency exchange rates. 
+
+##TABLE_END These and other factors could affect our business, financial condition and results of operations, and this makes the prediction of our financial results on a quarterly basis difficult. Also, it is possible that our quarterly financial results may be below the expectations of public market analysts. 
+
+An important element of our business strategy is to de-densify our global store base. Failure to successfully transfer customers and sales from closed stores to nearby stores could adversely impact our financial results. 
+
+As a part of our business strategy, we are de-densifying our global store base, which includes closing stores that are not meeting performance standards or stores at the end of their lease terms with the intent of transferring sales to other nearby locations. We believe that we can ultimately increase profitability by successfully transferring customers and sales to other stores by marketing directly to the PowerUp Rewards members who have shopped in the stores that we plan to close. If we are unsuccessful in marketing to customers of the stores that we plan to close or in transferring sales to nearby stores, our results of operations could be negatively impacted. 
+
+If we are unable to renew or enter into new leases on favorable terms, our revenue may be adversely affected. 
+
+All of our retail stores are located in leased premises. If the cost of leasing existing stores increases, we cannot assure you that we will be able to maintain our existing store locations as leases expire. In addition, we may not be able to enter into new leases on favorable terms or at all, or we may not be able to locate suitable alternative sites in a timely manner. Our revenues and earnings may decline if we fail to maintain existing store locations, enter into new leases, locate alternative sites or find additional sites for new store expansion. 
+
+Pressure from our competitors may force us to reduce our prices or increase spending, which could decrease our profitability. 
+
+The retail environment is intensely competitive and subject to rapid changes in consumer preferences and frequent new product introductions. We compete with mass merchants and regional chains, including Wal-Mart and Target; computer product and consumer electronics stores, including Best Buy; internet-based retailers such as Amazon.com; other U.S. and international video game and PC software specialty stores located in malls and other locations, such as Carrefour and Media Markt; toy retail chains; direct sales by software publishers; the online environments operated by Sony (PlayStation Network), Microsoft (XBox Live), Nintendo (Nintendo Switch Online), as well as other online retailers and game rental companies. Some of our competitors have longer operating histories and may have greater financial resources than we do or other advantages. In addition, video game products and content are increasingly being digitally distributed and new competitors built to take advantage of these new capabilities are entering the marketplace, and other methods may emerge in the future. We also compete with other sellers of pre-owned video game products and other PC software distribution companies, including Steam. Certain of our mass-merchant competitors are expanding in the market for new and pre-owned video games through aggressive pricing which may negatively affect our margins, sales and earnings for these products. Additionally, we compete with other forms of entertainment activities, including browser, social and mobile games, movies, television, theater, sporting events and family entertainment centers. If we lose customers to our competitors, or if we reduce our prices or increase our spending to maintain our customers, we may be less profitable. 
+
+Changes to tariff and import/export regulations may negatively impact our future financial condition and results of operations. 
+
+The United States and other countries have from time to time proposed and enacted protectionist trade policies that could increase the cost or reduce the availability of certain merchandise. In particular, the current U.S. administration has made certain changes to import/export tariffs and international trade agreements. The changes announced and made to date do not impact the merchandise that we offer. Any measures that could impact the cost or availability of the merchandise we offer could have an adverse impact on our business because a significant portion of the products we offer are purchased from foreign vendors and manufactured in foreign countries. 
+
+Failure to attract and retain executive officers and other key personnel could materially adversely affect our financial performance. 
+
+Our success depends upon our ability to attract, motivate and retain a highly trained and engaged workforce, including key executives, management for our stores and skilled merchandising, marketing, financial and administrative personnel. In addition, the turnover rate in the retail industry is relatively high, and there is an ongoing need to recruit and train new store employees. Factors that affect our ability to maintain sufficient numbers of qualified employees include employee morale, our reputation, unemployment rates, competition from other employers and our ability to offer appropriate compensation packages. Our inability to recruit a sufficient number of qualified individuals or our failure to retain key executive officers and other employees in the future may have a negative impact on our business and results of operations. 
+
+If our management information systems fail to perform or are inadequate, our ability to manage our business could be disrupted. 
+
+We rely on computerized inventory and management systems to coordinate and manage the activities in our distribution centers, as well as to communicate distribution information to the off-site, third-party operated distribution centers with which we work. The third-party distribution centers pick up products from our suppliers, repackage the products for each of our stores and ship those products to our stores by package carriers. We use inventory replenishment systems to track sales and inventory. 
+
+Our ability to rapidly process incoming shipments of new release titles and deliver them to all of our stores, either that day or by the next morning, enables us to meet peak demand and replenish stores at least twice a week, to keep our stores in stock at optimum levels and to move inventory efficiently. Our systems are subject to damage or interruption from power outages, telecommunications failures, cyber-attacks, security breaches and catastrophic events. If our inventory or management information systems fail to adequately perform their functions, our business could be adversely affected. In addition, if operations in any of our distribution centers were to shut down or be disrupted or if these centers were unable to accommodate stores in a particular region, our business and results of operations may be negatively impacted. 
+
+We rely on centralized facilities for refurbishment of our pre-owned products. Any disruption to these facilities could adversely affect our profitability. 
+
+We rely on centralized facilities for the refurbishment of many of the pre-owned products that we sell. If any disruption occurred at these facilities, whether due to natural disaster or severe weather, or events such as fire, accidents, power outages, systems failures, or other unforeseen causes, sales of our pre-owned products could decrease. Since we generally obtain higher margins on our pre-owned products, any adverse effect on their sales could adversely affect our profitability. 
+
+Our sales of collectibles depend on popularity of and trends in pop culture, and our ability to react to them. 
+
+Our sales of collectibles are heavily dependent upon the continued demand by our customers for collectibles, apparel, toys, gadgets, electronics and other retail products for pop culture and technology enthusiasts. The popularity of such products is often driven by movies, television shows, music, fashion and other pop culture influences. The market for, and appeal of, particular types of music, movies, television shows, artists, actors, styles, trends and brands are constantly changing. Our failure to anticipate, identify and react appropriately to changing trends and preferences of customers could lead to, among other things, excess inventories and higher markdowns. There can be no assurance that the collectibles and related products that we sell will appeal to our customers. 
+
+We depend on licensed products for a substantial portion of our sales of collectibles and our inability to maintain such licenses and obtain new licensed products would adversely affect our sales of collectibles. 
+
+We license from others the rights to sell certain of our collectibles and many of these products contain a third party&#8217;s trademarks, designs and other intellectual property. If we are unable to maintain current licenses or obtain new licensed products with comparable consumer demand, our sales of collectibles would decline. Furthermore, we may not be able to prevent a licensor from choosing not to renew a license with us and/or from licensing a product to one of our competitors. 
+
+If we do not maintain the security of our customer, employee or company information, we could damage our reputation, incur substantial additional costs and become subject to litigation. 
+
+An important part of our business involves the receipt, processing and storage of personal information of our customers and employees, including, in the case of customers, payment information. We have systems and processes in place that are designed to protect against security and data breaches and unauthorized access to confidential information. Nevertheless, cyber-security risks such as malicious software and attempts to gain unauthorized access to data are rapidly evolving and becoming increasingly sophisticated. Techniques or software used to gain unauthorized access, and/or disable, degrade or harm our systems may be difficult to detect for prolonged periods of time, and we may be unable to anticipate these techniques or put in place protective or preventive measures. These attempts to gain unauthorized access could lead to disruptions in our systems, unauthorized release of confidential or otherwise protected information or corruption of data. If individuals are successful in infiltrating, breaking into, disrupting, damaging or otherwise stealing from the computer systems of the Company or its third-party providers, we may have to make a significant investment to fix or replace them, and may suffer interruptions in our operations in the interim, including interruptions in our ability to accept payment from customers and our ability to issue and redeem loyalty points under our Power Up Rewards program. Such an event may also expose us to costly litigation, government investigations, government enforcement actions, fines and/or lawsuits and may significantly harm our reputation with our members and customers. We are continuously working to upgrade our information technology systems and provide employee awareness training around phishing, malware, and other cyber risks to protect our member, customer, employee, and company data against cyber risks and security breaches. Despite these efforts, we have experienced cybersecurity attacks in the past and there is no guarantee that the procedures that we have implemented to protect against unauthorized access to secured data are adequate to safeguard against future data security breaches. While past cybersecurity attacks have not resulted in material losses, a data security breach or any failure by us to comply with applicable privacy and information security laws and regulations could materially impact our business and our results of operations. Moreover, a data security breach or change in applicable privacy or security laws or regulations could require us to devote significant management resources to address the problems created by the breach or such change in laws or regulations and to expend significant additional resources to upgrade further the security measures that we employ to guard against such breaches or to comply with such change in laws or regulations, which could disrupt our business, operations and financial condition. 
+
+Damage to our reputation could adversely affect our business and our relationships with our customers. 
+
+Our continued success depends upon customers' perception of our Company. Any negative publicity relating to our vendors, products, practices or our Company could damage our reputation. The increased use of social media platforms allows for the rapid dispersal of information, including negative feedback or other commentary, which could negatively impact our reputation and result in declines in customer loyalty and adversely affect our results of operations. 
+
+If our internal control over financial reporting is ineffective, our business may be adversely affected and we may lose market confidence in our reported financial information which could adversely impact our business and stock price. 
+
+Effective internal control over financial reporting can provide only reasonable assurance with respect to the preparation and fair presentation of financial statements and may not prevent or detect misstatements because of inherent limitations. These limitations include, among others, the possibility of human error, inadequacy or circumvention of controls and fraud. 
+
+As disclosed in Part II, Item 9A., &#8220;Controls and Procedures,&#8221; in our Annual Report on Form 10-K for fiscal year 2018, we identified control deficiencies during fiscal 2018 that constituted material weaknesses relating to end-user and privileged access to certain information technology systems that support our financial reporting process. In fiscal 2019, management implemented a remediation plan and concluded that the previously identified material weaknesses have been remediated as of February 1, 2020. If we are unable to maintain effective internal control over financial reporting, our ability to report financial information timely and accurately could be adversely affected. As a result, we could lose investor confidence and become subject to litigation or investigations, which could adversely affect our business, operations, financial condition and our stock price. 
+
+If our vendors fail to provide marketing and merchandising support at historical levels, our sales and earnings could be negatively impacted. 
+
+The manufacturers of video game hardware and software have typically provided retailers with significant marketing and merchandising support for their products. As part of this support, we receive cooperative advertising and market development payments from these vendors which enable us to actively promote and merchandise the products we sell and drive sales at our stores and on our websites. We cannot assure you that vendors will continue to provide this support at historical levels. If they fail to do so, our business and results of operations may be negatively impacted. 
+
+Restrictions on our ability to purchase and sell pre-owned video game products could negatively affect our financial condition and results of operations. 
+
+Our financial results depend on our ability to purchase and sell pre-owned video game products within our stores. Actions by manufacturers or publishers of video game products or governmental authorities to prohibit or limit our ability to purchase or sell pre-owned video game products, or to limit the ability of consumers to play pre-owned video games, could have a negative impact on our results of operations. 
+
+Sales of video games containing graphic violence may decrease as a result of actual violent events or other reasons, and our financial results may be adversely affected as a result. 
+
+Many popular video games contain material with graphic violence. These games receive an &#8220;M&#8221; or &#8220;T&#8221; rating from the Entertainment Software Ratings Board. As actual violent events occur and are publicized, or for other reasons, public acceptance of graphic violence in video games may decline. Consumer advocacy groups may increase their efforts to oppose sales of graphically-violent video games and may seek legislation prohibiting their sales. As a result, our sales of those games may decrease, which could negatively impact our results of operations. 
+
+Unfavorable changes in our global tax rate could have a negative impact on our business, results of operations and cash flows. 
+
+As a result of our operations in many foreign countries, our global tax rate is derived from a combination of applicable tax rates in the various jurisdictions in which we operate. Depending upon the sources of our income, any agreements we may have with taxing authorities in various jurisdictions and the tax filing positions we take in various jurisdictions, our overall tax rate may be higher than other companies or higher than our tax rates have been in the past. We base our estimate of an annual effective tax rate at any given point in time on a calculated mix of the tax rates applicable to our business and to estimates of the amount of income to be derived in any given jurisdiction. A change in the mix of our business from year to year and from country to country, changes in rules related to accounting for income taxes, changes in tax laws in any of the multiple jurisdictions in which we operate or adverse outcomes from the tax audits that regularly are in process in any jurisdiction in which we operate could result in an unfavorable change in our overall tax rate, which could have a material adverse impact on our business and results of our operations. 
+
+Litigation and the outcomes of such litigation could negatively impact our future financial condition and results of operations. 
+
+In the ordinary course of our business, we are, from time to time, subject to various litigation and legal proceedings, including matters involving wage and hour employee class actions, stockholder and consumer class actions, tax audits and unclaimed property audits by states. The outcome of litigation and other legal proceedings and the magnitude of potential losses therefrom, particularly class action lawsuits and regulatory actions, is difficult to assess or quantify. 
+
+Certain of these legal proceedings, if decided adversely to us or settled by us, may require changes to our business operations that negatively impact our operating results or involve significant liability awards that impact our financial condition. The cost to defend litigation may be significant. As a result, legal proceedings may adversely affect our business, financial condition, results of operations or liquidity. See Item 3. &#8220;Legal Proceedings.&#8221; 
+
+Legislative actions and changes in accounting rules may cause our general and administrative and compliance costs to increase and impact our future financial condition and results of operations. 
+
+In order to comply with laws adopted by the U.S. government or other U.S. or foreign regulatory bodies, we may be required to increase our expenditures and hire additional personnel and additional outside legal, accounting and advisory services, all of which may cause our general and administrative and compliance costs to increase. Significant workforce-related legislative changes could increase our expenses and adversely affect our operations. Examples of possible workforce-related legislative changes include changes to an employer's obligation to recognize collective bargaining units, the process by which collective bargaining agreements are negotiated or imposed, minimum wage requirements, and health care mandates. In addition, changes in the regulatory environment affecting Medicare reimbursements, product safety, supply chain transparency, and increased compliance costs related to enforcement of federal and state wage and hour statutes and common law related to overtime, among others, could cause our expenses to increase without an ability to pass through any increased expenses through higher prices. Environmental legislation or other regulatory changes could impose unexpected costs or impact us more directly than other companies due to our operations as a global retailer. Specifically, environmental legislation or international agreements affecting energy, carbon emissions, and water or product materials are continually being explored by governing bodies. Increasing energy and fuel costs, supply chain disruptions and other potential risks to our business, as well as any significant rule making or passage of any such legislation, could materially increase the cost to transport our goods and materially adversely affect our results of operations. Additionally, regulatory and enforcement activity focused on the retail industry has increased in recent years, increasing the risk of fines and additional operational costs associated with compliance. 
+
+As a seller of certain consumer products, we are subject to various federal, state, local and international laws, regulations, and statutes relating to product safety and consumer protection. 
+
+While we take steps to comply with these laws, there can be no assurance that we will be in compliance, and failure to comply with these laws could result in litigation, regulatory action and penalties which could have a negative impact on our business, financial condition and results of operations. In addition, our suppliers might not adhere to product safety requirements and the Company and those suppliers may therefore be subject to involuntary or voluntary product recalls or product liability lawsuits. Direct costs, lost sales and reputational damage associated with product recalls, government enforcement actions or product liability lawsuits, individually or in the aggregate, could have a negative impact on future revenues and results of operations. 
+
+Our Board of Directors elected to eliminate the Company's quarterly dividend, which became effective during the second quarter of fiscal 2019. We have no current plans to pay cash dividends on our common stock in the foreseeable future. 
+
+On June 3, 2019, our Board of Directors elected to eliminate the Company's quarterly dividend, which became effective immediately. We have no current plans to pay cash dividends on our common stock in the foreseeable future, therefore, the success of an investment in our common stock will depend entirely upon its appreciation after the point in time it was purchased. Our common stock may not appreciate in value or even maintain the price at which it was purchased. 
+
+Risks Relating to Indebtedness 
+
+The terms of our 6.75% senior notes due in March 2021 and revolving credit facility may impose significant operating and financial restrictions on us. 
+
+The terms of our 6.75% senior notes due in March 2021 ("2021 Senior Notes") and our revolving credit facility may impose significant operating and financial restrictions on us in certain circumstances. These restrictions, among other things, limit our ability to: 
+
+##TABLE_START &#8226; 
+
+incur, assume or permit to exist additional indebtedness or guaranty obligations; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+incur liens or agree to negative pledges in other agreements; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+engage in sale and leaseback transactions; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+make loans and investments; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+declare dividends, make payments or redeem or repurchase capital stock; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+engage in mergers, acquisitions and other business combinations; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+prepay, redeem or purchase certain indebtedness; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+amend or otherwise alter the terms of our organizational documents and indebtedness; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+sell assets; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+engage in transactions with affiliates. 
+
+##TABLE_END
+
+We cannot assure that these covenants will not adversely affect our ability to finance our future operations or capital needs or to pursue available business opportunities. A breach of the covenants or restrictions under the indentures for the 2021 Senior Notes, or under our revolving credit facility, could result in an event of default under the applicable indebtedness. Such a default may allow the creditors to accelerate the repayment of the related debt and may result in the acceleration of the repayment of any other debt to which a cross-acceleration or cross-default provision applied. In addition, an event of default under our revolving credit facility would permit the lenders to terminate all commitments to extend further credit under that facility. Furthermore, if we were unable to repay the amounts due and payable under our revolving credit facility, those lenders could proceed against the collateral granted to them to secure that indebtedness. In the event that our lenders or noteholders accelerate the repayment of our borrowings, we and our subsidiaries may not have sufficient assets to repay that indebtedness. See Note 10 , "Debt," to our consolidated financial statements for a description of our 2021 Senior Notes and revolving credit facility. 
+
+Because of our floating rate credit facility, we may be adversely affected by interest rate changes. 
+
+Our financial position may be affected by fluctuations in interest rates, as our revolving credit facility is subject to floating interest rates. Our floating interest rate is partially based on the London interbank offered rate (LIBOR), which is expected to be discontinued after 2021. Our revolving credit facility matures in November 2022, therefore, we anticipate that we will amend our revolving credit facility prior to the LIBOR quotation termination date. There can be no assurances as to what alternative reference rates may be and whether such rates will be more or less favorable than LIBOR and any other unforeseen impacts of the potential discontinuation of LIBOR. Unfavorable interest rates could increase our interest expense, which could negatively impact our business, results of operations and financial condition. 
+
+Interest rates are highly sensitive to many factors, including governmental monetary policies, domestic and international economic and political conditions and other factors beyond our control. If we were to borrow against our revolving credit facility, a significant increase in interest rates could have a negative impact on our results of operations and financial condition. 
+
+To service our indebtedness, we will require a significant amount of cash. We may not be able to generate sufficient cash flow to meet our debt service obligations or refinance our debt on favorable terms. 
+
+Our ability to generate sufficient cash flow from operations to make scheduled payments on our indebtedness, including without limitation any payments required to be made under our revolving credit facility or to holders of our 2021 Senior Notes, and to fund our operations, will depend on our ability to generate cash in the future. This, to a certain extent, is subject to general economic, financial, competitive, legislative, regulatory and other factors that are beyond our control. If we do not generate sufficient cash flow from operations to satisfy our debt obligations, including interest payments and the payment of principal at maturity, we may have to undertake alternative financing plans, such as refinancing or restructuring our debt, including the 2021 Senior Notes, selling assets, reducing or delaying capital investments or seeking to raise additional capital. We cannot provide assurance that any refinancing would be possible, that any assets could be sold, or, if sold, of the timing of the sales and the amount of proceeds realized from those sales, that additional financing could be obtained on acceptable terms, if at all, or if that additional financing would be permitted under the terms of our various debt instruments, then in effect. 
+
+Our revolving credit facility and the indenture governing the 2021 Senior Notes restrict our ability to dispose of assets and use the proceeds from those sales and raise debt or equity to meet any debt service obligations then due. Our ability to refinance would also depend upon the condition of the finance and credit markets. Our inability to generate sufficient cash flow to satisfy our debt obligations, including the 2021 Senior Notes, or to refinance our obligations on commercially reasonable terms or on a timely basis, would have an negative impact on our business, results of operations and financial condition. 
+
+Despite current indebtedness levels, we and our subsidiaries may still be able to incur additional debt. This could further increase the risks associated with our leverage. 
+
+We are able to incur additional indebtedness. Although our revolving credit facility and the indentures for our 2021 Senior Notes contain restrictions on the incurrence of additional indebtedness, these restrictions are subject to a number of qualifications and exceptions, and the additional indebtedness incurred in compliance with these restrictions could be substantial. These restrictions also will not prevent us from incurring obligations that do not constitute indebtedness. Such future indebtedness or obligations may have restrictions similar to, or more restrictive than, those included in the indentures for our 2021 Senior Notes or our revolving credit facility. The incurrence of additional indebtedness could impact our financial condition and results of operations. 
+
+##TABLE_START 
+
+
+
+Instruction: 
+            According to the given information in the 10-k report, summarize the top 3 key risks of the company. 
+            Then, for each key risk, break down the risk assessment into the following aspects:
+            1. Industry Vertical Risk: How does this industry vertical compare with others in terms of risk? Consider factors such as regulation, market volatility, and competitive landscape.
+            2. Cyclicality: How cyclical is this industry? Discuss the impact of economic cycles on the company's performance.
+            3. Risk Quantification: Enumerate the key risk factors with supporting data if the company or segment is deemed risky.
+            4. Downside Protections: If the company or segment is less risky, discuss the downside protections in place. Consider factors such as diversification, long-term contracts, and government regulation.
+
+            Finally, provide a detailed and nuanced assessment that reflects the true risk landscape of the company. And Avoid any bullet points in your response.
+            

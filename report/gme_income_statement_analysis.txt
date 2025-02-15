@@ -1,0 +1,1488 @@
+Income statement:
+2024-01-31    2023-01-31    2022-01-31    2021-01-31
+Tax Effect Of Unusual Items                                   -1008000.0     -567000.0     -241200.0     3464500.0
+Tax Rate For Calcs                                                  0.21          0.21         0.036         0.205
+Normalized EBITDA                                             31300000.0  -244500000.0  -277900000.0  -190900000.0
+Total Unusual Items                                           -4800000.0    -2700000.0    -6700000.0    16900000.0
+Total Unusual Items Excluding Goodwill                        -4800000.0    -2700000.0    -6700000.0    16900000.0
+Net Income From Continuing Operation Net Minority Interest     6700000.0  -313100000.0  -381300000.0  -214600000.0
+Reconciled Depreciation                                       56200000.0    61700000.0    77200000.0    80700000.0
+Reconciled Cost Of Revenue                                  3978600000.0  4555100000.0  4662900000.0  3830300000.0
+EBITDA                                                        26500000.0  -247200000.0  -284600000.0  -174000000.0
+EBIT                                                         -29700000.0  -308900000.0  -361800000.0  -254700000.0
+Net Interest Income                                           49500000.0     9500000.0   -26900000.0   -32100000.0
+Interest Expense                                                     NaN           NaN    26900000.0    34000000.0
+Interest Income                                               49500000.0     9500000.0   -26900000.0   -32100000.0
+Normalized Income                                             10492000.0  -310967000.0  -374841200.0  -228035500.0
+Net Income From Continuing And Discontinued Operation          6700000.0  -313100000.0  -381300000.0  -215300000.0
+Total Expenses                                              5302500000.0  6236100000.0  6372500000.0  5344500000.0
+Total Operating Income As Reported                           -34500000.0  -311600000.0  -368500000.0  -237800000.0
+Diluted Average Shares                                       305200000.0   304200000.0   290400000.0   260000000.0
+Basic Average Shares                                         305100000.0   304200000.0   290400000.0   260000000.0
+Diluted EPS                                                         0.02         -1.03         -1.31       -0.8275
+Basic EPS                                                           0.02         -1.03         -1.31       -0.8275
+Diluted NI Availto Com Stockholders                            6700000.0  -313100000.0  -381300000.0  -215300000.0
+Net Income Common Stockholders                                 6700000.0  -313100000.0  -381300000.0  -215300000.0
+Net Income                                                     6700000.0  -313100000.0  -381300000.0  -215300000.0
+Net Income Including Noncontrolling Interests                  6700000.0  -313100000.0  -381300000.0  -215300000.0
+Net Income Discontinuous Operations                                  NaN           0.0           0.0     -700000.0
+Net Income Continuous Operations                               6700000.0  -313100000.0  -381300000.0  -214600000.0
+Tax Provision                                                  6400000.0    11000000.0   -14100000.0   -55300000.0
+Pretax Income                                                 13100000.0  -302100000.0  -395400000.0  -269900000.0
+Other Income Expense                                          -6700000.0    -2700000.0    -6700000.0    16900000.0
+Other Non Operating Income Expenses                           -1900000.0           NaN           NaN           NaN
+Special Income Charges                                        -4800000.0    -2700000.0    -6700000.0    16900000.0
+Gain On Sale Of Ppe                                                  NaN           0.0           0.0    32400000.0
+Write Off                                                      4800000.0     2700000.0     6700000.0    15500000.0
+Impairment Of Capital Assets                                         NaN     2700000.0     6700000.0    15500000.0
+Net Non Operating Interest Income Expense                     49500000.0     9500000.0   -26900000.0   -32100000.0
+Total Other Finance Cost                                     -49500000.0    -9500000.0    26900000.0    32100000.0
+Interest Expense Non Operating                                       NaN           NaN    26900000.0    34000000.0
+Interest Income Non Operating                                 49500000.0     9500000.0   -26900000.0   -32100000.0
+Operating Income                                             -29700000.0  -308900000.0  -361800000.0  -254700000.0
+Operating Expense                                           1323900000.0  1681000000.0  1709600000.0  1514200000.0
+Selling General And Administration                          1323900000.0  1681000000.0  1709600000.0  1514200000.0
+Gross Profit                                                1294200000.0  1372100000.0  1347800000.0  1259500000.0
+Cost Of Revenue                                             3978600000.0  4555100000.0  4662900000.0  3830300000.0
+Total Revenue                                               5272800000.0  5927200000.0  6010700000.0  5089800000.0
+Operating Revenue                                           5272800000.0  5927200000.0  6010700000.0  5089800000.0
+
+Resource:  ITEM 7. 
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+##TABLE_END The following discussion should be read in conjunction with the information contained in our consolidated financial statements, including the notes thereto. Statements regarding future economic performance, management&#8217;s plans and objectives, and any statements concerning assumptions related to the foregoing contained in Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations constitute forward-looking statements. Certain factors, which may cause actual results to vary materially from these forward-looking statements, accompany such statements or appear elsewhere in this Form 10-K, including the factors disclosed under Part I, Item 1A, &#8220;Risk Factors.&#8221; 
+
+OVERVIEW 
+
+GameStop Corp. (&#8220;GameStop,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; &#8220;our,&#8221; or the &#8220;Company&#8221;), a Delaware corporation established in 1996, is the world's largest video game retailer, operates approximately 5,500 stores across 14 countries, and offers the best selection of new and pre-owned video gaming consoles, accessories and video game titles, in both physical and digital formats. GameStop also offers fans a wide variety of POP! vinyl figures, collectibles board games and more. Through GameStop's unique buy-sell-trade program, gamers can trade in video game consoles, games, and accessories, as well as consumer electronics for cash or in-store credit. Our consumer product network also includes www.gamestop.com and Game Informer magazine, the world's leading print and digital video game publication. Our corporate office is located in Grapevine, Texas. 
+
+We operate our business in four geographic segments: United States, Canada, Australia and Europe. Our fiscal year is composed of the 52 or 53 weeks ending on the Saturday closest to the last day of January. Fiscal year 2019 consisted of the 52 weeks ended on February 1, 2020 ("fiscal 2019 "). Fiscal year 2018 consisted of the 52 weeks ended on February 2, 2019 ("fiscal 2018 ") and fiscal year 2017 consisted of the 53 weeks ended on February 3, 2018 ("fiscal 2017 "). The discussion and analysis of our results of operations refers to continuing operations unless otherwise noted. 
+
+The near-term global economic conditions have been adversely impacted by the emergence of a novel coronavirus in China, identified as COVID-19, which continues to spread throughout the United States and other parts of the world. In March 2020, the World Health Organization declared the outbreak of COVID-19 as a pandemic. In an effort to mitigate the continued spread of the virus, governments have imposed quarantines, travel restrictions and similar measures. We have temporarily closed stores on a country-wide basis in Europe, primarily in Italy and France, as well as in Canada, which became effective in various points in March 2020. In the United States, effective March 22, 2020, we have temporarily closed all storefronts to customers but continue to process orders on a digital only basis, offering curbside pick-up at stores and e-commerce delivery only. As a result of these actions and restrictions, we expect a significant reduction in customer traffic and demand. 
+
+Growth in the video game industry is generally driven by the introduction of new technology. Gaming consoles have historically 
+
+launched in five to seven-year cycles as technological developments provide significant improvements in the gaming experience and add other entertainment capabilities. Consumer demand for gaming consoles are typically the highest in the early years of the cycle and the weakest in the latter years. The current generation of consoles include the Sony PlayStation 4 (launched in 2013), Microsoft Xbox One (launched in 2013) and the Nintendo Switch (launched in 2017). The Sony PlayStation 4 and Microsoft Xbox One are nearing the end of their cycle as Sony and Microsoft have announced that their next generation consoles are expected to launch during the holiday period of 2020. 
+
+The sale of video games delivered through digital channels and other forms of gaming continue to grow and take an increasing percentage of physical video game sales. We currently sell various types of products that relate to the digital category, including digitally downloadable content (&#8220;DLC&#8221;), full-game downloads, Xbox LIVE, PlayStation Plus and Nintendo network points cards, as well as prepaid digital and prepaid subscription cards. We have made significant investments in e-commerce and in-store and website functionality to enable our customers to access digital content to facilitate the digital sales and delivery process. We plan to continue to invest in these types of processes and channels to grow our digital sales base and enhance our market leadership position in the video game industry and in the digital aggregation and distribution category. 
+
+In our discussion of the results of operations, we refer to comparable store sales, which is a measure commonly used in the retail industry and indicates store performance by measuring the growth or decline in sales for certain stores for a particular period over the corresponding period in the prior year. Our comparable store sales are comprised of sales from our video game stores, including stand-alone collectible stores, operating for at least 12 full months as well as sales related to our websites and sales we earn from sales of pre-owned merchandise to wholesalers or dealers. Comparable store sales for our international operating segments exclude the effect of changes in foreign currency exchange rates. The calculation of comparable store sales compares the fiscal year ended to the most closely comparable weeks for the prior year period. The method of calculating comparable store sales varies across the retail industry. As a result, our method of calculating comparable store sales may not be the same as other retailers&#8217; methods. We believe our calculation of comparable store sales best represents our strategy as an omnichannel retailer that provides its consumers several ways to access its products. 
+
+BUSINESS STRATEGY 
+
+In May of 2019, we announced our multi-year transformation initiative, which we refer to as GameStop Reboot, to position GameStop on the correct strategic path and fully leverage our unique position and brand in the video game industry. Our strategic plan is anchored on the following four tenets. 
+
+Optimize the core business. &#160; Improve the efficiency and effectiveness of operations across the organization, including cost restructuring, inventory management optimization, adding and growing high margin product categories, and rationalizing the global store base. 
+
+Become the social / cultural hub for gaming. &#160; Create the social and cultural hub of gaming across the GameStop platform and offerings. 
+
+Build a frictionless digital ecosystem. Develop and deploy a frictionless consumer facing digital omni-channel environment, including the recent relaunch of GameStop.com, to reach customers more broadly across all channels and provide them the full spectrum of content and access to products they desire, anytime, anywhere. 
+
+Transform vendor partnerships. Transform our vendor and partner relationships to unlock additional high-margin revenue streams and optimize the lifetime value of every customer. 
+
+Connected to our transformation efforts, we have incurred and expect to incur future costs including, but not limited to, consulting fees, severance and store closure costs. See "Consolidated Results from Operations&#8212;Selling, General and Administrative Expenses" for further information. 
+
+We remain committed to a capital allocation strategy focused on optimizing long-term value creation. With this approach, we will return capital to shareholders when the time is right and balance that opportunity against the need to maintain a strong balance sheet and to invest in responsible growth that will drive innovation for the business. During fiscal 2019, we repurchased 38.1 million shares for an aggregate purchase price of $198.7 million under our authorized repurchase program. 
+
+STORE COUNT INFORMATION 
+
+The following table presents the number of stores by segment that were opened and disposed of during fiscal 2019 : 
+
+##TABLE_START &#160; 
+
+February 2, 2019 
+
+&#160; 
+
+Opened 
+
+&#160; 
+
+Disposed 
+
+&#160; 
+
+February 1, 2020 
+
+United States 
+
+3,846 
+
+&#160; 
+
+&#160; 
+
+(210 
+
+) 
+
+&#160; 
+
+3,642 
+
+Canada 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+(12 
+
+) 
+
+&#160; 
+
+Australia 
+
+&#160; 
+
+&#160; 
+
+(38 
+
+) 
+
+&#160; 
+
+Europe 
+
+1,211 
+
+&#160; 
+
+&#160; 
+
+(73 
+
+) 
+
+&#160; 
+
+1,142 
+
+Total Stores 
+
+5,830 
+
+&#160; 
+
+&#160; 
+
+(333 
+
+) 
+
+&#160; 
+
+5,509 
+
+##TABLE_END
+
+SEASONALITY 
+
+Our business, like that of many retailers, is seasonal, with the major portion of sales and operating profit realized during the fourth quarter which includes the holiday selling season. Results for any quarter are not necessarily indicative of the results that may be achieved for a full fiscal year. Quarterly results may fluctuate materially depending upon, among other factors, the timing of new product introductions and new store openings, sales contributed by new stores, increases or decreases in comparable store sales, the nature and timing of acquisitions, adverse weather conditions, shifts in the timing of certain holidays or promotions and changes in our merchandise mix. 
+
+CONSOLIDATED RESULTS OF OPERATIONS 
+
+The following table sets forth certain statement of operations items (in millions) and as a percentage of net sales, for the periods indicated: 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+Fiscal Year 2019 
+
+&#160; 
+
+Fiscal Year 2018 
+
+&#160; 
+
+Fiscal Year 2017 
+
+&#160; 
+
+&#160; 
+
+Amount 
+
+&#160; 
+
+Percent of Net Sales 
+
+&#160; 
+
+Amount 
+
+&#160; 
+
+Percent of Net Sales 
+
+&#160; 
+
+Amount 
+
+&#160; 
+
+Percent of Net Sales 
+
+Net sales 
+
+&#160; 
+
+$ 
+
+6,466.0 
+
+&#160; 
+
+100.0 
+
+&#160;% 
+
+&#160; 
+
+$ 
+
+8,285.3 
+
+&#160; 
+
+100.0 
+
+&#160;% 
+
+&#160; 
+
+$ 
+
+8,547.1 
+
+&#160; 
+
+100.0 
+
+&#160;% 
+
+Cost of sales 
+
+&#160; 
+
+4,557.3 
+
+&#160; 
+
+70.5 
+
+&#160; 
+
+5,977.2 
+
+&#160; 
+
+72.1 
+
+&#160; 
+
+6,062.2 
+
+&#160; 
+
+70.9 
+
+Gross profit 
+
+&#160; 
+
+1,908.7 
+
+&#160; 
+
+29.5 
+
+&#160; 
+
+2,308.1 
+
+&#160; 
+
+27.9 
+
+&#160; 
+
+2,484.9 
+
+&#160; 
+
+29.1 
+
+Selling, general and administrative expenses 
+
+&#160; 
+
+1,922.7 
+
+&#160; 
+
+29.8 
+
+&#160; 
+
+1,994.2 
+
+&#160; 
+
+24.2 
+
+&#160; 
+
+2,031.9 
+
+&#160; 
+
+23.8 
+
+Goodwill impairments 
+
+&#160; 
+
+363.9 
+
+&#160; 
+
+5.6 
+
+&#160; 
+
+970.7 
+
+&#160; 
+
+11.7 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Asset impairments 
+
+&#160; 
+
+21.7 
+
+&#160; 
+
+0.3 
+
+&#160; 
+
+45.2 
+
+&#160; 
+
+0.5 
+
+&#160; 
+
+13.8 
+
+&#160; 
+
+0.2 
+
+Operating (loss) earnings 
+
+&#160; 
+
+(399.6 
+
+) 
+
+&#160; 
+
+(6.2 
+
+) 
+
+&#160; 
+
+(702.0 
+
+) 
+
+&#160; 
+
+(8.5 
+
+) 
+
+&#160; 
+
+439.2 
+
+&#160; 
+
+5.1 
+
+Interest expense, net 
+
+&#160; 
+
+27.2 
+
+&#160; 
+
+0.4 
+
+&#160; 
+
+51.1 
+
+&#160; 
+
+0.6 
+
+&#160; 
+
+55.3 
+
+&#160; 
+
+0.6 
+
+(Loss) earnings from continuing operations before income taxes 
+
+&#160; 
+
+(426.8 
+
+) 
+
+&#160; 
+
+(6.6 
+
+) 
+
+&#160; 
+
+(753.1 
+
+) 
+
+&#160; 
+
+(9.1 
+
+) 
+
+&#160; 
+
+383.9 
+
+&#160; 
+
+4.5 
+
+Income tax expense 
+
+&#160; 
+
+37.6 
+
+&#160; 
+
+0.6 
+
+&#160; 
+
+41.7 
+
+&#160; 
+
+0.5 
+
+&#160; 
+
+153.5 
+
+&#160; 
+
+1.8 
+
+Net (loss) income from continuing operations 
+
+&#160; 
+
+(464.4 
+
+) 
+
+&#160; 
+
+(7.2 
+
+) 
+
+&#160; 
+
+(794.8 
+
+) 
+
+&#160; 
+
+(9.6 
+
+) 
+
+&#160; 
+
+230.4 
+
+&#160; 
+
+2.7 
+
+Income (loss) from discontinued operations, net of tax 
+
+&#160; 
+
+(6.5 
+
+) 
+
+&#160; 
+
+(0.1 
+
+) 
+
+&#160; 
+
+121.8 
+
+&#160; 
+
+1.5 
+
+&#160; 
+
+(195.7 
+
+) 
+
+&#160; 
+
+(2.3 
+
+) 
+
+Net (loss) income 
+
+&#160; 
+
+$ 
+
+(470.9 
+
+) 
+
+&#160; 
+
+(7.3 
+
+)% 
+
+&#160; 
+
+$ 
+
+(673.0 
+
+) 
+
+&#160; 
+
+(8.1 
+
+)% 
+
+&#160; 
+
+$ 
+
+34.7 
+
+&#160; 
+
+0.4 
+
+&#160;% 
+
+##TABLE_END
+
+The following table sets forth net sales by significant product category for the period indicated (dollars in millions): 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+Fiscal Year 2019 
+
+&#160; 
+
+Fiscal Year 2018 
+
+&#160; 
+
+Fiscal Year 2017 
+
+&#160; 
+
+&#160; 
+
+Net Sales 
+
+&#160; 
+
+Percent of Net Sales 
+
+&#160; 
+
+Net Sales 
+
+&#160; 
+
+Percent of Net Sales 
+
+&#160; 
+
+Net Sales 
+
+&#160; 
+
+Percent of Net Sales 
+
+Hardware and accessories 
+
+&#160; 
+
+$ 
+
+2,722.2 
+
+&#160; 
+
+42.1 
+
+% 
+
+&#160; 
+
+$ 
+
+3,717.8 
+
+&#160; 
+
+44.9 
+
+% 
+
+&#160; 
+
+$ 
+
+3,651.0 
+
+&#160; 
+
+42.7 
+
+% 
+
+Software 
+
+&#160; 
+
+3,006.3 
+
+&#160; 
+
+46.5 
+
+&#160; 
+
+3,856.5 
+
+&#160; 
+
+46.5 
+
+&#160; 
+
+4,257.4 
+
+&#160; 
+
+49.8 
+
+Collectibles 
+
+&#160; 
+
+737.5 
+
+&#160; 
+
+11.4 
+
+&#160; 
+
+711.0 
+
+&#160; 
+
+8.6 
+
+&#160; 
+
+638.7 
+
+&#160; 
+
+7.5 
+
+Total 
+
+&#160; 
+
+$ 
+
+6,466.0 
+
+&#160; 
+
+100.0 
+
+% 
+
+&#160; 
+
+$ 
+
+8,285.3 
+
+&#160; 
+
+100.0 
+
+% 
+
+&#160; 
+
+$ 
+
+8,547.1 
+
+&#160; 
+
+100.0 
+
+% 
+
+##TABLE_END
+
+Net sales by reportable segment in U.S. dollars were as follows (in millions): 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+Fiscal Year 2019 
+
+&#160; 
+
+Fiscal Year 2018 
+
+&#160; 
+
+Fiscal Year 2017 
+
+&#160; 
+
+&#160; 
+
+Net Sales 
+
+&#160; 
+
+Percent of Net Sales 
+
+&#160; 
+
+Comparable Store Sales 
+
+&#160; 
+
+Net Sales 
+
+&#160; 
+
+Percent of Net Sales 
+
+&#160; 
+
+Comparable Store Sales 
+
+&#160; 
+
+Net Sales 
+
+&#160; 
+
+Percent of Net Sales 
+
+&#160; 
+
+Comparable Store Sales 
+
+United States 
+
+&#160; 
+
+$ 
+
+4,497.7 
+
+&#160; 
+
+69.6 
+
+% 
+
+&#160; 
+
+(20.9 
+
+)% 
+
+&#160; 
+
+5,800.2 
+
+&#160; 
+
+70.0 
+
+% 
+
+&#160; 
+
+1.8 
+
+&#160;% 
+
+&#160; 
+
+5,876.0 
+
+&#160; 
+
+68.7 
+
+% 
+
+&#160; 
+
+4.3 
+
+% 
+
+Canada 
+
+&#160; 
+
+344.2 
+
+&#160; 
+
+5.3 
+
+&#160; 
+
+(18.9 
+
+) 
+
+&#160; 
+
+434.5 
+
+&#160; 
+
+5.2 
+
+&#160; 
+
+3.1 
+
+&#160; 
+
+434.9 
+
+&#160; 
+
+5.1 
+
+&#160; 
+
+10.0 
+
+Australia 
+
+&#160; 
+
+525.4 
+
+&#160; 
+
+8.1 
+
+&#160; 
+
+(12.0 
+
+) 
+
+&#160; 
+
+645.4 
+
+&#160; 
+
+7.8 
+
+&#160; 
+
+(3.4 
+
+) 
+
+&#160; 
+
+702.2 
+
+&#160; 
+
+8.2 
+
+&#160; 
+
+8.2 
+
+Europe 
+
+&#160; 
+
+1,098.7 
+
+&#160; 
+
+17.0 
+
+&#160; 
+
+(16.8 
+
+) 
+
+&#160; 
+
+1,405.2 
+
+&#160; 
+
+17.0 
+
+&#160; 
+
+(7.7 
+
+) 
+
+&#160; 
+
+1,534.0 
+
+&#160; 
+
+18.0 
+
+&#160; 
+
+9.5 
+
+Total 
+
+&#160; 
+
+$ 
+
+6,466.0 
+
+&#160; 
+
+100.0 
+
+% 
+
+&#160; 
+
+(19.4 
+
+)% 
+
+&#160; 
+
+$ 
+
+8,285.3 
+
+&#160; 
+
+100.0 
+
+% 
+
+&#160; 
+
+(0.3 
+
+)% 
+
+&#160; 
+
+8,547.1 
+
+&#160; 
+
+100.0 
+
+% 
+
+&#160; 
+
+5.8 
+
+% 
+
+##TABLE_END
+
+Fiscal 2019 Compared to Fiscal 2018 
+
+Net Sales 
+
+Net sales decreased $1,819.3 million , or 22.0% , in fiscal 2019 compared to fiscal 2018 . The decrease in net sales was primarily attributable to a decrease in comparable store sales of 19.4% and the impact of 321 net global store closures. The decrease in comparable store sales was primarily driven by lower demand for the current generation consoles from Sony and Microsoft as they near the end of their console cycle, a decline in software sales as well as a decline of audio-related and other accessories related to the growth in battle-royale gaming in fiscal 2018. The decrease in sales of software was primarily due to a reduction in the number and success of title releases compared to the prior year. These decreases were partially offset by an increase in sales of Nintendo Switch products and collectibles. 
+
+Net sales for fiscal 2019 in our United States, Canada, Australia and Europe segments declined by 22.5%, 20.8%, 18.6% and 21.8%, respectively, when compared to fiscal 2018. Comparable store sales in the United States, Canada, Australia and Europe decreased by 20.9% , 18.9% , 12.0% and 16.8% , respectively, primarily due to the same factors described above. In addition, Australia and Europe were negatively impacted by foreign exchange rate fluctuations of $32.7 million and $52.8 million, respectively. 
+
+Gross Profit 
+
+Gross profit decreased $399.4 million , or 17.3% , in fiscal 2019 compared to fiscal 2018 , and gross profit as a percentage of net sales increased to 29.5% in fiscal 2019 compared to 27.9% in fiscal 2018 . The increase in gross profit as a percentage of net sales was primarily due to a shift in product mix to higher margin products, driven by the decline in lower margin video game hardware sales, as well as lower promotional activity in the fiscal 2019 holiday season compared to the fiscal 2018 holiday season. 
+
+Selling, General and Administrative Expenses 
+
+Selling, general and administrative ("SG&#38;A") expenses decreased $71.5 million , or 3.6% , in fiscal 2019 compared to fiscal 2018, primarily driven by approximately $79.0 million in cost reduction efforts and variable expenses due to lower sales, the positive impact of foreign exchange rate fluctuations of $30.6 million and the impact of store closures of approximately $20.0 million, which were partially offset by costs associated with our transformation initiatives and severance totaling $60.7 million. 
+
+Goodwill and Asset Impairments 
+
+Goodwill and asset impairments decreased $630.3 million, or 62.0% in fiscal 2019 compared to fiscal 2018, primarily due to a decrease in goodwill impairment charges. During fiscal 2019 and 2018, we recognized goodwill impairment charges totaling $363.9 million and $970.7 million , respectively. See Note 7 , &#8220;Goodwill and Intangible Assets,&#8221; to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for further information. We have no remaining goodwill balances as of February 1, 2020. 
+
+Interest Expense, Net 
+
+Interest expense, net decreased by $23.9 million, or 46.8%, for fiscal 2019 compared to fiscal 2018 , primarily due to the redemption of our $350.0 million unsecured senior notes during the first quarter of fiscal 2019. 
+
+Income Tax 
+
+Income tax expense was $37.6 million , representing a negative effective tax rate of 8.8% in fiscal 2019 , compared to $41.7 million in fiscal 2018 , representing a negative effective tax rate of 5.5% . The negative effective tax rate of 8.8% in fiscal 2019 is primarily the result of a permanent difference for non-deductible impairment charges and valuation allowances recognized in the year. The negative effective tax rate of 5.5% in fiscal 2018 was primarily the result of non-deductible impairment charges and the settlement of the tax dispute in France. See Note 8, "Income Taxes," to our consolidated financial statements included elsewhere in this Annual Report for additional information. 
+
+Income (Loss) from Discontinued Operations, Net of Tax 
+
+On January 16, 2019, we completed the sale of all of the equity interest in our wholly-owned subsidiary Spring Communications Holding, Inc. ("Spring Mobile") to Prime Acquisition Company, LLC ("Prime"), a wholly-owned subsidiary of Prime Communications, L.P., pursuant to an Equity Purchase Agreement dated as of November 21, 2018. The net cash proceeds received from the sale at closing totaled $727.9 million . We recognized a gain on sale in fiscal 2018 of $100.8 million ( $65.4 million , net of tax). During fiscal 2019, we were unable to settle on proposed working capital adjustments with Prime and, as a result, the proposed adjustments were submitted to arbitration proceedings under the terms of the Equity Purchase Agreement. During the fourth quarter of fiscal 2019, we recognized a charge of $5.5 million million related to the final working capital adjustments settled through arbitration proceedings. We have no significant contingencies or continuing involvement with Spring Mobile. 
+
+Loss from discontinued operations, net of tax, totaled $6.5 million in fiscal 2019 compared to income from discontinued operations, net of tax, of $121.8 million in fiscal 2018. Income from discontinued operations, net of tax, in fiscal 2018 includes the gain on sale, net of tax, of $65.4 million . Refer to Note 2, "Discontinued Operations and Dispositions," to our consolidated financial statements for additional information. 
+
+Fiscal 2018 Compared to Fiscal 2017 
+
+Net Sales 
+
+Net sales decreased $261.8 million, or 3.1%, in fiscal 2018 compared to fiscal 2017. The decrease in net sales was primarily attributable to fiscal 2017 including 53 weeks compared to 52 weeks in fiscal 2018, the impact of 117 store closures (net of openings), the negative impact of foreign exchange rate fluctuations and a decrease in comparable stores sales of 0.3%. Sales for the 53 rd week included in fiscal 2017 were approximately $132.7 million. The decrease in comparable store sales was primarily driven by a decrease in software sales, partially offset by an increase in sales of collectibles and hardware and accessories. The decrease in sales of software was primarily due to weaker new title releases in the first half of fiscal 2018 and weakening demand as a result of increasing digital adoption, partially offset by an increase in sales of Nintendo Switch titles due to the expansion of the hardware install base and increase of new release titles. The increase in sales of collectibles was primarily driven by new and improved product offerings. The increase in sales of hardware and accessories was primarily driven by growth in sales of audio-related and other accessories associated with the battle-royale gaming genre. 
+
+Net sales for fiscal 2018 in the United States, Australia and Europe declined by 1.3%, 8.1% and 8.4%, respectively, when compared to fiscal 2017. Net sales in Canada were essentially flat compared to the prior year. Net sales in the United States were negatively affected by the impact of the 53 rd week in fiscal 2017 of approximately $91.1 million and the impact of 66 stores closures (net of openings), which were partially offset by a comparable store sales increase of 1.8%. Comparable store sales in Canada increased by 3.1%, which was offset by the negative impact of foreign exchange rate fluctuations of $9.2 million and the impact of the 53 rd week in fiscal 2017 of approximately $6.4 million. The decline in net sales in Australia was primarily the result of the negative impact of foreign exchange rate fluctuations of $30.6 million, the decrease in comparable store sales of 3.4% and the impact of the 53rd week in fiscal 2017 of approximately $10.1 million. The decline in net sales in Europe was primarily due to the 7.7% decrease in comparable store sales and the impact of the 53 rd week in fiscal 2017 of approximately $25.1 million, partially offset by the positive impact of foreign exchange rate fluctuations of $13.6 million. 
+
+Gross Profit 
+
+Gross profit decreased $176.8 million, or 7.1%, in fiscal 2018 compared to fiscal 2017, and gross profit as a percentage of net sales decreased to 27.9% in fiscal 2018 compared to 29.1% in fiscal 2017. Gross profit for the 53 rd week included in fiscal 2017 was approximately $34.7 million. The decrease in gross profit as a percentage of net sales was primarily driven by a shift in product mix to lower margin hardware products, primarily driven by the decline in software sales, and higher software promotional activity in the fiscal 2018 holiday season. 
+
+Selling, General and Administrative Expenses 
+
+Selling, general and administrative ("SG&#38;A") expenses decreased $37.7 million, or 1.9%, in fiscal 2018 compared to fiscal 2017, primarily due to the impact of the 53 rd week in fiscal 2017, a decrease in depreciation and amortization due to declining capital expenditures over the past several years, and the positive impact of foreign exchange rate fluctuations. 
+
+Goodwill and Asset Impairments 
+
+During fiscal 2018, we recognized goodwill impairment charges totaling $970.7 million and asset impairment charges totaling $45.2 million. The impairment charges were primarily the result of a sustained decline in our market capitalization and lower forecasted cash flows. During fiscal 2017, we recognized asset impairment charges of $13.8 million, which was primarily comprised of an $11.0 million impairment of our Simply Mac dealer agreement intangible asset. No goodwill impairment charges were recognized during fiscal 2017. See Note 7, &#8220;Goodwill and Intangible Assets,&#8221; to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for further information. 
+
+Income Tax 
+
+Income tax expense was $41.7 million, representing an effective tax rate of (5.5)% in fiscal 2018, compared to $153.5 million, representing an effective tax rate of 40.0% in fiscal 2017. The decrease in the effective income tax rate compared to the prior year was primarily driven by non-deductible impairment charges, the settlement of the tax dispute in France, tax reform, revisions to transition taxes and the relative mix of earnings across the jurisdictions within which we operate. See Note 8, "Income Taxes," and Note 12, "Commitments and Contingencies," to our consolidated financial statements included elsewhere in this Annual Report for additional information. 
+
+Income (Loss) from Discontinued Operations, Net of Tax 
+
+On January 16, 2019, we completed the previously announced sale of all of the equity interest in our wholly-owned subsidiary Spring Communications Holding, Inc. ("Spring Mobile") to Prime Acquisition Company, LLC, a wholly-owned subsidiary of Prime Communications, L.P., pursuant to an Equity Purchase Agreement dated as of November 21, 2018. The net cash proceeds received from the sale totaled $727.9 million, which is subject to customary post-closing adjustments. We recognized a gain on sale of $100.8 million ($65.4 million, net of tax) during fiscal 2018. The historical results of Spring Mobile, including the gain on sale, is reported as discontinued operations. Except for customary post-closing adjustments and transition services, we have no contingencies or continuing involvement with Spring Mobile subsequent to the completion of the sale. 
+
+Income from discontinued operations, net of tax, totaled $121.8 million in fiscal 2018 compared to a net loss of $195.7 million in fiscal 2017. Income from discontinued operations, net of tax, in fiscal 2018 includes the gain on sale, net of tax, of $65.4 million. Loss from discontinued operations, net of tax, in fiscal 2017 includes goodwill and asset impairment charges totaling $377.0 million. Refer to Note 2, "Discontinued Operations and Dispositions," to our consolidated financial statements for additional information. 
+
+LIQUIDITY AND CAPITAL RESOURCES 
+
+Overview 
+
+Our principal sources of liquidity are cash from operations, cash on hand and our revolving credit facility. As of February 1, 2020 , we had total cash on hand of $499.4 million and an additional $270.3 million of available borrowing capacity under our $420 million revolving credit facility, which was undrawn as of February 1, 2020 . Our cash on hand attributable to foreign operations totaled $207.9 million as of February 1, 2020 . Although we may, from time to time, evaluate strategies and alternatives with respect to the cash attributable to our foreign operations, we currently anticipate that this cash will remain in those foreign jurisdictions and it therefore may not be available for immediate use in the United States. As of February 1, 2020, based on our current operating plans, we believe that available cash balances, cash generated from our operating activities and funds available under our revolving credit facility together will provide sufficient liquidity to fund our operations. In response to the outbreak of COVID-19, we have temporarily closed stores on a country-wide basis in Europe, primarily in Italy and France, as well as in Canada, which became effective in various points in March 2020. In the United States, effective March 22, 2020, we have temporarily closed all storefronts to customers but continue to process orders on a digital only basis, offering curbside pick-up at stores and e-commerce delivery only. As a result of these actions, we expect a significant reduction in customer traffic and demand, which will adversely impact our ability to generate cash from our operating activities. We cannot reasonably estimate the amount of this negative impact. 
+
+On an ongoing basis, we evaluate and consider certain strategic operating alternatives, including divestitures, restructuring or dissolution of unprofitable business segments, repurchasing shares of our common stock or our outstanding debt obligations, as well as other transactions that we believe may enhance stockholder value. The amount, nature and timing of any strategic operational changes, or purchases of our debt or equity securities will depend on our available cash and liquidity, operating performance and other circumstances; our then-current commitments and obligations; the amount, nature and timing of our capital requirements; any limitations imposed by our current credit arrangements; and overall market conditions. As part of our previously announced GameStop Reboot profit improvement initiative, we are evaluating future strategic and operating alternatives for certain of our unprofitable operating subsidiaries and business units that operate within our international segments. In total, we currently believe that any potential charges associated with the disposition or wind-down of certain operations under consideration, primarily relating to lease and severance obligations and accelerated depreciation and amortization, would not be material to our results of operations and financial condition. 
+
+Cash Flows 
+
+During fiscal 2019 , cash used in operations was $414.5 million , compared to cash provided by operations of $325.1 million in fiscal 2018 . The decrease in cash provided by operations of $739.6 million was primarily due to the timing of vendor payments and lower earnings in fiscal 2019. During fiscal 2018 , cash provided by operations was $325.1 million , compared to cash provided by operations of $434.9 million in fiscal 2017 . The decrease in cash provided by operations of $109.8 million from fiscal 2017 to fiscal 2018 was primarily due to lower earnings, adjusted for non-cash items, in fiscal 2018 compared to prior year. 
+
+Cash used in investing activities was $60.9 million in fiscal 2019 compared to cash provided by investing activities of $635.5 million in fiscal 2018 and cash used in fiscal 2017 of $60.6 million . The cash provided by investing activities in fiscal 2018 included $727.9 million in proceeds from the sale of Spring Mobile. The cash used in investing activities in fiscal 2017 included $58.5 million in proceeds from divestitures, primarily from the sale of Kongregate. Capital expenditures totaled $78.5 million , $93.7 million and $113.4 million in fiscal 2019, fiscal 2018 and fiscal 2017, respectively. 
+
+In fiscal 2019 , our financing activities were a net cash outflow of $644.7 million consisting primarily of the redemption of our $350.0 million 2019 senior notes in April 2019, repurchases of our common stock totaling $198.7 million , open market repurchases of our 2021 Senior Notes totaling $53.6 million and dividends paid on our common stock of $40.5 million . In fiscal 2018, our financing activities were a net cash outflow of $174.7 million consisting primarily of dividends paid of $157.4 million and repayment of acquisition-related debt of $12.2 million. The cash flows used in financing activities in fiscal 2017 consisted primarily of dividends paid of $155.2 million, the settlement of share repurchases of $22.0 million that were initiated in fiscal 2016 and repayment of acquisition-related debt of $21.8 million. 
+
+Sources of Liquidity 
+
+We utilize cash generated from operations and have funds available to us under our revolving credit facility to cover seasonal fluctuations in cash flows and to support our various initiatives. Our cash and cash equivalents are carried at cost and consist primarily of time deposits with commercial banks. 
+
+We maintain an asset-based revolving credit facility (the "Revolver") with a borrowing base capacity of $420 million and a maturity date of November 2022. The Revolver has a $200 million expansion feature and $50 million letter of credit sublimit, and allows for an incremental $50 million first-in, last-out facility. The applicable margins for prime rate loans range from 0.25% to 0.50% and, for London Interbank Offered ("LIBO") rate loans, range from 1.25% to 1.50%. The Revolver is secured by substantially all of our assets and the assets of our domestic subsidiaries. We are required to pay a commitment fee of 0.25% for any unused portion of the total commitment under the Revolver. As of February 1, 2020 , the applicable margin was 0.25% for prime rate loans and 1.25% for LIBO rate loans. As of February 1, 2020 , total availability under the Revolver was $270.3 million , with no outstanding borrowings and outstanding standby letters of credit of $7.3 million . During the first quarter of fiscal 2020, we borrowed $150 million on our Revolver. 
+
+In March 2016, we issued $475.0 million aggregate principal amount of unsecured 6.75% senior notes due March 15, 2021 (the "2021 Senior Notes"). Interest is payable semi-annually in arrears on March 15 and September 15 of each year. The net proceeds from the offering were used for general corporate purposes, including acquisitions and dividends. 
+
+The agreement governing our Revolver and the indentures governing our 2021 Senior Notes place certain restrictions on us and our subsidiaries, including, among others, limitations on asset sales, additional liens, investments, incurrence of additional debt and share repurchases. In addition, the indentures governing our Revolver and 2021 Senior Notes contain customary events of default, including, among others, payment defaults, breaches of covenants and certain events of bankruptcy, insolvency and reorganization. The Revolver is also subject to a fixed charge coverage ratio covenant if excess availability is below certain thresholds. We are currently in compliance with all covenants under our indentures governing the 2021 Senior Notes and our Revolver. 
+
+See Note 10 , &#8220;Debt,&#8221; to our consolidated financial statements for additional information related to our Revolver and 2021 Senior Notes. 
+
+Our Luxembourg subsidiary maintains a discretionary $20.0 million Uncommitted Line of Credit (the &#8220;Line of Credit&#8221;) with Bank of America. There is no term associated with the Line of Credit and Bank of America may withdraw the facility at any time without notice. The Line of Credit is available to our foreign subsidiaries for use primarily as a bank overdraft facility for short-term liquidity needs and for the issuance of bank guarantees and letters of credit to support operations. As of February 1, 2020 , there were no cash overdrafts outstanding under the Line of Credit and bank guarantees outstanding totaled $9.0 million . 
+
+Share Repurchases 
+
+On March 4, 2019, our Board of Directors approved a new share repurchase authorization allowing our management to repurchase up to $300.0 million of our Class A Common Stock with no expiration date. 
+
+On June 11, 2019, we commenced a modified Dutch auction tender offer for up to 12.0 million shares of our Class A common stock with a price range between $5.20 and $6.00 per share. The tender offer expired on July 10, 2019. Through the tender offer, we accepted for payment 12.0 million shares at a purchase price of $5.20 per share for a total of $62.9 million, including fees and commissions. The shares purchased through the tender offer were immediately retired. 
+
+In addition to the equity tender offer described above, during the second half of fiscal 2019, we executed a series of open market repurchases for an aggregate of 26.1 million shares of our Class A common stock totaling $135.8 million , including fees and commissions. These repurchased shares were immediately retired. 
+
+In aggregate, during fiscal 2019, we repurchased a total of 38.1 million shares of our Class A common stock, totaling $198.7 million , for an average price of $5.19 per share. We did not repurchase shares during fiscal 2018 or fiscal 2017. As of February 1, 2020 , we have $101.3 million remaining under the repurchase authorization. 
+
+Dividends 
+
+We paid cash dividends of $40.5 million , $157.4 million and $155.2 million in fiscal 2019 , 2018 and 2017 . On June 3, 2019, our Board of Directors elected to eliminate the Company&#8217;s quarterly dividend, effective immediately, in an effort to strengthen the Company's balance sheet and provide increased financial flexibility. We believe the decision to eliminate the dividend will enable us to further reduce debt and provide us flexibility as we seek to drive value creation for stockholders. 
+
+CONTRACTUAL OBLIGATIONS 
+
+The following table sets forth our contractual obligations as of February 1, 2020 (in millions): 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+Payments Due by Fiscal Period 
+
+&#160; 
+
+&#160; 
+
+Total 
+
+&#160; 
+
+FY 2020 
+
+&#160; 
+
+FY 2021 
+
+&#160; 
+
+FY 2022 
+
+&#160; 
+
+FY 2023 
+
+&#160; 
+
+FY 2024 
+
+&#160; 
+
+Thereafter 
+
+Operating leases 
+
+&#160; 
+
+$ 
+
+846.2 
+
+&#160; 
+
+$ 
+
+268.5 
+
+&#160; 
+
+$ 
+
+184.8 
+
+&#160; 
+
+$ 
+
+129.8 
+
+&#160; 
+
+$ 
+
+93.0 
+
+&#160; 
+
+$ 
+
+65.7 
+
+&#160; 
+
+$ 
+
+104.4 
+
+Purchase obligations (1) 
+
+&#160; 
+
+463.5 
+
+&#160; 
+
+463.5 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+2021 Senior Notes 
+
+&#160; 
+
+421.4 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+421.4 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Interest payments on senior notes 
+
+&#160; 
+
+42.6 
+
+&#160; 
+
+28.4 
+
+&#160; 
+
+14.2 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Total (2) 
+
+&#160; 
+
+$ 
+
+1,773.7 
+
+&#160; 
+
+$ 
+
+760.4 
+
+&#160; 
+
+$ 
+
+620.4 
+
+&#160; 
+
+$ 
+
+129.8 
+
+&#160; 
+
+$ 
+
+93.0 
+
+&#160; 
+
+$ 
+
+65.7 
+
+&#160; 
+
+$ 
+
+104.4 
+
+##TABLE_END
+
+___________________ 
+
+##TABLE_START (1) 
+
+Purchase obligations represent outstanding purchase orders for merchandise from vendors. These purchase orders are generally cancelable until shipment of the products. 
+
+##TABLE_END##TABLE_START (2) 
+
+As of February 1, 2020 , we had $9.2 million of income tax liability related to unrecognized tax benefits in other long-term liabilities in our consolidated balance sheet. At the time of this filing, the settlement period for the noncurrent portion of our income tax liability (and the timing of any related payments) cannot be reasonably determined and therefore these liabilities are excluded from the table above. In addition, certain payments related to unrecognized tax benefits would be partially offset by reductions in payments in other jurisdictions. See Note 8 , "Income Taxes," to our consolidated financial statements for further information regarding our uncertain tax positions. 
+
+##TABLE_END We lease retail stores, warehouse facilities, office space and equipment. These are generally leased under noncancelable agreements that expire at various dates with various renewal options for additional periods. The agreements, which have been classified as operating leases, generally provide for minimum and, in some cases, percentage rentals and require us to pay all insurance, taxes and other maintenance costs. Percentage rentals are based on sales performance in excess of specified minimums at various stores. 
+
+As of February 1, 2020 , we had standby letters of credit outstanding in the amount of $7.3 million and had bank guarantees outstanding in the amount of $24.6 million , of which $7.6 million is cash collateralized. 
+
+OFF-BALANCE SHEET ARRANGEMENTS 
+
+We had no material off-balance sheet arrangements as of February 1, 2020 . 
+
+CRITICAL ACCOUNTING POLICIES AND USE OF ESTIMATES 
+
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America (&#8220;GAAP&#8221;) requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. In preparing these financial statements, we have made our best estimates and judgments of certain amounts included in the financial statements, giving due consideration to materiality. Changes in the estimates and assumptions used by us could have a significant impact on our financial results, and actual results could differ from those estimates. Our senior management has discussed the development and selection of these critical accounting policies, as well as the significant accounting policies disclosed in Note 1 , "Nature of Operations and Summary of Significant Accounting Policies," to our consolidated financial statements, with the Audit Committee of our Board of Directors. We believe the following accounting policies are the most critical to aid in fully understanding and evaluating our reporting of transactions and events, and the estimates these policies involve require our most difficult, subjective or complex judgments. 
+
+Valuation of Merchandise Inventories 
+
+Our merchandise inventories are carried at the lower of cost or market generally using the average cost method. Under the average cost method, as new product is received from vendors, its current cost is added to the existing cost of product on-hand and this amount is re-averaged over the cumulative units. Pre-owned video game products traded in by customers are recorded as inventory at the amount of the store credit given to the customer. In valuing inventory, we are required to make assumptions regarding the necessity of reserves required to value potentially obsolete or over-valued items at the lower of cost or market. We consider quantities on hand, recent sales, potential price protections and returns to vendors, among other factors, when making these assumptions. 
+
+Our ability to gauge these factors is dependent upon our ability to forecast customer demand and to provide a well-balanced merchandise assortment. Any inability to forecast customer demand properly could lead to increased costs associated with write-downs of inventory to reflect volumes or pricing of inventory which we believe represents the net realizable value. A 10% change in our obsolescence reserve percentage at February 1, 2020 would have affected net earnings by approximately $2.3 million in fiscal 2019 . 
+
+Customer Liabilities 
+
+Our PowerUp Rewards loyalty program allows enrolled members to earn points on purchases in our stores and on some of our websites that can be redeemed for rewards and discounts. We allocate the transaction price between the product and loyalty points earned based on the relative stand-alone selling prices and expected point redemption. The portion allocated to the loyalty points is initially recorded as deferred revenue and subsequently recognized as revenue upon redemption or expiration. The two primary estimates utilized to record the deferred revenue for loyalty points earned by members are the estimated retail price per point and estimated amount of points that will never be redeemed, which is a concept known in the retail industry as "breakage." Additionally, we sell gift cards to our customers in our retail stores, through our website and through selected third parties. At the point of sale, a liability is established for the value of the gift card. We recognize revenue from gift cards when the card is redeemed by the customer and recognize estimated breakage on gift cards in proportion to historical redemption patterns, regardless of the age of the unredeemed gift cards. 
+
+The two primary estimates utilized to record the balance sheet liability for loyalty points earned by members are the estimated redemption rate and the estimated weighted-average retail price per point redeemed. We use historical redemption rates experienced under our loyalty program as a basis for estimating the ultimate redemption rate of points earned. The estimated retail price per point is based on the actual historical retail prices of product purchased through the redemption of loyalty points. We estimate breakage of loyalty points and unredeemed gift cards based on historical redemption rates. A weighted-average retail price per point redeemed is used to estimate the value of our deferred revenue associated with loyalty points. The weighted-average retail price per point redeemed is based on our most recent actual loyalty point redemptions and is adjusted as appropriate for recent changes in redemption values, including the mix of rewards redeemed. Our estimate of the amount and timing of gift card redemptions is based primarily on historical transaction experience. 
+
+We continually evaluate our methodology and assumptions based on developments in redemption patterns, retail price per point redeemed and other factors. Changes in the ultimate redemption rate and weighted-average retail price per point redeemed have the effect of either increasing or decreasing the deferred revenue balance through current period revenue by an amount estimated to cover the retail value of all points previously earned but not yet redeemed by loyalty program members as of the end of the reporting period. A 10% change in our customer loyalty program redemption rate or a 10% change in our weighted-average retail value per point redeemed at February 1, 2020 , in each case, would have affected net earnings by approximately $2.1 million in fiscal 2019 . A 10% change in our gift card breakage rate at February 1, 2020 would have affected net earnings by approximately $11.3 million in fiscal 2019 . 
+
+Goodwill 
+
+Goodwill results from acquisitions and represents the excess purchase price over the net identifiable assets acquired. We are required to evaluate our goodwill for impairment at least annually or whenever indicators of impairment are present. During fiscal 2019, we recognized an impairment charge for our remaining goodwill in the amount of $363.9 million , all of which related to our United States segment. As of February 1, 2020 , we had no remaining goodwill. See Note 7 , "Goodwill and Intangible Assets" to our consolidated financial statements for additional information. 
+
+In order to test goodwill for impairment, we compare a reporting unit's carrying amount to its estimated fair value. If the reporting unit&#8217;s carrying value exceeds its estimated fair value, then an impairment charge is recorded in the amount of the excess. In fiscal 2019, we estimated the fair value of our United States segment by using a combination of the income approach and market approach. The income approach is based on the present value of future cash flows, which are derived from our long-term financial forecasts, and requires significant assumptions including, among others, a discount rate and a terminal value. The market approach is based on the observed ratios of enterprise value to earnings of the Company and other comparable, publicly-traded companies. 
+
+Considerable management judgment is necessary to estimate the fair value of a reporting unit. The discounted cash flows analyses utilize a five- to seven-year cash flow projection with a terminal value, which are discounted using a risk-adjusted weighted-average cost of capital. The projected cash flows include numerous assumptions such as, among others, future sales trends, operating margins, store count and capital expenditures, all of which are derived from our long-term financial forecasts. The projected sales trends include estimates related to the growth rate of the digital distribution of new video game software. In addition, we corroborate the aggregate fair value of our reporting units with our market capitalization, which may impact certain assumptions in our discounted cash flows analyses. 
+
+Income Taxes 
+
+We account for income taxes utilizing an asset and liability approach, and deferred taxes are determined based on the estimated future tax effect of differences between the financial reporting and tax bases of assets and liabilities using enacted tax rates. As a result of our operations in many foreign countries, our global tax rate is derived from a combination of applicable tax rates in the various jurisdictions in which we operate. We maintain accruals for uncertain tax positions until examination of the tax year is completed by the taxing authority, available review periods expire or additional facts and circumstances cause us to change our assessment of the appropriate accrual amount. Our liability for uncertain tax positions was $9.2 million as of February 1, 2020 . 
+
+Additionally, a valuation allowance is recorded against a deferred tax asset if it is not more likely than not that the asset will be realized. We assess the available positive and negative evidence to estimate whether sufficient future taxable income will be generated to permit use of the existing deferred tax assets. Several factors are considered in evaluating the realizability of our deferred tax assets, including the remaining years available for carry forward, the tax laws for the applicable jurisdictions, the future profitability of the specific business units, and tax planning strategies. We have therefore established valuation allowances in certain foreign jurisdictions where the Company has determined existing deferred tax assets are not more likely than not to be realized. Our valuation allowance increased to $112.7 million as of February 1, 2020 . See Note 8 , "Income Taxes" to our consolidated financial statements for further information regarding income taxes. We continue to evaluate the realizability of all deferred tax assets on a jurisdictional basis as it relates to expected future earnings. Should the Company fail to achieve its expected earnings in the coming periods, it may be necessary to establish an additional valuation allowance against some or all of its deferred tax assets in those jurisdictions not currently subject to a valuation allowance. 
+
+Considerable management judgment is necessary to assess the inherent uncertainties related to the interpretations of complex tax laws, regulations and taxing authority rulings, as well as to the expiration of statutes of limitations in the jurisdictions in which we operate. We base our estimate of an annual effective tax rate at any given point in time on a calculated mix of the tax rates applicable to our operations and to estimates of the amount of income to be derived in any given jurisdiction. We file our tax returns based on our understanding of the appropriate tax rules and regulations. However, complexities in the tax rules and our operations, as well as positions taken publicly by the taxing authorities, may lead us to conclude that accruals for uncertain tax positions are required. Additionally, several factors are considered in evaluating the realizability of our deferred tax assets, including the remaining years available for carry forward, the tax laws for the applicable jurisdictions, the future profitability of the specific business units, and tax planning strategies. 
+
+Our judgments and estimates concerning uncertain tax positions may change as a result of evaluation of new information, such as the outcome of tax audits or changes to or further interpretations of tax laws and regulations. Our judgments and estimates concerning realizability of deferred tax assets could change if any of the evaluation factors change. If such changes take place, there is a risk that our effective tax rate could increase or decrease in any period, impacting our net earnings. 
+
+RECENT ACCOUNTING STANDARDS AND PRONOUNCEMENTS 
+
+See Note 1, "Nature of Operations and Summary of Significant Accounting Policies," to our consolidated financial statements for recent accounting standards and pronouncements. 
+
+##TABLE_START 
+
+Instruction: 
+Conduct a comprehensive analysis of the company's income statement for the current fiscal year. 
+Start with an overall revenue record, including Year-over-Year or Quarter-over-Quarter comparisons, 
+and break down revenue sources to identify primary contributors and trends. Examine the Cost of 
+Goods Sold for potential cost control issues. Review profit margins such as gross, operating, 
+and net profit margins to evaluate cost efficiency, operational effectiveness, and overall profitability. 
+Analyze Earnings Per Share to understand investor perspectives. Compare these metrics with historical 
+data and industry or competitor benchmarks to identify growth patterns, profitability trends, and 
+operational challenges. The output should be a strategic overview of the company's financial health 
+in a single paragraph, less than 130 words, summarizing the previous analysis into 4-5 key points under 
+respective subheadings with specific discussion and strong data support.

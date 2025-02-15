@@ -1,0 +1,960 @@
+Balance sheet:
+2024-12-31      2023-12-31     2022-12-31     2021-12-31    2020-12-31
+Treasury Shares Number                                          NaN             0.0            NaN            NaN           NaN
+Ordinary Shares Number                                 3216000000.0    3185000000.0   3164000000.0   3099000000.0           NaN
+Share Issued                                           3216000000.0    3185000000.0   3164000000.0   3099000000.0           NaN
+Total Debt                                            13623000000.0    9573000000.0   5748000000.0   8873000000.0           NaN
+Tangible Book Value                                   71443000000.0   62019000000.0  44111000000.0  28472000000.0           NaN
+Invested Capital                                      80791000000.0   67291000000.0  46749000000.0  35531000000.0           NaN
+Working Capital                                       29539000000.0   20868000000.0  14208000000.0   7395000000.0           NaN
+Net Tangible Assets                                   71443000000.0   62019000000.0  44111000000.0  28472000000.0           NaN
+Capital Lease Obligations                              5745000000.0    4916000000.0   3703000000.0   3531000000.0           NaN
+Common Stock Equity                                   72913000000.0   62634000000.0  44704000000.0  30189000000.0           NaN
+Total Capitalization                                  78448000000.0   65316000000.0  45733000000.0  34443000000.0           NaN
+Total Equity Gross Minority Interest                  73680000000.0   63609000000.0  45898000000.0  31583000000.0           NaN
+Minority Interest                                       767000000.0     975000000.0   1194000000.0   1394000000.0           NaN
+Stockholders Equity                                   72913000000.0   62634000000.0  44704000000.0  30189000000.0           NaN
+Gains Losses Not Affecting Retained Earnings           -670000000.0    -143000000.0   -361000000.0     54000000.0           NaN
+Other Equity Adjustments                               -670000000.0    -143000000.0   -361000000.0     54000000.0           NaN
+Retained Earnings                                     35209000000.0   27882000000.0  12885000000.0    329000000.0           NaN
+Additional Paid In Capital                            38371000000.0   34892000000.0  32177000000.0  29803000000.0           NaN
+Capital Stock                                             3000000.0       3000000.0      3000000.0      3000000.0           NaN
+Common Stock                                              3000000.0       3000000.0      3000000.0      3000000.0           NaN
+Preferred Stock                                                 0.0             0.0            0.0            0.0           NaN
+Total Liabilities Net Minority Interest               48390000000.0   43009000000.0  36440000000.0  30548000000.0           NaN
+Total Non Current Liabilities Net Minority Interest   19569000000.0   14261000000.0   9731000000.0  10843000000.0           NaN
+Other Non Current Liabilities                          1093000000.0     876000000.0    686000000.0    320000000.0           NaN
+Preferred Securities Outside Stock Equity                       NaN             NaN            NaN    568000000.0   604000000.0
+Non Current Accrued Expenses                                    NaN    3606000000.0   2480000000.0   1398000000.0   989000000.0
+Non Current Deferred Liabilities                       3317000000.0    3251000000.0   2804000000.0   2076000000.0           NaN
+Non Current Deferred Revenue                           3317000000.0    3251000000.0   2804000000.0   2052000000.0           NaN
+Non Current Deferred Taxes Liabilities                          NaN             NaN     82000000.0     24000000.0   151000000.0
+Long Term Debt And Capital Lease Obligation           10360000000.0    6528000000.0   3761000000.0   6916000000.0           NaN
+Long Term Capital Lease Obligation                     4825000000.0    3846000000.0   2732000000.0   2662000000.0           NaN
+Long Term Debt                                         5535000000.0    2682000000.0   1029000000.0   4254000000.0           NaN
+Long Term Provisions                                   4799000000.0    3606000000.0   2480000000.0   1531000000.0           NaN
+Current Liabilities                                   28821000000.0   28748000000.0  26709000000.0  19705000000.0           NaN
+Other Current Liabilities                              1549000000.0     517000000.0    354000000.0    310000000.0           NaN
+Current Deferred Liabilities                           4161000000.0    3740000000.0   2810000000.0   2372000000.0           NaN
+Current Deferred Revenue                               4161000000.0    3740000000.0   2810000000.0   2372000000.0           NaN
+Current Debt And Capital Lease Obligation              3263000000.0    3045000000.0   1987000000.0   1957000000.0           NaN
+Current Capital Lease Obligation                        920000000.0    1070000000.0    971000000.0    869000000.0           NaN
+Current Debt                                           2343000000.0    1975000000.0   1016000000.0   1088000000.0           NaN
+Other Current Borrowings                               2343000000.0    1975000000.0   1016000000.0   1088000000.0           NaN
+Line Of Credit                                                  NaN             0.0            0.0            NaN           NaN
+Current Provisions                                     2222000000.0    1765000000.0   1295000000.0    968000000.0           NaN
+Payables And Accrued Expenses                         17626000000.0   19681000000.0  20263000000.0  14098000000.0           NaN
+Current Accrued Expenses                               3785000000.0    4046000000.0   3773000000.0   2951000000.0           NaN
+Interest Payable                                                NaN             NaN            NaN     16000000.0    77000000.0
+Payables                                              13841000000.0   15635000000.0  16490000000.0  11147000000.0           NaN
+Total Tax Payable                                      1367000000.0    1204000000.0   1235000000.0   1122000000.0           NaN
+Accounts Payable                                      12474000000.0   14431000000.0  15255000000.0  10025000000.0           NaN
+Total Assets                                         122070000000.0  106618000000.0  82338000000.0  62131000000.0           NaN
+Total Non Current Assets                              63716000000.0   57003000000.0  41421000000.0  35027000000.0           NaN
+Other Non Current Assets                               4215000000.0    4531000000.0   3865000000.0   2138000000.0           NaN
+Non Current Deferred Assets                            6524000000.0    6733000000.0    328000000.0            NaN           NaN
+Non Current Deferred Taxes Assets                      6524000000.0    6733000000.0    328000000.0            NaN           NaN
+Goodwill And Other Intangible Assets                   1470000000.0     615000000.0    593000000.0   1717000000.0           NaN
+Other Intangible Assets                                1226000000.0     362000000.0    399000000.0   1517000000.0           NaN
+Goodwill                                                244000000.0     253000000.0    194000000.0    200000000.0           NaN
+Net PPE                                               51507000000.0   45124000000.0  36635000000.0  31172000000.0           NaN
+Accumulated Depreciation                             -18898000000.0  -15077000000.0 -11499000000.0  -8691000000.0           NaN
+Gross PPE                                             70405000000.0   60201000000.0  48134000000.0  39863000000.0           NaN
+Leases                                                 3688000000.0    3136000000.0   2366000000.0   1826000000.0           NaN
+Construction In Progress                               6783000000.0    5791000000.0   4281000000.0   5598000000.0           NaN
+Other Properties                                      14195000000.0    8819000000.0   5142000000.0   4204000000.0           NaN
+Machinery Furniture Equipment                         28272000000.0   26087000000.0  21705000000.0  16647000000.0           NaN
+Land And Improvements                                 10677000000.0    9498000000.0   7751000000.0   4675000000.0           NaN
+Properties                                             6790000000.0    6870000000.0   6889000000.0   6913000000.0           NaN
+Current Assets                                        58360000000.0   49616000000.0  40917000000.0  27100000000.0           NaN
+Other Current Assets                                   5362000000.0    3388000000.0   2941000000.0   1723000000.0           NaN
+Prepaid Assets                                                  NaN             NaN            NaN   1723000000.0  1346000000.0
+Inventory                                             12017000000.0   13626000000.0  12839000000.0   5757000000.0           NaN
+Other Inventories                                      1303000000.0    1171000000.0    842000000.0    575000000.0           NaN
+Finished Goods                                         3940000000.0    5049000000.0   3475000000.0   1277000000.0           NaN
+Work In Process                                        1532000000.0    2016000000.0   2385000000.0   1089000000.0           NaN
+Raw Materials                                          5242000000.0    5390000000.0   6137000000.0   2816000000.0           NaN
+Receivables                                            4418000000.0    3508000000.0   2952000000.0   1913000000.0           NaN
+Accounts Receivable                                    4418000000.0    3508000000.0   2952000000.0   1913000000.0           NaN
+Cash Cash Equivalents And Short Term Investments      36563000000.0   29094000000.0  22185000000.0  17707000000.0           NaN
+Other Short Term Investments                          20424000000.0   12696000000.0   5932000000.0    131000000.0           NaN
+Cash And Cash Equivalents                             16139000000.0   16398000000.0  16253000000.0  17576000000.0           NaN
+Cash Equivalents                                       1753000000.0     495000000.0   2288000000.0   9548000000.0           NaN
+Cash Financial                                        14386000000.0   15903000000.0  13965000000.0   8028000000.0           NaN
+
+Resource:  ITEM 7. MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS ##TABLE_END The following discussion and analysis should be read in conjunction with our consolidated financial statements and the related notes that appear elsewhere in this Annual Report on Form 10-K. 
+
+Overview and 2011 Highlights 
+
+We design, develop, manufacture and sell high-performance fully electric vehicles and advanced electric vehicle powertrain components. We own our sales and service network, and market and sell our vehicles directly to consumers via the phone and internet, in-person at our corporate events and through our network of Tesla stores. We were incorporated in Delaware in July 2003, opened our first store in Los Angeles, California in May 2008, and introduced our first vehicle, the Tesla Roadster, in early 2008. We are targeting our second vehicle, the Model S sedan, for a significantly broader customer base than the Tesla Roadster and plan to manufacture Model S in higher volumes than those for the Tesla Roadster. First customer deliveries of Model S are planned by July 2012. We have also recently revealed an early prototype of the Model X crossover, a vehicle based on the Model S platform. This unique vehicle has been designed to fill the niche between the roominess of a minivan and the style of an SUV, while having high performance features such as a dual motor all-wheel drive system. 
+
+During the year ended December 31, 2011, we recognized total revenues of $204.2 million, an increase of 75% over total revenues of $116.7 million for the year ended December 31, 2010. Automotive sales revenue of $148.6 million increased 53% from the year ended December 31, 2010, driven by strong customer demand for the Tesla Roadster globally and significantly higher powertrain component sales. We completed 2011 with cumulative deliveries worldwide from inception of approximately 2,150 Roadsters and concluded the production run of the Tesla Roadster in January 2012. We expect to sell our remaining Tesla Roadsters primarily in Europe and Asia during 2012 until our inventory is depleted. 
+
+Development services revenue increased to $55.7 million for the year ended December 31, 2011 from $19.7 million for the year ended December 31, 2010, due primarily to our development activities for the Toyota Motor Corporation (Toyota) RAV4 EV program for a full electric powertrain system. We completed planned milestones and deliveries of samples to Toyota during the year, and we currently expect to complete our remaining development services milestones and sample deliveries during the first quarter of 2012. 
+
+We made significant progress on the Model S program this year and we remain on schedule to commence customer deliveries by July 2012. During the year, we moved from building alpha to beta prototypes and performed detailed testing of systems integration, performance and safety. Our significant efforts in development and testing, both of which are ongoing, has allowed us to further refine the overall design of Model S and its constituent parts as well as the production and assembly processes to manufacture the vehicle. In October 2011, 
+
+&#160; 
+
+we finalized a long term supply contract with Panasonic Corporation for battery cells to be used in our products, which gives us increased visibility into our variable costs. 
+
+Research and development expenses included expenses related to Model S alpha and beta prototype build, development of the Tesla Factory, significant engineering, design and testing work being undertaken to support Model S development, design and engineering activities related to Model X, and other research and development activities. Research and development expenses for the year ended December 31, 2011 were $209.0 million, compared to $93.0 million for the year ended December 31, 2010. 
+
+In addition to Model S engineering, we also experienced significant activity at the Tesla Factory, where we intend to produce our Model S, Model X and future vehicles. Significant construction has taken place and detailed manufacturing readiness plans are being executed. Almost all of our Model S vehicle manufacturing equipment has been installed at the Tesla Factory. As part of our testing and qualifying activities of our manufacturing equipment, we are now assembling beta prototype vehicles at the Tesla Factory and expect to start building release candidate vehicles in the first quarter of 2012. During this process, we are continuing to fine-tune our production processes and incorporate a higher percentage of production-intent components into the cars. Once we complete these activities, the Tesla Factory will be fully commissioned for production and ready for its intended use. As a result of investments being made in the Tesla Factory and related supplier tooling for Model S, capital expenditures increased to $197.9 million for the year ended December 31, 2011, compared to $105.4 million for the year ended December 31, 2010. Our capital expenditures in 2010 were comprised primarily of payments we had made towards the purchase of the Tesla Factory from New United Motor Manufacturing, Inc. (NUMMI). 
+
+With the opening of our Santana Row store in 2011, we launched what we believe to be a new and unique retail experience designed to engage and inform potential customers about electric vehicles in general, learn about Tesla&#146;s innovations and configure their cars through hands-on interactive screens. During the year, we further expanded our company-owned retail network with the opening of several more stores in the United States utilizing the new store concept embodied by our Santana Row Tesla store. Some of these new stores will replace existing stores which we plan to continue using as service locations. As a result of our activities to support the sales of the Tesla Roadster, the opening and operation of new stores, higher store-related and marketing activities, as well as the growth of our business in general, we incurred higher selling, general and administrative expenses of $104.1 million for the year ended December 31, 2011 when compared to expenses of $84.6 million for the year ended December 31, 2010. 
+
+In June 2011, we completed a follow-on offering of common stock in which a total of 6,095,000 shares of our common stock were sold, and received cash proceeds of $172.7 million, net of underwriting discounts. Concurrent with this offering, we also sold 1,416,000 shares of common stock to Elon Musk, our Chief Executive Officer and 637,475 shares of common stock to Blackstar Investco LLC, an affiliate of Daimler and received total cash proceeds of $59.1 million in these private placements. No underwriting discounts or commissions were paid in connection with these private placements. 
+
+Along with the proceeds from our public offerings and private placements, our continued draw-downs under the Department of Energy Loan Facility (DOE Loan Facility) and other sources of cash including cash from the sales of the Tesla Roadster, development services to Toyota, sales of powertrain components to Daimler, and cash received from refundable reservation payments for our Model S, provided the liquidity to fund our Model S, Model X and powertrain development activities, as well as our capital investments in manufacturing infrastructure. During the year ended December 31, 2011, we received $204.4 million in draw-downs under the DOE Loan Facility bringing our total long-term debt under the facility to $276.3 million. As we continue to progress on our Model S and powertrain activities, we expect to continue making draw-downs under the DOE Loan Facility. 
+
+As of December 31, 2011, we had $492.7 million in principal sources of liquidity available from our cash and cash equivalents, short-term marketable securities, cash held in our dedicated DOE account and the remaining amounts available under the DOE Loan Facility. This includes our cash and cash equivalents in the 
+
+&#160; 
+
+amount of $255.3 million which includes investments in money market funds, short-term marketable securities of $25.1 million, cash of $23.5 million deposited in a dedicated DOE account in accordance with the requirements of our DOE Loan Facility, and $188.8 million available under the DOE Loan Facility. We expect that these principal sources of liquidity together with our current projections of cash flow from operating activities will provide us adequate liquidity until we reach profitability in 2013. 
+
+Management Opportunities, Challenges and Risks 
+
+Our principal focus has continued to be on the disciplined development of Model S so that we can commence deliveries by July 2012. We have also been focused on the continued sales of the Tesla Roadster and powertrain components, development services activities with our strategic partners, advanced engineering work on the planned Model X and pursuing new electric powertrain opportunities with automobile manufacturers. 
+
+In January 2012, we concluded the production run of our current generation Tesla Roadster. Through December 31, 2011, we had delivered approximately 2,150 Roadsters to customers. We plan to sell our remaining Tesla Roadsters during 2012 primarily in Europe and Asia until our inventory is depleted. 
+
+Powertrain component sales in 2011 were driven primarily by our deliveries to supply Daimler AG (Daimler) with battery packs and chargers for the Daimler Smart fortwo and A-Class EV programs. We completed both of these production programs as of December 31, 2011. In July 2011, we entered into a supply and services agreement with Toyota for the production of an electric powertrain system, including a battery pack, charging system, inverter, motor, gearbox and associated software, which will be integrated into the Toyota RAV4 EV. Additionally, we will provide Toyota with certain services related to the supply of these components. Pursuant to the agreement, Toyota will pay us approximately $100 million from 2012 through 2014 based on our delivery of these components for the Toyota RAV4 EV. Due to the wind down of the Daimler Smart fortwo and A-Class EV production programs at the end of 2011, we expect powertrain component sales to be limited until the planned start of production of the Toyota RAV4 EV powertrain system in the first half of 2012. 
+
+As we have a limited number of the Tesla Roadsters left for sale and as we expect powertrain component sales to decline until the start of production for the Toyota RAV4 EV program, we anticipate our automotive sales will decline, potentially significantly, just prior to the planned launch of our Model S. The launch of our Model S could be delayed for a number of reasons and any such delays may be significant and would extend the period in which we would generate limited revenues from sales of our electric vehicles and electric powertrain systems. 
+
+We completed all of our planned milestones and deliveries of samples to Toyota during 2011, and we currently expect to complete our remaining development services milestones and sample deliveries during the first quarter of 2012. As such, we expect that the remaining development services revenue under the Toyota RAV4 EV program will also be recognized in the first quarter. Since the revenue related to development services milestones are recognized when achieved while milestone costs must be expensed as incurred, our development services gross margin will reflect this favorability when we recognize our final Toyota RAV4 EV milestones in 2012. In November 2011, we received a letter of intent from Daimler for a full electric powertrain program for a vehicle in the Mercedes line and recently, we received a purchase order to begin the development work. However, we have not yet finalized with Daimler the terms for this program and may never do so. Due to timing differences that may arise between the recognition of future milestone revenue and the underlying costs of development services, the gross margin from our development services activities may vary from period to period as we have seen under our previous development services agreements including that for the Toyota RAV4 EV program. 
+
+The build of Model S beta prototypes continues to progress and we will begin building release candidate vehicles in the first quarter of 2012. We continue to work closely with suppliers to design, develop and test components that will meet our anticipated production design specifications and schedule. Ensuring that our design, engineering, operations and manufacturing engineering teams, and our suppliers, execute on all 
+
+&#160; 
+
+significant activities will be critical to a timely launch of first customer deliveries of our Model S by July 2012. Our continuing negotiations with suppliers and the adequate maturation of our manufacturing capabilities will influence our ability to achieve the cost per unit that we are currently projecting. Our plan to commence deliveries of Model S by July 2012 is also dependent upon the timely availability of funds from the DOE Loan Facility, upon our finalizing the related design, engineering, component procurement, testing, build out and manufacturing plans in a timely manner and upon our ability to execute these plans within the current timeline. 
+
+In February 2012, we revealed an early prototype of the Model X crossover as the first vehicle we intend to develop by leveraging the Model S platform. This unique vehicle has been designed to fill the niche between the roominess of a minivan and the style of an SUV, while having high performance features such as a dual motor all-wheel drive system. We currently plan to start production of Model X in the fourth quarter of 2013 with significant deliveries in 2014. Our ability to develop and introduce the Model X in this timeframe is based on our expectations of leveraging the Model S platform. Additionally, if there is a lower level of commonality between Model S and Model X than anticipated, our future development and tooling costs may exceed expectations. 
+
+Our operating expenses in 2011 have been significant as we continued to execute on the Model S program and are systematically and strategically expanding our sales and service infrastructure globally to support the launch of Model S. As we continue to make significant investments in research and development and our infrastructure to launch Model S as well as incur costs for the development of Model X, we expect to continue generating a net loss until we reach planned volume sales of Model S in 2013. As pre-production expenses and development and prototyping costs cannot be capitalized, we expect our operating expenses to continue increasing due to our ongoing activities to prepare the Tesla Factory for production, refine Model S through our engineering and testing on beta prototype and release candidate vehicles, and continue the advanced engineering work on Model X. Once we start recognizing revenue from the sales of Model S, our Model S production costs, including direct parts, material and labor costs, manufacturing overhead and amortized tooling, and logistics, will begin to be reflected in cost of automotive sales. 
+
+Capital spending for the Model S program will continue into 2012 as we complete our commissioning activities of the Tesla Factory and as we make final payments for tooling and manufacturing equipment required for production. Depreciation of our capital expenditures related to the manufacturing of Model S will begin with the start of Model S production. We anticipate that most of the capital expenditures on Model S will continue to be funded by the DOE Loan Facility until the launch of Model S. We also anticipate our aggregate capital expenditures for 2012 to be comparable to that in 2011, primarily focused on vehicle development and manufacturing activities for Model S and Model X. 
+
+Critical Accounting Policies and Estimates 
+
+Our consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States. The preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, costs and expenses and related disclosures. We base our estimates on historical experience, as appropriate, and on various other assumptions that we believe to be reasonable under the circumstances. Changes in the accounting estimates are reasonably likely to occur from period to period. Accordingly, actual results could differ significantly from the estimates made by our management. We evaluate our estimates and assumptions on an ongoing basis. To the extent that there are material differences between these estimates and actual results, our future financial statement presentation, financial condition, results of operations and cash flows will be affected. We believe that the following critical accounting policies involve a greater degree of judgment and complexity than our other accounting policies. Accordingly, these are the policies we believe are the most critical to understanding and evaluating our consolidated financial condition and results of operations. 
+
+&#160; 
+
+Revenue Recognition 
+
+Automotive Sales 
+
+We recognize automotive sales revenue from sales of the Tesla Roadster, including vehicle options, accessories and destination charges, vehicle service and sales of zero emission vehicle, or ZEV credits. We also recognize automotive sales revenue from the sales of electric vehicle powertrain components, such as battery packs and battery chargers, to other manufacturers. We recognize revenue when (i) persuasive evidence of an arrangement exists; (ii) delivery has occurred and there are no uncertainties regarding customer acceptance; (iii) fees are fixed or determinable; and (iv) collection is reasonably assured. 
+
+Automotive sales consist primarily of revenue earned from the sale of vehicles. Sales or other amounts collected in advance of meeting all of the revenue recognition criteria are not recognized in the consolidated statements of operations and are instead recorded as deferred revenue on our consolidated balance sheets. Prior to February 2010, we did not provide direct financing for the purchase of the Tesla Roadster although a third-party lender has provided financing arrangements to our customers in the United States. Under these arrangements we have been paid in full by the customer at the time of purchase. Starting in February 2010, we began offering a leasing program to qualified customers in the United States. 
+
+Automotive sales also consist of revenue earned from the sales of vehicle options, accessories and destination charges. While these sales may take place separately from a vehicle sale, they are often part of one vehicle sale agreement resulting in multiple element arrangements. Contract interpretation is sometimes required to determine the appropriate accounting for recognition of our revenue, including whether the deliverables specified in the multiple element arrangement should be treated as separate units of accounting, and, if so, how the price should be allocated among the elements, when to recognize revenue for each element, and the period over which revenue should be recognized. We are also required to evaluate whether a delivered item has value on a stand-alone basis prior to delivery of the remaining items by determining whether we have made separate sales of such items or whether the undelivered items are essential to the functionality of the delivered items. Further, we assess whether we know the fair value of the undelivered items, determined by reference to stand-alone sales of such items. 
+
+To date, we have been able to establish the fair value for each of the deliverables within the multiple element arrangements because we sell each of the vehicles, vehicle accessories and options separately, outside of any multiple element arrangements. As each of these items has stand alone value to the customer, revenue from sales of vehicle accessories and options are recognized when those specific items are delivered to the customer. Increased complexity to our sales agreements or changes in our judgments and estimates regarding application of these revenue recognition guidelines could result in a change in the timing or amount of revenue recognized in future periods. 
+
+Effective January 1, 2011, we adopted amended accounting standards issued by the Financial Accounting Standards Board (FASB) for multiple deliverable revenue arrangements on a prospective basis for applicable transactions originating or materially modified after January 1, 2011. The new standard changes the requirements for establishing separate units of accounting in a multiple element arrangement and requires the allocation of arrangement consideration to each deliverable to be based on the relative selling price. For fiscal 2011 and future periods, when a sales arrangement contains multiple elements, we allocate revenue to each element based on a selling price hierarchy. The selling price for a deliverable is based on its vendor specific objective evidence (VSOE) if available, third party evidence (TPE) if VSOE is not available, or estimated selling price if neither VSOE nor TPE is available. To date, we have been able to establish the fair value for each of the deliverables within the multiple element arrangements because we sell each of the vehicles, vehicles accessories and options separately, outside of any multiple element arrangements. Therefore, there were no material differences between total revenue reported and pro forma total revenues that would have been reported during the year ended December 31, 2011, if the transactions entered into or materially modified after January 1, 2011 were subject to previous accounting guidance. 
+
+&#160; 
+
+Development Services 
+
+Revenue from development services arrangements consist of revenue earned from the development of electric vehicle powertrain components for other automobile manufacturers, including the design and development of battery packs, chargers and sample vehicles to meet a customer&#146;s specifications. Beginning in the quarter ended March 31, 2010, we started entering into such contracts with the expectation that our development services would constitute a viable revenue-generating activity. Revenue is recognized as a development arrangement is finalized, the performance requirements of each development arrangement are met and collection is reasonably assured. Where development arrangements include substantive at-risk milestones, revenue is recognized based upon the achievement of the contractually-defined milestones. Amounts collected in advance of meeting all of the revenue recognition criteria are not recognized in the consolidated statement of operations and are instead recorded as deferred revenue on the consolidated balance sheet. Increased complexity to our development agreements or changes in our judgments and estimates regarding application of these revenue recognition guidelines could result in a change in the timing or amount of revenue recognized in future periods. 
+
+Costs of development services are expensed as incurred. Costs of development services incurred in periods prior to the finalization of an agreement are recorded as research and development expenses; once an agreement is finalized, these costs are recorded in cost of development services. 
+
+Prior to 2010, compensation from the Smart fortwo EV development arrangement with Daimler, which is discussed below under &#147;Development Compensation&#148;, was recorded as an offset to research and development expenses. This early arrangement was motivated primarily by the opportunity to engage Daimler and at the same time, jointly progress our own research and development activities with the associated development compensation. 
+
+Development Compensation 
+
+We began receiving payments under the Smart fortwo EV development arrangement with Daimler in the year ended December 31, 2008 to compensate us for the cost of our development activities. We deferred recognition for these payments received in advance of the execution of the final agreement because a number of significant contractual terms were not in place prior to that time. Upon entering into the final agreement in May 2009, we began recognizing the deferred development compensation as an offset to our research and development expenses on a straight-line basis. This amount was recognized over the expected life of the agreement, beginning in May 2009 and continuing through November 2009. Payments that we received upon the achievement of development milestones subsequent to contract execution in May 2009 were recognized upon achievement and acceptance of the respective milestones. All amounts received under this development agreement have been recognized as an offset to our research and development expenses in the consolidated statement of operations. All development activities under this agreement were completed as of December 31, 2009. 
+
+Marketable Securities 
+
+During the year ended December 31, 2011, we purchased marketable securities including commercial paper and corporate debt. All marketable securities are designated as available-for-sale and reported at estimated fair value, with unrealized gains and losses recorded in accumulated other comprehensive loss which is included within stockholders&#146; equity. Realized gains and losses on the sale of available-for-sale marketable securities are recorded in other expense, net. The cost of available-for-sale marketable securities sold is based on the specific identification method. Interest, dividends, amortization and accretion of purchase premiums and discounts on our marketable securities are included in other expense, net. Available-for-sale marketable securities with maturities greater than three months at the date of purchase and remaining maturities of one year or less are classified as short-term marketable securities. Where temporary declines in fair value exist, we have the ability and the intent to hold these securities for a period of time sufficient to allow for any anticipated recovery in fair value. 
+
+&#160; 
+
+We regularly review all of our marketable securities for other-than-temporary declines in fair value. The review includes but is not limited to (i) the consideration of the cause of the impairment, (ii) the creditworthiness of the security issuers, (iii) the length of time a security is in an unrealized loss position, and (iv) our ability to hold the security for a period of time sufficient to allow for any anticipated recovery in fair value. 
+
+Inventory Valuation 
+
+We value our inventories at the lower of cost or market. Cost is computed using standard cost, which approximates actual cost on a first-in, first-out basis. We record inventory write-downs for estimated obsolescence or unmarketable inventories based upon assumptions about future demand forecasts. If our inventory on hand is in excess of our future demand forecast, the excess amounts are written off. 
+
+We also review inventory to determine whether its carrying value exceeds the net amount realizable upon the ultimate sale of the inventory. This requires us to determine the estimated selling price of our vehicles less the estimated cost to convert inventory on hand into a finished product. 
+
+Once inventory is written-down, a new, lower-cost basis for that inventory is established and subsequent changes in facts and circumstances do not result in the restoration or increase in that newly established cost basis. During the years ended December 31, 2011, 2010 and 2009, we recorded write-downs of $1.8 million, $1.0 million and $1.4 million, in cost of automotive sales, respectively. 
+
+The inventory amounts are based on our current estimates of demand, selling prices and production costs. Should our estimates of future selling prices or production costs change, material changes to these reserves may be required. Further, a small change in our estimates may result in a material charge to our reported financial results. 
+
+Warranties 
+
+We accrue warranty reserves at the time a vehicle or powertrain component is delivered to a customer. Warranty reserves include management&#146;s best estimate of the projected costs to repair or to replace any items under warranty, based on actual warranty experience as it becomes available and other known factors that may impact our evaluation of historical data. We review our reserves at least quarterly to ensure that our accruals are adequate in meeting expected future warranty obligations, and we will adjust our estimates as needed. Initial warranty data can be limited early in the launch of a new vehicle or powertrain component and accordingly, the adjustments that we record may be material. As of December 31, 2011 and 2010, we had $6.3 million and $5.4 million in warranty reserves, respectively. Adjustments to warranty reserves are recorded in cost of automotive sales. 
+
+It is likely that as we sell additional Tesla Roadsters and powertrain components and as we repair or replace items under warranty, we will acquire additional information on the projected costs to service work under warranty and may need to make additional adjustments. Further, a small change in our warranty estimates may result in a material charge to our reported financial results. 
+
+Valuation of Stock-Based Awards, Common Stock and Warrants 
+
+Stock-Based Compensation 
+
+We use the fair value method of accounting for our stock options granted to employees and Employee Stock Purchase Plan (ESPP) which require us to measure the cost of employee services received in exchange for the stock-based awards, based on the grant date fair value of the awards. The fair value of the awards is estimated using the Black-Scholes option-pricing model. The resulting cost is recognized over the period during which an employee is required to provide service in exchange for the awards, usually the vesting period which is generally four years for stock options and six months for the ESPP. Stock-based compensation expense is recognized on a straight-line basis, net of forfeitures. 
+
+&#160; 
+
+The fair value of each stock-based award was estimated on the grant date for the periods below using the Black-Scholes option-pricing model with the following weighted-average assumptions. 
+
+&#160;
+
+##TABLE_START &#160; &#160; Year Ended December 31, &#160; &#160; &#160; 2011 &#160; &#160; 2010 &#160; &#160; 2009 &#160; Risk-free interest rate: 
+
+&#160; &#160; &#160; Stock options 
+
+&#160; &#160; 2.0 % &#160; &#160; 2.0 % &#160; &#160; 2.2 % ESPP 
+
+&#160; &#160; 0.2 % &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; Expected term (in years): 
+
+&#160; &#160; &#160; Stock options 
+
+&#160; &#160; 6.0 &#160; &#160; &#160; 5.3 &#160; &#160; &#160; 4.6 &#160; ESPP 
+
+&#160; &#160; 0.5 &#160; &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; Expected volatility: 
+
+&#160; &#160; &#160; Stock options 
+
+&#160; &#160; 70 % &#160; &#160; 71 % &#160; &#160; 64 % ESPP 
+
+&#160; &#160; 59 % &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; Dividend yield: 
+
+&#160; &#160; &#160; Stock options 
+
+&#160; &#160; 0.0 % &#160; &#160; 0.0 % &#160; &#160; 0.0 % ESPP 
+
+&#160; &#160; 0.0 % &#160; &#160; &#151; &#160; &#160; &#160; &#151; &#160; ##TABLE_END If in the future we determine that another method for calculating the fair value of our stock-based awards is more reasonable, or if another method for calculating the above input assumptions is prescribed by authoritative guidance, the fair value calculated for our stock-based awards could change significantly. 
+
+The Black-Scholes option-pricing model requires inputs such as the risk-free interest rate, expected term and expected volatility. Further, the forfeiture rate also affects the amount of aggregate compensation. These inputs are subjective and generally require significant judgment. 
+
+The risk-free interest rate that we use is based on the United States Treasury yield in effect at the time of grant for zero coupon United States Treasury notes with maturities approximating each grant&#146;s expected life. Given our limited history with employee grants, we use the &#147;simplified&#148; method in estimating the expected term for our employee grants. The &#147;simplified&#148; method, as permitted by the SEC, is calculated as the average of the time-to-vesting and the contractual life of the options. 
+
+Our expected volatility is derived from the historical volatilities of several unrelated public companies within industries related to our business, including the automotive OEM, automotive retail, automotive parts and battery technology industries, because we have limited trading history on our common stock. When making the selections of our peer companies within industries related to our business to be used in the volatility calculation, we also considered the stage of development, size and financial leverage of potential comparable companies. Our historical volatility is weighted based on certain qualitative factors and combined to produce a single volatility factor. 
+
+We estimate our forfeiture rate based on an analysis of our actual forfeitures and will continue to evaluate the appropriateness of the forfeiture rate based on actual forfeiture experience, analysis of employee turnover behavior and other factors. Quarterly changes in the estimated forfeiture rate can have a significant effect on reported stock-based compensation expense, as the cumulative effect of adjusting the rate for all expense amortization is recognized in the period the forfeiture estimate is changed. If a revised forfeiture rate is higher than the previously estimated forfeiture rate, an adjustment is made that will result in a decrease to the stock-based compensation expense recognized in the consolidated financial statements. If a revised forfeiture rate is lower than the previously estimated forfeiture rate, an adjustment is made that will result in an increase to the stock-based compensation expense recognized in the consolidated financial statements. 
+
+As we accumulate additional employee stock-based awards data over time and as we incorporate market data related to our common stock, we may calculate significantly different volatilities, expected lives and 
+
+&#160; 
+
+forfeiture rates, which could materially impact the valuation of our stock-based awards and the stock-based compensation expense that we will recognize in future periods. Stock-based compensation expense is recorded in our cost of revenues, research and development expenses, and selling, general and administrative expenses. 
+
+Unadjusted Error in 2009 
+
+In June 2010, we identified an error related to the understatement in stock-based compensation expense subsequent to the issuance of the consolidated financial statements for the year ended December 31, 2009. 
+
+In the fourth quarter of 2009, we granted certain stock options for which a portion of the grant was immediately vested. We erroneously accounted for the expense on a straight-line basis over the term of the award, while expense recognition should always be at least commensurate with the number of awards vesting during the period. As a result, selling, general and administrative expenses and net loss for the year ended December 31, 2009 were understated by $2.7 million. The error did not have an effect on the valuation of the stock options. As stock-based compensation expense is a non-cash item, there was no impact on net cash used in operating activities for the year ended December 31, 2009. 
+
+To correct this error, we recorded additional stock-based compensation of $2.4 million during the three months ended June 30, 2010. We considered the impact of the error on reported operating expenses and trends in operating results and determined that the impact of the error was not material to previously reported financial information as well as those related to the three months ended June 30, 2010. 
+
+Common Stock Valuation 
+
+Upon the completion of our IPO on July 2, 2010, our common stock has been valued by reference to its publicly traded price. Prior to the IPO, we historically granted stock options with exercise prices equal to the fair value of our common stock as determined at the date of grant by our Board of Directors. Because there was no public market for our common stock, our Board of Directors determined the fair value of our common stock by considering a number of objective and subjective factors, including the following: 
+
+&#160;
+
+##TABLE_START &#160; &#149; &#160; our sales of convertible preferred stock to unrelated third parties; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; our operating and financial performance; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; the lack of liquidity of our capital stock; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; trends in our industry; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; arm&#146;s length, third-party sales of our stock; and 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; contemporaneous valuations performed by an unrelated third-party. 
+
+##TABLE_END &#160; 
+
+There is inherent uncertainty in these estimates and if we had made different assumptions than those used, the amount of our stock-based compensation expense, net loss and net loss per share amounts could have been significantly different. The following table summarizes, by grant date, the number of stock options granted since January 1, 2008 through the completion of our IPO on July 2, 2010, and the associated per share exercise price, which equaled the fair value of our common stock for each of these grants. 
+
+&#160;
+
+##TABLE_START Grant Date 
+
+&#160; Number of Options Granted &#160; &#160; Exercise Price and Fair Value per Share of Common Stock &#160; June 4, 2008 
+
+&#160; &#160; 762,137 &#160; &#160; $ 2.70 &#160; July 8, 2008 
+
+&#160; &#160; 278,308 &#160; &#160; &#160; 2.70 &#160; September 3, 2008 
+
+&#160; &#160; 200,155 &#160; &#160; &#160; 2.70 &#160; October 29, 2008 
+
+&#160; &#160; 205,156 &#160; &#160; &#160; 2.70 &#160; March 2, 2009 
+
+&#160; &#160; 214,813 &#160; &#160; &#160; 2.70 &#160; April 13, 2009 
+
+&#160; &#160; 1,005,837 &#160; &#160; &#160; 2.70 &#160; April 22, 2009 
+
+&#160; &#160; 105,184 &#160; &#160; &#160; 2.70 &#160; August 4, 2009 
+
+&#160; &#160; 323,063 &#160; &#160; &#160; 2.94 &#160; October 21, 2009 
+
+&#160; &#160; 590,638 &#160; &#160; &#160; 6.15 &#160; December 4, 2009 
+
+&#160; &#160; 7,977,444 &#160; &#160; &#160; 6.63 &#160; December 16, 2009 
+
+&#160; &#160; 58,995 &#160; &#160; &#160; 6.63 &#160; March 3, 2010 
+
+&#160; &#160; 402,660 &#160; &#160; &#160; 9.96 &#160; April 28, 2010 
+
+&#160; &#160; 256,320 &#160; &#160; &#160; 13.23 &#160; June 12, 2010 
+
+&#160; &#160; 1,135,710 &#160; &#160; &#160; 14.17 &#160; ##TABLE_END Included in the December 4, 2009 awards, were 6,711,972 stock options granted to our Chief Executive Officer comprised of two grants. In recognition of his and our company&#146;s achievements and to create incentives for future success, the Board of Directors approved an option grant representing 4% of our fully-diluted share base prior to such grant as of December 4, 2009, or 3,355,986 stock options, with 1/4th of the shares vesting immediately, and 1/36th of the remaining shares scheduled to vest each month over three years, assuming continued employment through each vesting date. In addition, to create incentives for the attainment of clear performance objectives around a key element of our current business plan&#151;the successful launch and commercialization of Model S&#151;the Board of Directors approved additional options totaling an additional 4% of our fully-diluted shares prior to such grant as of December 4, 2009, with a vesting schedule based entirely on the attainment of performance objectives as follows, assuming Mr. Musk&#146;s continued service to us through each vesting date: 
+
+&#160;
+
+##TABLE_START &#160; &#149; &#160; 1/4th of the shares subject to the option are scheduled to vest upon the successful completion of Model S Engineering Prototype; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; 1/4th of the shares subject to the option are scheduled to vest upon the successful completion of Model S Validation Prototype; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; 1/4th of the shares subject to the option are scheduled to vest upon the completion of the first Model S Production Vehicle; and 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; 1/4th of the shares subject to the option are scheduled to vest upon the completion of the 10,000th Model S Production Vehicle. 
+
+##TABLE_END If Mr. Musk does not meet one or more of the above milestones prior to the fourth anniversary of the date of grant, he will forfeit his right to the unvested portion of the grant. 
+
+Included in our June and September 2010 stock option grants were 666,300 and 20,000 stock options granted respectively, to various members of our senior management with a vesting schedule based entirely on the attainment of the same performance objectives as those outlined for Mr. Musk above. 
+
+&#160; 
+
+Prior to our IPO which was completed on July 2, 2010, our Board of Directors performed valuations of our common stock for purposes of granting stock options in a manner consistent with the methods outlined in the American Institute of Certified Public Accountants Practice Aid, Valuation of Privately-Held-Company Equity Securities Issued as Compensation . The enterprise value input of our common stock valuations were derived either using fundamental analysis (income and market approaches) or based on a recent round of financing (option pricing approach). The income approach estimates the enterprise value of the company by discounting the expected future cash flows of the company to present value. We have applied discount rates that reflect the risks associated with our cash flow projections and have used venture capital rates of return for companies at a similar stage of development as us, as a proxy for our cost of capital. Our discounted cash flow calculations are sensitive to highly subjective assumptions that we were required to make at each valuation date relating to appropriate discount rates for various components of our business. For example, the discount rates used to value the cash flow projections from the Model S business factored in the low cost debt we expected to raise from the U.S. Department of Energy. 
+
+&#160;
+
+##TABLE_START Valuation Date 
+
+&#160; Range of Discount Rates &#160; May 15, 2008 
+
+&#160; &#160; 30.0 &#150; 40.0 % December 31, 2008 
+
+&#160; &#160; 30.0 &#150; 40.0 % February 28, 2009 
+
+&#160; &#160; 30.0 &#150; 40.0 % May 11, 2009 
+
+&#160; &#160; 16.2 &#150; 34.8 % August 1, 2009 
+
+&#160; &#160; 16.2 &#150; 34.8 % October 15, 2009 
+
+&#160; &#160; 12.4 &#150; 27.1 % November 27, 2009 
+
+&#160; &#160; 12.4 &#150; 27.1 % February 23, 2010 
+
+&#160; &#160; 11.4 &#150; 20.0 % April 21, 2010 
+
+&#160; &#160; 14.4 &#150; 20.0 % June 9, 2010 
+
+&#160; &#160; 14.5 &#150; 20.0 % ##TABLE_END Our projected cash flows were primarily derived from our Tesla Roadster, Model S and powertrain revenue streams. In more recent valuations, these cash flow projections took into account the fact that we had been selling the Tesla Roadster since 2008, that we began selling powertrain components in the quarter ended December 31, 2009 and our anticipation of Model S production in mid-2012. 
+
+Under the market approach, the total enterprise value of the company was estimated by comparing our business to similar businesses whose securities are actively traded in public markets, or businesses that are involved in a public or private transaction. Prior transactions in our stock were also considered as part of the market approach methodology. We selected revenue valuation multiples derived from trading multiples of public companies that participate in the automotive OEM, automotive retail, automotive parts and battery technology industries. These valuation multiples were then applied to the equivalent financial metric of our business, giving consideration to differences between our company and similar companies for such factors as company size and growth prospects. 
+
+For those reports that relied on the fundamental analysis, we prepared a financial forecast to be used in the computation of the enterprise value for both the market approach and the income approach. The financial forecasts took into account our past experience and future expectations. The risks associated with achieving these forecasts were assessed in selecting the appropriate discount rate. As discussed below, there is inherent uncertainty in these estimates. Second, we allocated the resulting equity value among the securities that comprise our capital structure using the Option-Pricing Method. The aggregate value of the common stock derived from the Option-Pricing Method was then divided by the number of common shares outstanding to arrive at the per common share value. For those reports before our IPO that relied on the recent round of financing, we back-solved for the total equity value such that the value of the instrument sold in the recent round as calculated by the option pricing model was consistent with the observed transaction price. 
+
+&#160; 
+
+Our Board of Directors considered the valuations derived from the approaches above, the probability and timing of completing an IPO as of those dates, as well as other qualitative factors in arriving at our common stock valuations, including the following: 
+
+&#160;
+
+##TABLE_START &#160; &#149; &#160; significant operating losses since inception; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; macroeconomic uncertainty in 2008; 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; the absence of a significant IPO market throughout 2008 and continuing through the second quarter of 2009; and 
+
+##TABLE_END &#160;
+
+##TABLE_START &#160; &#149; &#160; other market developments that influence forecasted revenue. 
+
+##TABLE_END Our common stock valuations have required the significant use of estimates and assumptions. If different estimates and assumptions had been used, our common stock valuations could have been significantly different and related stock-based compensation expense may be materially impacted. 
+
+Warrants 
+
+We have accounted for our freestanding warrants to purchase shares of our convertible preferred stock as liabilities at fair value upon issuance. We have recorded the warrants as a liability because the underlying shares of convertible preferred stock are contingently redeemable and, therefore, may obligate us to transfer assets at some point in the future. The warrants are subject to re-measurement to fair value at each balance sheet date and any change in fair value is recognized as a component of other expense, net, on the consolidated statements of operations. 
+
+In January 2010, we issued a warrant to the DOE in connection with the closing of the DOE Loan Facility to purchase shares of our Series E convertible preferred stock at an exercise price of $2.51 per share. This convertible preferred stock warrant became a warrant to purchase shares of our common stock at an exercise price of $7.54 per share upon the closing of our IPO in July 2010. Beginning on December 15, 2018 and until December 14, 2022, the shares subject to purchase under the warrant will become exercisable in quarterly amounts depending on the average outstanding balance of the DOE Loan Facility during the prior quarter. The warrant may be exercised until December 15, 2023. If we prepay the DOE Loan Facility in part or in full, the total amount of shares exercisable under the warrant will be reduced. Since the number of shares of common stock ultimately issuable under the warrant will vary, this warrant will be carried at its estimated fair value with changes in its fair value reflected in other expense, net, until its expiration or vesting. Our ability to prepay the DOE Loan Facility and consequently, the number of shares ultimately issuable under the DOE warrant, was determined to represent an embedded derivative. This embedded derivative is inherently valued and accounted for as part of the warrant. 
+
+Since the number of shares ultimately issuable under the DOE warrants will vary depending on the average outstanding balance of the loan during the contractual vesting period, and decisions to prepay would be influenced by our future stock price as well as the interest rates on our loans in relation to market interest rates, we measured the fair value of the DOE warrant using a Monte Carlo simulation approach. The Monte Carlo approach simulates various scenarios and captures the optimal decisions to be made between prepaying the DOE loan and the cancellation of the DOE warrant over the expected term of the DOE Loan Facility of 13 years. For the purposes of the simulation, the optimal decision represents the scenario with the lowest economic cost to us. The total warrant value would then be calculated as the average warrant payoff across all simulated paths discounted to our valuation date. 
+
+The significant assumptions that we use in the valuation of the DOE warrant include similar assumptions used in the valuation of otherwise featureless stock warrants at various simulated stock prices, as well as the interest rate differential between the interest rates under our DOE Loan Facility and market interest rates for companies comparable to us. The estimated value of our stock warrant requires us to use a Black-Scholes 
+
+&#160; 
+
+option-pricing model, which incorporates several assumptions that are subject to significant management judgment as is the case for stock-based compensation discussed above. The differential between the interest rates under our DOE Loan Facility and market interest rates is derived from the credit spread data of several unrelated public companies within industries related to our business. As the average simulated value of our stock warrant increases relative to the credit spread of our comparator companies, the fair value of our DOE warrant decreases since the economic cost of prepaying our outstanding loans under the DOE Loan Facility and replacing the funds with market interest rate debt, would be lower than the economic cost associated with the dilution caused by the vesting of warrants. Similarly, as the credit spread of our comparator companies increases relative to the average simulated value of our stock warrant, the fair value of our DOE warrant increases since the economic cost associated with prepaying our outstanding loans under the DOE Loan Facility and replacing the funds with market interest rate debt is higher than the economic cost associated with the dilution caused by the vesting of warrants, and therefore, we would not prepay our outstanding DOE debt and we would allow a higher number of warrants to vest. Prior to completion of our IPO, the fair value of the DOE warrant was included within the convertible preferred stock warrant liability on the consolidated balance sheet. Upon the completion of our IPO on July 2, 2010, this warrant was reclassified on our consolidated balance sheet from convertible preferred stock warrant liability to common stock warrant liability. The DOE warrant will continue to be recorded at its estimated fair value with changes in the fair value reflected in other expense, net, as the number of common stock ultimately issuable under the warrant is variable until its expiration or vesting. The relative movements in our stock price as compared to the credit spread of our comparator companies will result in fair value changes being recorded in other expense, net, in future periods which may be significant. 
+
+Excluding the warrant issued to the DOE in January 2010, we have estimated the fair value of our convertible preferred stock warrants at the respective balance sheet dates using a Black-Scholes option-pricing model which used several assumptions that are subject to significant management judgment as is the case for stock-based compensation as discussed above. Upon the completion of our IPO in July 2010, these convertible preferred stock warrants outstanding as of June 30, 2010, were net exercised and the related convertible preferred stock warrant liability was settled. 
+
+Income Taxes 
+
+We record our provision for income taxes in our consolidated statements of operations by estimating our taxes in each of the jurisdictions in which we operate. We estimate our actual current tax exposure together with assessing temporary differences arising from differing treatment of items recognized for financial reporting versus tax return purposes. In general, deferred tax assets represent future tax benefits to be received when certain expenses previously recognized in our consolidated statements of operations become deductible expenses under applicable income tax laws, or loss or credit carryforwards are utilized. Valuation allowances are recorded when necessary to reduce deferred tax assets to the amount expected to be realized. 
+
+Significant management judgment is required in determining our provision for income taxes, our deferred tax assets and liabilities and any valuation allowance recorded against our net deferred tax assets. We make these estimates and judgments about our future taxable income that are based on assumptions that are consistent with our future plans. As of December 31, 2011, we had recorded a full valuation allowance on our net deferred tax assets because we expect that it is more likely than not that our deferred tax assets will not be realized in the foreseeable future. Should the actual amounts differ from our estimates, the amount of our valuation allowance could be materially impacted. 
+
+Furthermore, significant judgment is required in evaluating our tax positions. In the ordinary course of business, there are many transactions and calculations for which the ultimate tax settlement is uncertain. As a result, we recognize the effect of this uncertainty on our tax attributes based on our estimates of the eventual outcome. These effects are recognized when, despite our belief that our tax return positions are supportable, we believe that it is more likely than not that those positions may not be fully sustained upon review by tax authorities. We are required to file income tax returns in the United States and various foreign jurisdictions, 
+
+&#160; 
+
+which requires us to interpret the applicable tax laws and regulations in effect in such jurisdictions. Such returns are subject to audit by the various federal, state and foreign taxing authorities, who may disagree with respect to our tax positions. We believe that our accounting consideration is adequate for all open audit years based on our assessment of many factors, including past experience and interpretations of tax law. We review and update our estimates in light of changing facts and circumstances, such as the closing of a tax audit, the lapse of a statute of limitations or a material change in estimate. To the extent that the final tax outcome of these matters differs from our expectations, such differences may impact income tax expense in the period in which such determination is made. The eventual impact on our income tax expense depends in part if we still have a valuation allowance recorded against our deferred tax assets in the period that such determination is made. 
+
+Recent Accounting Pronouncements 
+
+In June 2011, the FASB issued an accounting standard update, which revises the manner in which companies present comprehensive income in their financial statements. The new guidance removes the presentation options and requires entities to report components of comprehensive income in either (1) a continuous statement of comprehensive income or (2) two separate but consecutive statements. In December 2011, the FASB further amended its guidance to defer changes related to the presentation of reclassification adjustments indefinitely. The guidance (other than the portion regarding the presentation of reclassification adjustments which, as noted above, has been deferred indefinitely) is effective for fiscal years, and interim periods within those years beginning after December 15, 2011. Early adoption is permitted. We anticipate adopting the guidance in fiscal 2012. We do not expect the adoption of the guidance to have a material impact on our consolidated financial statements. 
+
+In January 2010, the FASB issued updated guidance related to fair value measurements and disclosures which requires a reporting entity to disclose separately the amounts of significant transfers in and out of Level I and Level II fair value measurements and to describe the reasons for the transfers. In addition, in the reconciliation of fair value measurements using Level III inputs, a reporting entity will be required to disclose information about purchases, sales, issuances and settlements on a gross rather than on a net basis. The updated guidance will also require fair value disclosures for each class of assets and liabilities and disclosures about the valuation techniques and inputs used to measure fair value for both recurring and non-recurring Level II and Level III fair value measurements. The adoption of this updated guidance did not have a material impact on our consolidated financial statements. 
+
+&#160; 
+
+Results of Operations 
+
+The following table sets forth our consolidated statements of operations data for the periods presented (in thousands, except per share data): 
+
+&#160;
+
+##TABLE_START &#160; &#160; Year Ended December 31, &#160; &#160; &#160; 2011 &#160; &#160; 2010 &#160; &#160; 2009 &#160; Revenues 
+
+&#160; &#160; &#160; Automotive sales 
+
+&#160; $ 148,568 &#160; &#160; $ 97,078 &#160; &#160; $ 111,943 &#160; Development services 
+
+&#160; &#160; 55,674 &#160; &#160; &#160; 19,666 &#160; &#160; &#160; &#151; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Total revenues 
+
+&#160; &#160; 204,242 &#160; &#160; &#160; 116,744 &#160; &#160; &#160; 111,943 &#160; Cost of revenues 
+
+&#160; &#160; &#160; Automotive sales 
+
+&#160; &#160; 115,482 &#160; &#160; &#160; 79,982 &#160; &#160; &#160; 102,408 &#160; Development services 
+
+&#160; &#160; 27,165 &#160; &#160; &#160; 6,031 &#160; &#160; &#160; &#151; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Total cost of revenues 
+
+&#160; &#160; 142,647 &#160; &#160; &#160; 86,013 &#160; &#160; &#160; 102,408 &#160; Gross profit 
+
+&#160; &#160; 61,595 &#160; &#160; &#160; 30,731 &#160; &#160; &#160; 9,535 &#160; Operating expenses 
+
+&#160; &#160; &#160; Research and development (net of development compensation of $23,249 for the year ended December 31, 2009) 
+
+&#160; &#160; 208,981 &#160; &#160; &#160; 92,996 &#160; &#160; &#160; 19,282 &#160; Selling, general and administrative 
+
+&#160; &#160; 104,102 &#160; &#160; &#160; 84,573 &#160; &#160; &#160; 42,150 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Total operating expenses 
+
+&#160; &#160; 313,083 &#160; &#160; &#160; 177,569 &#160; &#160; &#160; 61,432 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Loss from operations 
+
+&#160; &#160; (251,488 ) &#160; &#160; (146,838 ) &#160; &#160; (51,897 ) Interest income 
+
+&#160; &#160; 255 &#160; &#160; &#160; 258 &#160; &#160; &#160; 159 &#160; Interest expense 
+
+&#160; &#160; (43 ) &#160; &#160; (992 ) &#160; &#160; (2,531 ) Other expense, net 
+
+&#160; &#160; (2,646 ) &#160; &#160; (6,583 ) &#160; &#160; (1,445 ) &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Loss before income taxes 
+
+&#160; &#160; (253,922 ) &#160; &#160; (154,155 ) &#160; &#160; (55,714 ) Provision for income taxes 
+
+&#160; &#160; 489 &#160; &#160; &#160; 173 &#160; &#160; &#160; 26 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Net loss 
+
+&#160; $ (254,411 ) &#160; $ (154,328 ) &#160; $ (55,740 ) &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; ##TABLE_END Revenues 
+
+Automotive Sales 
+
+Automotive sales, which include vehicle, options and related sales, and powertrain component and related sales, consisted of the following for the periods presented (in thousands): 
+
+&#160;
+
+##TABLE_START &#160; &#160; Year Ended December 31, &#160; &#160; &#160; 2011 &#160; &#160; 2010 &#160; &#160; 2009 &#160; Vehicle, options and related sales 
+
+&#160; $ 101,708 &#160; &#160; $ 75,459 &#160; &#160; $ 111,555 &#160; Powertrain component and related sales 
+
+&#160; &#160; 46,860 &#160; &#160; &#160; 21,619 &#160; &#160; &#160; 388 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Total automotive sales 
+
+&#160; $ 148,568 &#160; &#160; $ 97,078 &#160; &#160; $ 111,943 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; ##TABLE_END Automotive sales for the year ended December 31, 2011 were $148.6 million, an increase from $97.1 million for the year ended December 31, 2010. Vehicle, options and related sales represent sales of the Tesla Roadster, including vehicle options, accessories and destination charges, vehicle service and sales of zero emission vehicle credits. Powertrain component and related sales represent the sales of electric vehicle powertrain components, such as battery packs and battery chargers, to other manufacturers. 
+
+Vehicle, options and related sales for the year ended December 31, 2011 were $101.7 million, an increase from $75.5 million for the year ended December 31, 2010. The increase in vehicle, options and related sales was primarily attributable to an increase in the number of Tesla Roadsters that we sold, particularly in North America 
+
+&#160; 
+
+and Asia, coupled with slightly higher average selling prices. Under our supply agreement with Lotus, we have built 2,500 Roadster gliders. We plan to sell our remaining Tesla Roadsters primarily in Europe and Asia during 2012 until our inventory is depleted. 
+
+In February 2010, we began offering a leasing program to qualified customers in the United States for the Tesla Roadster. Through our wholly owned subsidiary, qualifying customers are permitted to lease the Tesla Roadster for 36 months, after which time they have the option of either returning the vehicle to us or purchasing it for a pre-determined residual value. We account for these leasing transactions as operating leases and accordingly, we recognize leasing revenues on a straight-line basis over the term of the individual leases. Lease revenues are recorded in vehicle, options and related sales within automotive sales revenue and for the years ended December 31, 2011 and 2010, we recognized $3.0 million and $0.8 million, respectively. During the years ended December 31, 2011 and 2010, approximately 6% and 14% of the vehicles delivered during those years were under operating leases. As of December 31, 2011 and 2010, we had deferred revenues of $0.8 million and $1.1 million of down payments which will be recognized over the term of the individual leases, respectively. 
+
+Powertrain component and related sales for the year ended December 31, 2011 were $46.9 million, an increase from $21.6 million for the year ended December 31, 2010. The increase in powertrain component and related sales was primarily due to significant shipments of battery packs and chargers to Daimler. We began delivering battery packs and chargers for the Daimler Smart fortwo EV program at the end of 2009, and for the Daimler A-Class EV program late in the fourth quarter of 2010. Production for both the Smart fortwo and A-Class EV programs was completed as of December 31, 2011. 
+
+Automotive sales for the year ended December 31, 2010 were $97.1 million, a decrease from $111.9 million for the year ended December 31, 2009. Vehicle, options and related sales for the year ended December 31, 2010 were $75.5 million, a decrease from $111.5 million for the year ended December 31, 2009. 
+
+During the first three quarters of 2009, we continued to fulfill reservations for the Tesla Roadster and we had made a significant effort to increase our production capacity in order to accelerate deliveries to customers who had been on our waitlist for a significant amount of time. As a result, a significant portion of the revenue recognized during the first three quarters of 2009 came from fulfilling reservations placed prior to 2009. Beginning with the fourth quarter of 2009, sales of the Tesla Roadster began more closely approximating the level of orders placed during the quarter. Consequently, the comparison of revenue for the year ended December 31, 2010 versus the year ended December 31, 2009 may not be meaningful. Similarly, ZEV credit sales which are included in vehicle, options and related sales, were higher during the year ended December 31, 2009 as the fulfillment of a significant number of reservations allowed us to sell a larger number of ZEV credits. The year over year decrease in vehicle deliveries was partially offset by higher selling prices from an expanded offering of vehicle options to our customers as well as higher average selling prices outside of the United States. 
+
+Powertrain component and related sales for the year ended December 31, 2010 were $21.6 million, compared to $0.4 million for the year ended December 31, 2009. During the year ended December 31, 2009, we were selected by Daimler to supply it with battery packs and chargers to support a trial of the Smart fortwo EV program in a least five European cities. We began delivering and recognizing revenue for these production battery packs and chargers at the end of 2009. 
+
+Prior to 2010, most of our revenues had been generated through sales of our vehicles in the United States and we had no revenues from sales outside of the United States prior to the third quarter of 2009. Our international sales commenced with the launch of the Tesla Roadster in Europe in July 2009 and since then, we have recognized revenue from sales of the Tesla Roadster in additional countries including Canada, Japan and Hong Kong. For the years ended December 31, 2011, 2010 and 2009, 49%, 55% and 19% of our revenue from vehicle, options and related sales, respectively, were derived outside of the United States. For the same periods, all of our powertrain component and related sales were derived outside of the United States. 
+
+&#160; 
+
+Development Services 
+
+Development services represent arrangements where we develop electric vehicle powertrain components for other automobile manufacturers, including the design and development of battery packs and chargers to meet customer&#146;s specifications. 
+
+Development services revenue for the year ended December 31, 2011 was $55.7 million, an increase from $19.7 million for the year ended December 31, 2010. Beginning in the first quarter of 2010, we started entering into development services arrangements with the expectation that our development services would constitute a viable revenue-generating activity. We began recognizing development services revenue during the first quarter of 2010 with the development and delivery of modular battery packs for Freightliner Custom Chassis Corporation (Freightliner), an affiliate of Daimler. These battery packs were to be used in electric delivery vans in a limited number of Freightliner&#146;s customer trials. Prior to 2010, compensation that we had received from our first development arrangement with Daimler for battery packs and chargers for its Smart fortwo EV program, was recorded as an offset to research and development expenses. This early arrangement was motivated primarily by the opportunity to engage Daimler and at the same time, jointly progress our own research and development activities with the associated development compensation. 
+
+During the first quarter of 2010, Daimler also engaged us to assist with the development and production of a battery pack and charger for a pilot fleet of its A-Class electric vehicles to be introduced in Europe during 2011. We began providing development services for this program during the first quarter of 2010 and had received an aggregate of $5.5 million in payments; however, as we had not executed a final agreement related to this program as of March 31, 2010, we deferred the $5.5 million of payments that had been received from Daimler to that point. In May 2010, we executed a final agreement under which Daimler would make additional payments to us for the successful completion of certain development milestones and the delivery of prototype samples. As of December 31, 2010, we had completed our deliverables under this agreement and for the year ended December 31, 2010, we recognized $14.4 million in development services revenue. 
+
+In July 2010, we entered into an agreement with Toyota to initiate development of an electric powertrain for the Toyota RAV4 EV. Under this Phase 0 development agreement, prototypes would be made by us by combining the Toyota RAV4 model with a Tesla electric powertrain. Through June 30, 2011, we had completed all prototype vehicles under the Phase 0 agreement and for the years ended December 31, 2011 and 2010, we recognized $7.6 million and $1.3 million in development service revenue, respectively. 
+
+In October 2010, we also entered into a Phase 1 contract services agreement with Toyota for the development of a validated powertrain system, including a battery pack, power electronics module, motor, gearbox and associated software, which will be integrated into an electric vehicle version of the Toyota RAV4. Pursuant to this agreement, Toyota would pay us up to $60.0 million for the anticipated development services to be provided by us over the expected term of our performance, including a $5.0 million upfront payment that we received upon the execution of the agreement. During the year ended December 31, 2011 and 2010, we completed various milestones and delivered samples under the Phase 1 agreement. Including the amortization of our upfront payment, for the years ended December 31, 2011 and 2010, we recognized $47.4 million and $3.3 million in development services revenue, respectively, under the Phase 1 agreement. We expect that the Phase 1 agreement, and the associated development services revenues, will be completed by early 2012. 
+
+We intend to grow our development services revenue over time by establishing additional commercial arrangements with other automobile manufacturers and by looking for new development opportunities with existing strategic partners. 
+
+Additionally, we expect our development services revenue may fluctuate in future periods based on the timing of our delivery of milestones and samples, as well as the timing of meeting revenue recognition criteria. 
+
+&#160; 
+
+Cost of Revenues and Gross Profit 
+
+Cost of revenues includes cost of automotive sales and costs related to our development services. Cost of revenues for the year ended December 31, 2011 was $142.6 million, an increase from $86.0 million for the year ended December 31, 2010. The increase in cost of automotive sales for the year ended December 31, 2011 was driven primarily by an increase in the number of vehicles that we sold and the increased shipments of battery packs and chargers to Daimler. We began delivering battery packs and chargers for the Daimler Smart fortwo EV program at the end of 2009 and for the Daimler A-Class EV program at the end of 2010. Cost of development services includes engineering support and testing, direct parts, material and labor costs, manufacturing overhead, including amortized tooling costs, shipping and logistic costs and other development expenses that we incur in the performance of our services under development agreements. The increase in cost of development services was driven primarily by our activities for the Toyota RAV4 EV program which began in the second half of 2010. 
+
+Gross profit for the year ended December 31, 2011 was $61.6 million, an increase from $30.7 million for the year ended December 31, 2010. The increase was driven primarily by higher sales of the Tesla Roadster coupled with higher average selling prices and ongoing cost improvement program on the Roadster, increased shipments of battery packs and chargers to Daimler, as well as gross profit from our development services activities which we expanded in the latter half of 2010 with the Toyota RAV4 EV program. 
+
+Cost of revenues for the year ended December 31, 2010 was $86.0 million, a decrease from $102.4 million for the year ended December 31, 2009. The decrease in cost of revenues was driven primarily by the significant number of vehicles delivered during the first three quarters of 2009 from fulfilling customer reservations placed prior to 2009. The decrease in cost of revenues from automotive sales for the year ended December 31, 2010 was partially offset by the increase in cost of revenues from our development services activities. 
+
+Cost of development services includes engineering support and testing, direct parts, material and labor costs, manufacturing overhead, including amortized tooling costs, shipping and logistic costs and other development expenses that we incur in the performance of our services under development agreements. During the quarter ended March 31, 2010, Daimler engaged us to assist with the development and production of a battery pack and charger for a pilot fleet of its A-Class electric vehicles to be introduced in Europe during 2011. As of March 31, 2010, a development agreement had yet to be finalized and as such, the related development services costs of $0.5 million that we incurred during the quarter ended March 31, 2010 were expensed in research and development. In May 2010, we finalized the agreement and began recording the costs related to this program in cost of revenues. 
+
+Gross profit for the year ended December 31, 2010 was $30.7 million, an increase from $9.5 million for the year ended December 31, 2009. The increase was driven primarily by the gross profit contributed by our development services revenues which we began to recognize in 2010; an expanded offering of vehicle options to our customers; the continued launch of the Tesla Roadster internationally, where in certain markets, we have experienced higher selling prices; and cost improvements associated with the model changeover from the Tesla Roadster to the Tesla Roadster 2 during the second half of 2009. Gross profit for the year ended December 31, 2010 was also favorably impacted by the fact that certain of the A-Class development services revenue that we recognized during the year ended December 31, 2010 did not have any corresponding cost of revenues, since these costs were recorded in research and development expenses prior to us finalizing the development agreement in May 2010. 
+
+We expect our development services revenue may fluctuate in future periods based on the timing of cash receipts as compared to the timing of meeting revenue recognition criteria. This may cause our gross profit and gross margin to be similarly impacted. 
+
+Research and Development Expenses 
+
+Research and development expenses consist primarily of personnel costs for our teams in engineering and research, supply chain, quality, manufacturing engineering and manufacturing test organizations, prototyping 
+
+&#160; 
+
+expense, contract and professional services and amortized equipment expense. Overhead costs related to the Tesla Factory prior to the start of production of Model S are also included in research and development expenses. Also included in research and development expenses are development services costs that we incur, if any, prior to the finalization of agreements with our development services customers as reaching a final agreement and revenue recognition is not assured. Development services costs incurred after the finalization of an agreement are recorded in cost of revenues. 
+
+Research and development expenses for the year ended December 31, 2011 were $209.0 million, an increase from $93.0 million for the year ended December 31, 2010. The $116.0 million increase in research and development expenses during the year ended December 31, 2011 consisted primarily of a $38.1 million increase in materials and prototyping expenses primarily to support our Model S alpha and beta builds, overhead costs related to the Tesla Factory, powertrain development activities, a $30.9 million increase in costs related to Model S and Model X engineering, design and testing activities incurred by our suppliers, a $30.4 million increase in employee compensation expenses from higher headcount, a $9.7 million increase in stock-based compensation expense related to a larger number of outstanding equity awards and generally an increasing common stock valuation applied to new grants, and a $7.0 million increase in office, information technology and facilities-related costs to support the growth of our business. 
+
+Research and development expenses for the year ended December 31, 2010 were $93.0 million, an increase from $19.3 million for the year ended December 31, 2009. Research and development expenses during the year ended December 31, 2009 included $23.2 million in Daimler Smart fortwo EV development compensation which was recorded as an offset to research and development expenses. The $73.7 million increase in research and development expenses during the year ended December 31, 2010 consisted primarily of a $25.0 million increase in employee cash and stock-based compensation expenses primarily associated with significantly higher headcount to support our Model S and powertrain development activities, the $23.2 million Daimler development compensation offset recognized during the year ended December 31, 2009, a $10.5 million increase in materials and prototyping expenses primarily to support our Model S alpha build as well as powertrain development activities, a $10.7 million increase in professional and outside services costs related to Model S engineering, design and testing activities, and a $1.6 million increase in office, information technology and facilities-related costs to support the growth of our business, including our transition to our Palo Alto headquarters. 
+
+During the first quarter of 2010, Daimler engaged us to assist with the development and production of a battery pack and charger for a pilot fleet of its A-Class electric vehicles to be introduced in Europe during 2011. As of March 31, 2010, a development agreement had yet to be finalized and as such, the related development services costs of $0.5 million that we incurred during the quarter ended March 31, 2010 were expensed in research and development. In May 2010, we finalized the agreement and began recording the costs associated with this program in cost of revenues. 
+
+We have significantly increased our research and development efforts for Model S, which has resulted in an increase in our research and development expenses. We anticipate that our research and development expenses will rise moderately as we incur additional costs to further develop Model S, to develop Model X and to operate our Tesla Factory in Fremont, California prior to the start of Model S production. 
+
+Selling, General and Administrative Expenses 
+
+Selling, general and administrative expenses consist primarily of personnel and facilities costs related to our Tesla stores, marketing, sales, executive, finance, human resources, information technology and legal organizations, as well as litigation settlements and fees for professional and contract services. 
+
+Selling, general and administrative expenses for the year ended December 31, 2011 were $104.1 million, an increase from $84.6 million for the year ended December 31, 2010. The $19.5 million increase in our selling, general and administrative expenses during the year ended December 31, 2011 consisted primarily of a 
+
+&#160; 
+
+$12.3 million increase in employee compensation expenses related to higher sales and marketing headcount to support sales activities worldwide and higher general and administrative headcount to support the expansion of the business, a $4.1 million increase in office, information technology and facilities-related costs to support the growth of our business, a $2.4 million increase in professional and outside services costs, and a $1.7 million increase in costs principally related to our Tesla store and gallery openings. The increase is also attributable to a $1.0 million increase in stock-based compensation expense related to a larger number of outstanding equity awards and generally an increasing common stock valuation applied to new grants. The increase for the year ended December 31, 2011 was partially offset by an additional stock-based compensation charge of $2.4 million recognized during the year ended December 31, 2010, which reflected a correction of stock-based compensation expense that should have been recorded during the year ended December 31, 2009. 
+
+Selling, general and administrative expenses for the year ended December 31, 2010 were $84.6 million, an increase from $42.2 million for the year ended December 31, 2009. The $42.4 million increase in our selling, general and administrative expenses during the year ended December 31, 2010 consisted primarily of a $15.8 million increase in stock-based compensation expense related to a larger number of outstanding equity awards, expense related to performance-based awards, an increasing common stock valuation applied to new grants made in 2010, and an additional stock-based compensation charge of $2.4 million which reflected a correction of stock-based compensation expense that should have been recorded during the year ended December 31, 2009; a $13.4 million increase in employee cash compensation expenses related to higher sales and marketing headcount to support a larger number of stores in the United States and Europe and higher general and administrative headcount to support the expansion of the business; a $7.1 million increase in office, information technology and facilities-related costs to support the growth of our business, including the opening of new stores and service locations and our transition to our Palo Alto headquarters; a $3.2 million increase in travel and expenses related to our sales and marketing activities; and a $1.0 million increase in professional services costs related to ongoing trademark and patent work, recruiting, as well as general corporate development activities. 
+
+We expect selling, general and administrative expenses to increase in future periods as we continue to grow and expand our operations, increase our sales and marketing activities to handle our expanding market presence and prepare for the planned Model S commercial launch by July 2012, and as we support the requirements of being a public company. We plan to open additional stores and service centers during 2012, mostly in the United States, and some of these stores will replace existing stores, which we may continue to use as service locations. 
+
+Interest Expense 
+
+Our interest expense is primarily due to our loans under the DOE Loan Facility which we began accessing in 2010. Although interest expense will increase as we continue to draw down on the DOE Loan Facility to fund our Model S and powertrain activities, we expect to capitalize this interest to construction in progress until the start of Model S production. During the years ended December 31, 2011 and 2010, we capitalized $5.1 million and $0.8 million, respectively, of interest expense to construction in progress. 
+
+Interest expense for the year ended December 31, 2010 was $1.0 million, a decrease from $2.5 million for the year ended December 31, 2009. Interest expense during the year ended December 31, 2009 was primarily related to our convertible notes which were converted into shares of our Series E convertible preferred stock in May 2009, while interest expense during the year ended December 31, 2010 was primarily due to our loans under the DOE Loan Facility which we began accessing in 2010. 
+
+Other Expense, Net 
+
+Other expense, net consists primarily of the change in the fair value of our warrant liabilities and transaction gains and losses on our foreign currency-denominated assets and liabilities. We expect our transaction gains and losses will vary depending upon movements in the underlying exchange rates. Income or charges resulting from 
+
+&#160; 
+
+the change in the fair value of our convertible preferred stock warrant liability, excluding the DOE warrant liability, was eliminated after July 2, 2010, as these warrants were net exercised at the completion of our IPO. The DOE convertible preferred stock warrant which we issued in January 2010, became a common stock warrant on July 2, 2010 and is carried at its estimated fair value with changes in its fair value continuing to be reflected in other expense, net, until its expiration or vesting. 
+
+Other expense, net, for the year ended December 31, 2011 was $2.6 million, a decrease from other expense, net, of $6.6 million for the year ended December 31, 2010. The decrease in expense for the year ended December 31, 2011 was primarily due to the elimination of warrant liabilities, excluding the DOE warrant liability, upon the completion of our IPO in July 2010. 
+
+Other expense, net, for the year ended December 31, 2010 was $6.6 million, an increase in expense compared to other expense, net, of $1.4 million for the year ended December 31, 2009. The increase in expense for the year ended December 31, 2010 was primarily due to the fair value changes in our warrant liabilities as well as the liability related to common stock warrants to certain of our stockholders which we issued in May 2010, both of which increased significantly in conjunction with the increase in our common stock valuation. 
+
+Provision for Income Taxes 
+
+Our provision for income taxes for the year ended December 31, 2011 was $0.5 million, an increase from $0.2 million for the year ended December 31, 2010. The increase was due primarily to the increase in taxable income in our international jurisdictions. 
+
+Our provision for income taxes for the year ended December 31, 2010 was $0.2 million, an increase from $26,000 for the year ended December 31, 2009. The increase was due primarily to the launch of the Tesla Roadster in Europe in July 2009 and the ensuing increase in taxable income in our international jurisdictions. 
+
+Liquidity and Capital Resources 
+
+Since inception and through the year ended December 31, 2011, we had accumulated net operating losses of $669.4 million and have used $445.0 million of cash in operations. As of December 31, 2011, we had $492.7 million in principal sources of liquidity available from our cash and cash equivalents, short-term marketable securities, cash held in our dedicated DOE account and the remaining amounts available under the DOE Loan Facility. This includes our cash and cash equivalents in the amount of $255.3 million which included investments in money market funds, our short-term marketable securities in the amount of $25.1 million, cash of $23.5 million deposited in a dedicated DOE account in accordance with the requirements of our DOE Loan Facility, and approximately $188.8 million available under the DOE Loan Facility, which is primarily intended to cover spending related to the development of Model S and our powertrain activities. Other sources of cash also include cash from the sales of the Tesla Roadster, cash from the provision of development services, sales of powertrain components and refundable reservation payments for our Model S. 
+
+We expect that our current sources of liquidity, including cash, cash equivalents, short-term marketable securities, cash held in our dedicated DOE account and the remaining amounts available under the DOE Loan Facility, together with our anticipated cash from operating activities will provide us adequate liquidity until we reach profitability in 2013. This capital will fund our ongoing operations, continue research and development projects, establish sales and service centers, improve infrastructure such as expanded battery pack assembly facilities, and to make the investments in tooling and manufacturing capital required to introduce Model S and to continue development of Model X. The acceleration of the development of future vehicles, investments in new technologies, increased in-sourcing of manufacturing capabilities, investments to expand our powertrain activities or further expand our sales and service network, may require us to raise additional funds through the issuance of equity, equity-related or debt securities or through obtaining credit. We may also choose to opportunistically raise additional funds if market conditions are favorable. We cannot be certain that additional funds will be available to us on favorable terms when required, or at all. 
+
+&#160; 
+
+DOE Loan Facility 
+
+On January 20, 2010, we entered into a loan facility with the Federal Financing Bank (FFB), and the DOE, pursuant to the Advanced Technology Vehicles Manufacturing (ATVM) Incentive Program (such loan facility, including amendments thereto, the DOE Loan Facility). Under the DOE Loan Facility, the FFB has made available to us two multi-draw term loan facilities in an aggregate principal amount of up to $465.0 million. Up to an aggregate principal amount of $101.2 million will be made available under the first term loan facility to finance up to 80% of the costs eligible for funding for the powertrain engineering and the build out of a facility to design and manufacture lithium-ion battery packs, electric motors and electric components (the Powertrain facility). Up to an aggregate principal amount of $363.9 million will be made available under the second term loan facility to finance up to 80% of the costs eligible for funding for the development of, and to build out the manufacturing facility for, our Model S sedan (the Model S facility). Under the DOE Loan Facility, we are responsible for the remaining 20% of the costs eligible for funding under the ATVM Program for the projects as well as any cost overruns for each project. 
+
+Our DOE Loan Facility draw-downs were as follows (in thousands): 
+
+&#160;
+
+##TABLE_START &#160; &#160; Loan Facility Available for Future Draw-downs &#160; &#160; Interest rates &#160; Beginning Balance, January 20, 2010 
+
+&#160; $ 465,048 &#160; &#160; &#160; &#160; Draw-downs received during the three months ended March 31, 2010 
+
+&#160; &#160; (29,920 ) &#160; &#160; 2.9% - 3.4 % Draw-downs received during the three months ended June 30, 2010 
+
+&#160; &#160; (15,499 ) &#160; &#160; 2.5% - 3.4 % Draw-downs received during the three months ended September 30, 2010 
+
+&#160; &#160; (11,138 ) &#160; &#160; 1.7% - 2.6 % Draw-downs received during the three months ended December 31, 2010 
+
+&#160; &#160; (15,271 ) &#160; &#160; 1.7% - 2.8 % &#160; &#160;
+
+&#160;
+
+&#160; &#160; Remaining Balance, December 31, 2010 
+
+&#160; &#160; 393,220 &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; Draw-downs received during the three months ended March 31, 2011 
+
+&#160; &#160; (30,656 ) &#160; &#160; 2.1% - 3.0 % Draw-downs received during the three months ended June 30, 2011 
+
+&#160; &#160; (31,693 ) &#160; &#160; 1.8% - 2.7 % Draw-downs received during the three months ended September 30, 2011 
+
+&#160; &#160; (90,822 ) &#160; &#160; 1.0% - 1.4 % Draw-downs received during the three months ended December 31, 2011 
+
+&#160; &#160; (51,252 ) &#160; &#160; 1.0% - 1.5 % &#160; &#160;
+
+&#160;
+
+&#160; &#160; Remaining Balance, December 31, 2011 
+
+&#160; $ 188,797 &#160; &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; ##TABLE_END In February 2012, we received additional loans under the DOE Loan Facility of $14.4 million at interest rates ranging from 0.9% to 1.4%. 
+
+We have agreed that, in connection with the sale of our stock in any follow-on equity offering, at least 50% of the net offering proceeds will be received by us. Offering proceeds may not be used to pay bonuses or other compensation to officers, directors, employees or consultants in excess of the amounts contemplated by our business plan approved by the DOE. 
+
+Upon completion of our IPO in 2010, we set aside $100 million to fund a separate dedicated account under our DOE Loan Facility. This dedicated account is used by us to fund any cost overruns for our powertrain and Tesla Factory projects and is used as a mechanism to defer advances under the DOE Loan Facility. This will not affect our ability to draw down the full amount of the DOE loans, but will require us to use the dedicated account 
+
+&#160; 
+
+to fund certain project costs upfront, which costs may then be reimbursed by loans under the DOE Loan Facility once the dedicated account is depleted, or as part of the final advance for the applicable project. We will be then required to deposit a portion of these reimbursements into the dedicated account, in an amount equal to up to 30% of the remaining project costs for the applicable project, and these amounts may similarly be used by us to fund project costs and cost overruns and will similarly be eligible for reimbursement by the draw-down of additional loans under the DOE Loan Facility once used in full, or as part of the final advance for the applicable project. Depending on the timing and magnitude of our draw-downs and the funding requirements of the dedicated account, the balance of the dedicated account will fluctuate throughout the period in which we plan to make draw-downs under the DOE Loan Facility. Upon completion of our final advance under the DOE Loan Facility, the balance in the dedicated account will be fully transferred out of the dedicated account. As of December 31, 2011 and 2010, $23.5 million and $73.6 million were held in the dedicated account, respectively. 
+
+For more information on the DOE Loan Facility, see Note 9 to our Consolidated Financial Statements included in this Annual Report on Form 10-K under Item 8. Financial Statements and Supplementary Data. 
+
+Initial Public Offering and Toyota Concurrent Private Placement 
+
+On June 28, 2010, our registration statement on Form S-1 relating to our IPO was declared effective by the SEC. The IPO closed on July 2, 2010, at which time we sold 11,880,600 shares of our common stock and received cash proceeds of $188.8 million from this transaction, net of underwriting discounts and commissions. Additionally, we incurred offering costs of $4.4 million related to the IPO. 
+
+Concurrent with the closing of our IPO, we sold 2,941,176 shares of our common stock to Toyota in a private placement transaction for aggregate proceeds of $50.0 million. 
+
+Panasonic Private Placement 
+
+In November 2010, we entered into a common stock purchase agreement with an entity affiliated with Panasonic Corporation (Panasonic) pursuant to which we issued and sold an aggregate of 1,418,573 shares of our common stock for aggregate proceeds of $30.0 million. 
+
+Follow-on Offering and Concurrent Private Placements 
+
+In June 2011, we completed a follow-on offering of common stock in which we sold a total of 6,095,000 shares of our common stock and received cash proceeds of $172.7 million from this transaction, net of underwriting discounts. 
+
+Concurrent with our follow-on offering, we also sold 1,416,000 shares of our common stock to Elon Musk, our Chief Executive Officer and cofounder, and 637,475 shares of our common stock to Blackstar Investco LLC, an affiliate of Daimler and received total cash proceeds of $59.1 million in the private placements. No underwriting discounts or commissions were paid in connection with these private placements. 
+
+Leasing Activities 
+
+In February 2010, we began offering a leasing program to qualified customers in the United States for the Tesla Roadster. Through our wholly owned subsidiary, qualifying customers are permitted to lease the Tesla Roadster for 36 months, after which time they have the option of either returning the vehicle to us or purchasing it for a pre-determined residual value. 
+
+When compared to our sales of vehicles, our leasing activities will spread the cash inflows that we would otherwise receive upon the sale of a vehicle, over the lease term and final disposition of the leased vehicle. As such, our cash and working capital requirements will be directly impacted and if leasing volume increases significantly, the impact may be material. However, after taking into consideration our current and planned sources of operating cash, our ability to monitor and prospectively adjust our leasing activity, as well as our intent to collect nonrefundable deposits for leased vehicles that are manufactured to specification, we do not believe that our leasing operations materially adversely impact our ability to meet our commitments and obligations as they become due. As we will also be exposed to credit risk related to the timely collection of lease payments from our customers, we intend to utilize our credit approval and ongoing review processes in order to 
+
+&#160; 
+
+minimize any credit losses that could occur and which could adversely affect our financial condition and results of operations. We require deposits from customers electing a lease option for vehicles built to a customer&#146;s specifications on the same timeframe and under the same circumstances as from customers purchasing our vehicles outright. During the years ended December 31, 2011 and 2010, approximately 6% and 14% of the vehicles delivered during these periods were under operating leases. As of December 31, 2011 and 2010, we had deferred revenues of $0.8 million and $1.1 million of down payments which will be recognized over the term of the individual leases. Through December 31, 2011, our leasing activity has not had a significant adverse impact on our liquidity. 
+
+Reservation Payments 
+
+A source of our cash flows from operations has been through our receipt of reservation payments from our customers. Reservation payments consist of reservation payments that allow potential customers to hold a reservation for the future purchase of a Tesla Roadster, Model S or Model X. For our Tesla Roadsters manufactured to specification, our current purchase agreement requires the payment of an initial nonrefundable deposit which varies based on the country of purchase. For Model S and Model X, we require an initial refundable reservation payment of at least $5,000. For Tesla Roadsters purchased directly from our showrooms, no deposit is required. Prior to the second quarter of 2010, our reservation policy was to accept reservation payments from all customers who wished to purchase a Tesla Roadster and require full payment of the purchase price of the vehicle at the time the customer selected their vehicle specifications. During the second quarter of 2010, we changed our policy to require nonrefundable deposits for Tesla Roadsters manufactured to specification at the time a customer enters into a purchase agreement. However, we also occasionally accept reservation payments for the Tesla Roadster if a customer is interested in purchasing a vehicle but not yet prepared to select the vehicle specifications. For customers who have placed a reservation payment with us, the reservation payment becomes a nonrefundable deposit once the customer has selected the vehicle specifications and enters into a purchase agreement. The full payment of the purchase price of the vehicle is required only upon delivery of the vehicle to the customer. Reservation payments for a vehicle are recorded as a current liability when received. No later than upon the delivery of a vehicle, the reservation payments collected on a customer&#146;s account are applied against the total purchase price of the vehicle. 
+
+Summary of Cash Flows 
+
+&#160;
+
+##TABLE_START &#160; &#160; Year Ended December 31, &#160; &#160; &#160; 2011 &#160; &#160; 2010 &#160; &#160; 2009 &#160; Net cash used in operating activities 
+
+&#160; $ (114,364 ) &#160; $ (127,817 ) &#160; $ (80,825 ) Net cash used in investing activities 
+
+&#160; &#160; (175,928 ) &#160; &#160; (180,297 ) &#160; &#160; (14,244 ) Net cash provided by financing activities 
+
+&#160; &#160; 446,000 &#160; &#160; &#160; 338,045 &#160; &#160; &#160; 155,419 &#160; ##TABLE_END Cash Flows from Operating Activities 
+
+We continue to experience negative cash flows from operations as we expand our business and build our infrastructure both in the United States and internationally. Our cash flows from operating activities are significantly affected by our cash investments to support the growth of our business in areas such as research and development and selling, general and administrative. Our operating cash flows are also affected by our working capital needs to support growth and fluctuations in inventory, personnel related expenditures, accounts payable and other current assets and liabilities. 
+
+Net cash used in operating activities was $114.4 million for the year ended December 31, 2011. The largest component of our cash used during this period related to our net loss of $254.4 million, which included non-cash charges of $29.4 million related to stock-based compensation expense, $16.9 million related to depreciation and amortization and $2.8 million related to the fair value change in our warrant liability. Significant operating cash outflows were primarily related to $313.1 million of operating expenses, $142.6 million of cost of revenues and a $13.6 million increase in inventory and operating lease vehicles, partially offset by a $44.2 million increase in 
+
+&#160; 
+
+accounts payable and accrued liabilities, and a $2.6 million increase in other long-term liabilities. Inventory increased to meet our production requirements for the Tesla Roadster as we planned for the final production of the Tesla Roadster and powertrain component sales as well as leasing activities. The increase in accounts payable and accrued liabilities was due to both the growth of our business and the timing of vendor payments. 
+
+Significant operating cash inflows during the year ended December 31, 2011 were comprised primarily of automotive sales of $148.6 million, $55.7 million of development services revenue and a $61.0 million net increase in reservation payments, partially offset by a $2.8 million increase in accounts receivable and a $1.9 million decrease in deferred revenue. The increase in accounts receivable was related primarily to receivables from Toyota for shipments of powertrain components under the Toyota RAV4 EV Phase 1 contract services agreement and shipments of battery packs and chargers to Daimler under the Daimler Smart fortwo and A-Class EV programs. 
+
+Net cash used in operating activities was $127.8 million during the year ended December 31, 2010. The largest component of our cash used during this period related to our net loss of $154.3 million, which included non-cash charges of $21.2 million related to stock-based compensation expense, $10.6 million related to depreciation and amortization and $5.0 million related to the fair value change in our warrant liabilities. Significant operating cash outflows were primarily related to $177.6 million of operating expenses, $86.0 million of cost of revenues, a $28.5 million increase in inventory and operating lease vehicles, and a $5.0 million increase in prepaid expenses and other current assets, partially offset by a $13.3 million increase in accrued liabilities and a $3.5 million increase in other long-term liabilities. Inventory increased to meet our production requirements for the Tesla Roadster and powertrain component sales while the increase in prepaid expenses and other current assets and accrued liabilities was due to both the growth of our business, as well as our increased manufacturing and Model S development activities. Operating lease vehicles increased with the introduction of our leasing program in 2010. Other long-term liabilities increased as a result of higher warranty liability from sales of the Tesla Roadster. 
+
+Significant operating cash inflows during the year ended December 31, 2010 were derived primarily from automotive sales of $97.1 million, $19.7 million of development services revenue, a $4.8 million increase in deferred revenues and a $4.7 million increase in reservation payments, partially offset by a $3.2 million increase in accounts receivable. In October 2010, we entered into a Phase 1 contract services agreement with Toyota for the development of a validated powertrain system, including a battery pack, power electronics module, motor, gearbox and associated software, to be integrated into an electric vehicle version of the Toyota RAV4. Upon execution of the agreement, we received a $5.0 million upfront payment for which revenue is being recognized over the expected term of our performance. Deferred revenues also increased from our vehicle leasing activities as lease down-payments are recognized over the term of the operating leases. The increase in accounts receivable was related primarily to powertrain component sales in relation to Daimler&#146;s Smart fortwo EV program as well as $2.3 million receivable from Toyota for the achievement of the first milestone under the Phase 1 contract services agreement. During the year ended December 31, 2010, we received $10.4 million of net new reservation payments for Model S while reservation payments for the Tesla Roadster decreased by $5.7 million. 
+
+Net cash used in operating activities was $80.8 million during the year ended December 31, 2009. The largest component of our cash used during this year was the $55.7 million net loss, which included non-cash charges of $6.9 million related to depreciation and amortization, $2.7 million related to interest on convertible notes and $1.4 million related to inventory write-downs, as well as a non-cash gain of $1.5 million from the extinguishment of convertible notes and warrants. Significant operating cash outflows were primarily related to $102.4 million of cost of revenues, $61.4 million of operating expenses, a $7.9 million increase in inventory and a $2.0 million increase in our prepaid expenses and other current assets, partially offset by a $3.4 million increase in accrued liabilities and a $0.9 million increase in accounts payable. Inventory increased to meet our production requirements while the increase in prepaid expenses and other current assets reflect a higher level of annual operating costs such as insurance, licenses and taxes from the growth of the business. The increases in accrued liabilities and accounts payable were also primarily due to the growth in our business. 
+
+&#160; 
+
+Significant operating cash inflows during the year ended December 31, 2009 were derived primarily from the sales of the Tesla Roadster as well as development compensation related to the Daimler development agreement. Cash inflows related to automotive sales activity were $88.5 million comprised of $111.9 million of automotive sales, partially offset by a $22.0 million decrease in refundable reservation payments and a $1.5 million decrease in deferred revenues. The decrease in the refundable reservation payments was due to the launch of the Tesla Roadster during the year ended December 31, 2008. As we continued to deliver the Tesla Roadster to our customers in 2009, we applied the related reservation payments to the respective customers&#146; purchase cost. Cash inflows from the Daimler development agreement were $13.2 million comprised primarily of $23.2 million of development compensation partially offset by a $10.0 million decrease in deferred development compensation. The decrease in deferred development compensation was the result of the amortization of deferred development compensation that we received during the year ended December 31, 2008. 
+
+Cash Flows from Investing Activities 
+
+Cash flows from investing activities primarily relate to capital expenditures to support our growth in operations, including investments in Model S manufacturing, as well as restricted cash that we must maintain in relation to our DOE Loan Facility, facility lease agreements, equipment financing, and certain vendor credit policies. 
+
+Net cash used in investing activities was $175.9 million during the year ended December 31, 2011 primarily related to $197.9 million in purchases of capital equipment and $65.0 million in purchases of short-term marketable securities, partially offset by $50.1 million of net transfers out of our dedicated DOE account in accordance with the provisions of the DOE Loan Facility and $40.0 million from the maturity of short-term marketable securities. The increase in capital purchases was primarily due to significant development and construction activities at the Tesla Factory as well as purchases of Model S related manufacturing equipment and tooling. 
+
+Net cash used in investing activities was $180.3 million during the year ended December 31, 2010 primarily related to capital purchases of $105.4 million and a net increase in restricted cash of $74.9 million. The increase in capital purchases was driven primarily by $65.2 million of payments made in relation to our purchase of our Tesla Factory located in Fremont, California from NUMMI, and certain manufacturing assets located thereon to be used for our Model S manufacturing, as well as $40.2 million primarily related to other Model S capital expenditures, our transition to and build out of our powertrain manufacturing facility and corporate headquarters in Palo Alto, California, and purchases of manufacturing equipment. Our purchase transactions with NUMMI were completed in October 2010. The increase in restricted cash was primarily related to $100.0 million of net proceeds from our IPO and concurrent Toyota private placement that we transferred to a dedicated account as required by our DOE Loan Facility, partially offset by $26.4 million that was transferred out of the dedicated account during the third and fourth quarters of 2010 in accordance with the provisions of the DOE Loan Facility. 
+
+Net cash used in investing activities was $14.2 million during the year ended December 31, 2009 primarily related to capital purchases of $11.9 million and an increase in restricted cash of $2.4 million. The increase in restricted cash was primarily related to standard credit policies required by our online payment vendor and security deposits related to lease agreements and equipment financing. 
+
+Cash Flows from Financing Activities 
+
+We have financed our operations primarily with proceeds from issuances of convertible preferred stock and convertible notes, which provided us with aggregate net proceeds of $296.8 million on a cumulative basis through December 31, 2009, from loans under the DOE Loan Facility beginning in 2010, and more recently, from the net proceeds from our public offerings and private placements of common stock. 
+
+Net cash provided by financing activities was $446.0 million during the year ended December 31, 2011 and was comprised primarily of $231.5 million received from our follow-on public offering and concurrent private 
+
+&#160; 
+
+placements completed in June 2011, $204.4 million received from our draw-downs under the DOE Loan Facility and $10.5 million received from the exercise of common stock options by employees and the purchase of common stock under our employee stock purchase plan. 
+
+Cash provided by financing activities was $338.0 million during the year ended December 31, 2010 comprised primarily of $188.8 million in proceeds from our IPO, $71.8 million we received from our loans under the DOE Loan Facility, $50.0 million in proceeds from the Toyota private placement, $30.0 million in proceeds from the Panasonic private placement, partially offset by $3.7 million of issuance costs we incurred in relation to our DOE Loan Facility and our IPO. 
+
+Cash provided by financing activities was $155.4 million during the year ended December 31, 2009 comprised primarily of $82.4 million in net proceeds from the issuance of Series E convertible preferred stock, $49.4 million in net proceeds from the issuance of Series E convertible preferred stock and $25.5 million in proceeds received from the issuance of convertible notes and warrants. 
+
+Contractual Obligations 
+
+The following table sets forth, as of December 31, 2011 certain significant cash obligations that will affect our future liquidity (in thousands): 
+
+&#160;
+
+##TABLE_START &#160; &#160; Year Ended December 31, &#160; &#160; &#160; Total &#160; &#160; 2012 &#160; &#160; 2013 &#160; &#160; 2014 &#160; &#160; 2015 &#160; &#160; 2016 &#160; &#160; 2017 and thereafter &#160; Operating lease obligations 
+
+&#160; $ 56,768 &#160; &#160; $ 8,480 &#160; &#160; $ 8,489 &#160; &#160; $ 8,163 &#160; &#160; $ 7,330 &#160; &#160; $ 6,168 &#160; &#160; $ 18,138 &#160; Capital lease obligations 
+
+&#160; &#160; 4,228 &#160; &#160; &#160; 1,416 &#160; &#160; &#160; 1,349 &#160; &#160; &#160; 974 &#160; &#160; &#160; 258 &#160; &#160; &#160; 231 &#160; &#160; &#160; &#151; &#160; Long-term debt 
+
+&#160; &#160; 305,461 &#160; &#160; &#160; 13,368 &#160; &#160; &#160; 36,676 &#160; &#160; &#160; 36,064 &#160; &#160; &#160; 35,460 &#160; &#160; &#160; 34,853 &#160; &#160; &#160; 149,040 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; Total 
+
+&#160; $ 366,457 &#160; &#160; $ 23,264 &#160; &#160; $ 46,514 &#160; &#160; $ 45,201 &#160; &#160; $ 43,048 &#160; &#160; $ 41,252 &#160; &#160; $ 167,178 &#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; &#160; &#160;
+
+&#160;
+
+&#160; ##TABLE_END In October 2010, we completed the purchase of our Tesla Factory located in Fremont, California from NUMMI. NUMMI has previously identified environmental conditions at the Fremont site which affect soil and groundwater, and is currently undertaking efforts to address these conditions. Although we have been advised by NUMMI that it has documented and managed the environmental issues, we cannot determine with certainty the potential costs to remediate any pre-existing contamination. Based on management&#146;s best estimate, we estimated the fair value of the environmental liabilities that we assumed to be $5.3 million, which is not reflected in the table above as the timing of any potential payments cannot be reasonably determined at this time. As NUMMI continues with its decommissioning activities and as we continue with our construction and operating activities, it is reasonably possible that our estimate of environmental liabilities may change materially. 
+
+We have reached an agreement with NUMMI under which, over a ten year period, we will pay the first $15.0 million of any costs of any governmentally-required remediation activities for contamination that existed prior to the completion of the facility and land purchase for any known or unknown environmental conditions, and NUMMI has agreed to pay the next $15.0 million for such remediation activities. Our agreement provides, in part, that NUMMI will pay up to the first $15.0 million on our behalf if such expenses are incurred in the first four years of our agreement, subject to our reimbursement of such costs on the fourth anniversary date of the closing. 
+
+On the ten-year anniversary of the closing or whenever $30.0 million has been spent on the remediation activities, whichever comes first, NUMMI&#146;s liability to us with respect to remediation activities ceases, and we are responsible for any and all environmental conditions at the Fremont site. At that point in time, we have agreed to indemnify, defend, and hold harmless NUMMI from all liability and we have released NUMMI for any known or unknown claims except for NUMMI&#146;s obligations for representations and warranties under the agreement. 
+
+&#160; 
+
+As of December 31, 2011 and 2010, we held reservation payments of $91.8 million and $30.8 million from potential customers, respectively, which are not reflected in the table above. As of December 31, 2011, we held reservation payments for undelivered Model S sedans in an aggregate amount of $90.0 million and payments for Tesla Roadsters in an aggregate amount of $1.8 million. As of December 31, 2010, we held reservation payments for undelivered Model S sedans in an aggregate amount of $28.3 million and payments for Tesla Roadsters in an aggregate amount of $2.5 million. In order to convert the reservation payments into revenue, we will need to sell vehicles to these customers. All reservation payments for Model S are fully refundable until such time that a customer enters into a purchase agreement. 
+
+Off-Balance Sheet Arrangements 
+
+During the periods presented, we did not have relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities, which would have been established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes. 
+
+&#160;
+
+##TABLE_START 
+
+Instruction: 
+Delve into a detailed scrutiny of the company's balance sheet for the most recent fiscal year, pinpointing 
+the structure of assets, liabilities, and shareholders' equity to decode the firm's financial stability and 
+operational efficiency. Focus on evaluating the liquidity through current assets versus current liabilities, 
+the solvency via long-term debt ratios, and the equity position to gauge long-term investment potential. 
+Contrast these metrics with previous years' data to highlight financial trends, improvements, or deteriorations. 
+Finalize with a strategic assessment of the company's financial leverage, asset management, and capital structure, 
+providing insights into its fiscal health and future prospects in a single paragraph. Less than 130 words.

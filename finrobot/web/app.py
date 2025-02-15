@@ -10,6 +10,7 @@ import queue
 import threading
 import io
 from textwrap import dedent
+import time
 
 import streamlit as st
 from streamlit.runtime.scriptrunner import add_script_run_ctx
@@ -194,17 +195,34 @@ class StreamlitAssistant:
             raise
         
     def chat(self, message: str, **kwargs):
-        """Start a chat session in a separate thread"""
+        """Start a chat session in a separate thread with proper cleanup"""
         def chat_thread():
             try:
                 logger.info("Starting chat with message: %s", message)
+                # Clear any existing messages in queue
+                while not self.message_queue.empty():
+                    try:
+                        self.message_queue.get_nowait()
+                    except queue.Empty:
+                        break
+                
+                # Start the chat
                 self.assistant.chat(message, **kwargs)
                 logger.info("Chat completed")
             except Exception as e:
                 logger.error("Error in chat: %s", str(e))
+                # Add error message to queue
+                self.message_queue.put({
+                    "role": "assistant",
+                    "content": f"An error occurred: {str(e)}",
+                    "metadata": {"error": True}
+                })
                 raise
         
+        # Create and start thread with Streamlit context
         thread = threading.Thread(target=chat_thread)
+        add_script_run_ctx(thread)
+        thread.daemon = True  # Make thread daemon so it doesn't block program exit
         thread.start()
         return thread
 
@@ -661,27 +679,54 @@ def main():
     if prompt := st.chat_input("Message FinRobot..."):
         logger.info("Received user input: %s", prompt)
         
-        # Add user message to session state without displaying it
-        # (Streamlit's chat_input automatically displays the message)
+        # Add user message to session state
         user_message = {"role": "user", "content": prompt}
         st.session_state.messages.append(user_message)
         
         try:
-            # Start chat in background
-            chat_thread = st.session_state.assistant.chat(prompt)
-            
-            # Process messages from queue
-            while chat_thread.is_alive() or not st.session_state.assistant.message_queue.empty():
-                try:
-                    msg = st.session_state.assistant.message_queue.get_nowait()
-                    logger.info("Received message: %s", msg)
-                    st.session_state.messages.append(msg)
-                    display_message(msg)
-                except queue.Empty:
-                    continue
+            # Start chat in background with progress indicator
+            with st.spinner("Processing your request..."):
+                chat_thread = st.session_state.assistant.chat(prompt)
+                
+                # Process messages with timeout
+                start_time = time.time()
+                timeout = 60  # 1 minute timeout
+                
+                while (time.time() - start_time < timeout and 
+                       (chat_thread.is_alive() or not st.session_state.assistant.message_queue.empty())):
+                    try:
+                        # Try to get message with short timeout
+                        msg = st.session_state.assistant.message_queue.get(timeout=0.1)
+                        
+                        # Check for error message
+                        if isinstance(msg, dict) and msg.get("metadata", {}).get("error"):
+                            st.error(msg["content"])
+                            break
+                            
+                        # Add and display message
+                        st.session_state.messages.append(msg)
+                        display_message(msg)
+                        
+                    except queue.Empty:
+                        continue
+                    except Exception as e:
+                        logger.error("Error processing message: %s", str(e))
+                        st.error(f"Error processing message: {str(e)}")
+                        break
+                
+                # Check for timeout
+                if time.time() - start_time >= timeout:
+                    st.error("Request timed out. Please try again with a simpler query.")
                     
+                # Clean up any remaining messages
+                while not st.session_state.assistant.message_queue.empty():
+                    try:
+                        st.session_state.assistant.message_queue.get_nowait()
+                    except queue.Empty:
+                        break
+                        
         except Exception as e:
-            logger.error("Error processing chat: %s", str(e))
+            logger.error("Error in chat: %s", traceback.format_exc())
             st.error(f"An error occurred: {str(e)}")
 
 if __name__ == "__main__":
