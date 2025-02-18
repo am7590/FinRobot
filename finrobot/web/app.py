@@ -544,37 +544,15 @@ def generate_annual_report(ticker: str, year: str):
         # Create the report generation message with more practical guidelines
         message = dedent(
             f"""
-            Generate an annual report for {ticker}'s {year} 10-k report, following these guidelines:
+            With the tools you've been provided, write an annual report based on {ticker}'s {year} 10-k report, format it into a pdf.
+            Pay attention to the followings:
+            - Explicitly explain your working plan before you kick off.
+            - Use tools one by one for clarity, especially when asking for instructions.
+            - All your file operations should be done in "{work_dir}".
+            - Display any image in the chat once generated.
+            - All the paragraphs should combine between 400 and 450 words, don't generate the pdf until this is explicitly fulfilled.
 
-            1. Working Plan:
-            - First, explain your step-by-step plan before starting
-            - Use tools one by one for clarity
-            - All file operations should be done in "{work_dir}"
-            - Display any generated images in the chat
-            - Save the final PDF as "{pdf_filename}"
-
-            2. Content Guidelines:
-            - Each section should be 500-1000 words, focusing on quality and readability
-            - Include the full analysis text directly in the PDF, not just references to text files
-            - Ensure key information is clearly presented
-            - Avoid redundancy and filler content
-            - Use bullet points or numbered lists where appropriate
-
-            3. Section Requirements:
-            - Business Overview: Company background, core business model, market overview
-            - Market Position: Industry standing, competitive advantages, growth opportunities
-            - Operating Results: Key financial metrics, performance analysis, segment breakdown
-            - Risk Assessment: Major risks and mitigation strategies
-            - Charts: Include performance visualizations
-
-            4. PDF Generation:
-            - Include the complete text of each analysis directly in the PDF
-            - DO NOT just reference text files in the PDF
-            - Ensure proper formatting and readability
-            - Include all charts and visualizations
-            - Save the PDF as "{pdf_filename}"
-
-            Begin by outlining your plan, then proceed with the analysis step by step.
+            Save the final PDF as "{pdf_filename}".
             """
         )
         
@@ -589,30 +567,43 @@ def generate_annual_report(ticker: str, year: str):
                 message_queue = queue.Queue()
                 
                 # Start the chat
-                thread = assistant.chat(message, max_turns=50)
+                assistant.chat(message, max_turns=50)
                 
                 # Process messages from queue
-                while thread.is_alive() or not assistant.message_queue.empty():
+                while not assistant.message_queue.empty():
                     try:
                         msg = assistant.message_queue.get_nowait()
                         st.session_state.messages.append(msg)
                         display_message(msg)
                     except queue.Empty:
                         continue
+                    except Exception as e:
+                        logger.error(f"Error processing message: {str(e)}")
+                        logger.error(f"Traceback: {traceback.format_exc()}")
+                        st.error(f"Error processing message: {str(e)}")
+                        break
                         
             except Exception as e:
-                logger.error("Error in chat thread: %s", str(e))
-                logger.error("Traceback: %s", traceback.format_exc())
+                logger.error(f"Error in chat thread: {str(e)}")
+                logger.error(f"Traceback: {traceback.format_exc()}")
                 st.error(f"Error generating report: {str(e)}")
         
+        # Create and start thread with Streamlit context
         thread = threading.Thread(target=chat_thread)
         add_script_run_ctx(thread)
         thread.start()
         
-        # Wait for the thread to complete
-        while thread.is_alive():
-            st.spinner("Generating annual report...")
-            thread.join(0.1)
+        # Wait for the thread to complete with timeout
+        timeout = 600  # 10 minutes timeout
+        start_time = time.time()
+        
+        while thread.is_alive() and (time.time() - start_time < timeout):
+            with st.spinner("Generating annual report..."):
+                thread.join(0.1)
+                
+        if thread.is_alive():
+            st.error("Report generation timed out. Please try again.")
+            return
         
         # Display the generated PDF
         pdf_path = os.path.join(work_dir, pdf_filename)
@@ -649,7 +640,7 @@ def generate_annual_report(ticker: str, year: str):
         }
         st.session_state.messages.append(error_message)
         display_message(error_message)
-        logger.error("Error generating annual report: %s", traceback.format_exc())
+        logger.error(f"Error generating annual report: {traceback.format_exc()}")
 
 def main():
     st.set_page_config(
