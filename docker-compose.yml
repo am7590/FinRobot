@@ -1,0 +1,24 @@
+version: "3.8"
+
+services:
+  finrobot:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./report:/app/report
+      - ./data:/app/data
+      - ./logs:/app/logs
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - FINNHUB_API_KEY=cua4i81r01qkpes46kggcua4i81r01qkpes46kh0
+      - FMP_API_KEY=4CjNAaDa4yM0dk4GQbzZTdGBe48UtEOs
+      - SEC_API_KEY=a7b4ea6c7d8419b729f46c39fe6e64164bb805d5a5c62f1f2d23088d673afeaf
+      - REDDIT_CLIENT_ID=GAQ7RNkwUDlL3oy0RUOdNA
+      - REDDIT_CLIENT_SECRET=u_Hq3YKwfc9xcaT58z2qtGTVYKPuHw
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    restart: unless-stopped
