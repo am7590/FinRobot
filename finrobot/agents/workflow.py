@@ -16,8 +16,8 @@ from abc import ABC, abstractmethod
 from ..toolkits import register_toolkits
 from ..functional.rag import get_rag_function
 from .utils import *
-from .prompts import leader_system_message, role_system_message, EXPERT_INVESTOR_PROMPT
-from queue import Queue
+from .prompts import leader_system_message, role_system_message
+import os
 
 
 class FinRobot(AssistantAgent):
@@ -209,41 +209,46 @@ class SingleAssistantRAG(SingleAssistant):
         self.rag_assistant.reset()
 
 
-class SingleAssistantShadow:
-    def __init__(self, agent_config: str, llm_config: Dict, max_consecutive_auto_reply: int = None, 
-                 human_input_mode: str = "ALWAYS", report_dir: str = None):
-        self.report_dir = report_dir or "report"
+class SingleAssistantShadow(SingleAssistant):
+
+    def __init__(
+        self,
+        agent_config: str | Dict[str, Any],
+        llm_config: Dict[str, Any] = {},
+        is_termination_msg=lambda x: x.get("content", "")
+        and x.get("content", "").endswith("TERMINATE"),
+        human_input_mode="NEVER",
+        max_consecutive_auto_reply=10,
+        code_execution_config: Optional[Dict] = None,
+        **kwargs,
+    ):
+        # Set up default code execution config
+        if code_execution_config is None:
+            code_execution_config = {
+                "work_dir": os.path.join(os.getcwd(), "report"),
+                "use_docker": False
+            }
         
-        # Initialize assistant using FinRobot pattern
-        self.assistant = FinRobot(
-            agent_config=agent_config,
-            llm_config=llm_config
-        )
+        # Ensure work_dir exists and has proper permissions
+        os.makedirs(code_execution_config["work_dir"], exist_ok=True)
+        os.chmod(code_execution_config["work_dir"], 0o777)
         
-        # Create user proxy
-        self.user_proxy = UserProxyAgent(
-            name="User_Proxy",
+        super().__init__(
+            agent_config,
+            llm_config=llm_config,
+            is_termination_msg=is_termination_msg,
             human_input_mode=human_input_mode,
             max_consecutive_auto_reply=max_consecutive_auto_reply,
-            code_execution_config={
-                "work_dir": self.report_dir,
-                "use_docker": False,
-                "last_n_messages": 3,
-            },
-            llm_config=False,
-            system_message="You are a user proxy. Always ask for human input."
+            code_execution_config=code_execution_config,
+            **kwargs,
         )
         
-        # Register proxy with assistant
-        self.assistant.register_proxy(self.user_proxy)
+        # Store original receive_message from assistant
+        self._original_receive = self.assistant.receive
 
-    def chat(self, message: str, max_turns: int = 10):
-        """Start a chat between assistant and user proxy"""
-        self.user_proxy.initiate_chat(
-            self.assistant,
-            message=message,
-            max_turns=max_turns
-        )
+    def receive_message(self, message):
+        """Wrapper around assistant's receive method"""
+        return self._original_receive(message)
 
 
 """
